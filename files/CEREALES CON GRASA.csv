@@ -1,0 +1,199 @@
+GRUPO,ALIMENTOS,Cantidad sugerida,Unidad,Peso bruto redondeado (g),Peso neto (g),Energia (Kcal),Proteina (g),Lípidos (g),Hidratos de carbono (g),Fibra (g),Acido Fólico (µg),Calcio (mg),Hierro (mg),sodio (mg),Azúcar por equivalente (g),indice glicémuco,Carga glicémica
+CEREALES CON GRASA,Barra Choco Krispis,1,barra,19,19,17,1.0,1.5,15.0,0.5,0.0,0.0,0.0,90.6,ND,ND,ND
+CEREALES CON GRASA,Barra de fruta con Avena fresa,30,g,30,30,120,1.6,4.8,17.7,1.9,0.0,0.0,0.0,54.9,ND,ND,ND
+CEREALES CON GRASA,Barra de granola,3/4,pieza,21,21,101,2.2,4.2,13.7,1.1,5.3,12.8,0.6,62.3,ND,ND,ND
+CEREALES CON GRASA,Barra multigrano linaza,20,g,20,20,99,1.9,4.8,12.0,1.4,0.0,0.0,0.0,36.9,ND,ND,ND
+CEREALES CON GRASA,Barra zucaritas,1,barra,21,21,90,1.0,2.0,16.0,0.5,0.0,0.0,0.0,100.0,ND,ND,ND
+CEREALES CON GRASA,Barra Chewy para niños varios sabores,1,paquete,23,23,95,1.6,2.3,17.0,1.5,0.0,0.0,0.0,69.9,ND,ND,ND
+CEREALES CON GRASA,Barrita de granola con cacahuate,1/3,pieza,19,19,87,1.4,5.0,11.0,0.7,0.0,9.6,0.2,31.7,5.9,ND,ND
+CEREALES CON GRASA,Barrita de granola con choco chip,1,pieza,28,28,119,2.1,4.7,19.6,1.4,6.0,26.0,0.7,77.0,ND,ND,ND
+CEREALES CON GRASA,Barrita de granola con pasitas y nuez,3/4,pieza,21,21,87,1.7,4.4,13.5,1.2,6.8,18.0,0.5,54.0,ND,ND,ND
+CEREALES CON GRASA,Barrita de granola cubierta con chocolate,3/4,pieza,21,21,98,1.2,5.3,13.4,0.8,5.3,21.8,0.5,42.0,ND,ND,ND
+CEREALES CON GRASA,Barrita de fresa,1/3,pieza,21,21,97,1.1,3.9,14.4,0.3,26.4,0.0,1.0,36.6,ND,50.0,10.6
+CEREALES CON GRASA,Barrita marinela,20,g,20,20,91,0.7,3.8,13.4,0.2,0.0,0.0,0.0,32.5,ND,ND,ND
+CEREALES CON GRASA,Base para pay,20,g,20,20,110,1.0,8.0,9.0,0.0,0.0,0.0,0.4,150.0,ND,ND,ND
+CEREALES CON GRASA,Bigote relleno de chocolate,1/3,pieza,21,21,93,1.5,4.6,11.3,0.4,0.0,0.0,0.0,55.2,ND,ND,ND
+CEREALES CON GRASA,Bigote de cajeta,1/3,pieza,22,22,103,2.4,5.0,9.0,0.0,23.1,39.6,0.4,131.5,ND,ND,ND
+CEREALES CON GRASA,Bigotes de chocolate,1/3,pieza,22,22,103,2.4,5.0,9.0,0.0,23.1,39.6,0.4,131.5,ND,ND,ND
+CEREALES CON GRASA,Bigotes miniatura de cajeta,2,pieza,26,26,119,2.8,5.8,10.5,0.0,26.8,45.9,0.5,152.4,ND,ND,ND
+CEREALES CON GRASA,Bimbuñuelos,2,pieza,30,30,120,0.9,5.8,16.0,0.0,0.0,0.0,0.0,103.6,ND,ND,ND
+CEREALES CON GRASA,Bisquet,1/2,pieza,33,33,118,2.0,5.4,15.8,0.5,1.9,15.8,1.1,341.7,ND,ND,ND
+CEREALES CON GRASA,Botanas con proteinas de amaranto,1/2,bolsa,20,20,101,1.5,5.8,10.1,0.5,0.0,0.0,0.0,100.4,ND,ND,ND
+CEREALES CON GRASA,Brownie casero,1,pieza,24,24,112,1.5,7.0,12.0,0.0,4.0,14.0,0.4,82.0,ND,ND,ND
+CEREALES CON GRASA,Brownie comercial,1/2,pieza,28,28,114,1.4,4.6,17.9,0.6,3.5,8.0,0.6,87.5,ND,ND,ND
+CEREALES CON GRASA,Charritos de amaranto,1/2,bolsa,20,20,101,1.5,5.8,10.1,0.5,0.0,0.0,0.0,100.4,ND,ND,ND
+CEREALES CON GRASA,Cheescake,1,rebanada,30,30,96,1.7,6.8,7.7,0.1,0.0,0.0,0.0,0.0,ND,ND,ND
+CEREALES CON GRASA,Cheetos,20,g,20,20,110,0.8,7.2,10.4,0.0,0.0,0.0,0.0,128.0,ND,ND,ND
+CEREALES CON GRASA,Cheetos poffs,20,g,20,20,106,1.6,6.4,10.4,0.6,0.0,0.0,0.0,158.0,ND,ND,ND
+CEREALES CON GRASA,Chetos torciditos,20,g,20,20,108,1.0,7.0,10.2,0.4,0.0,0.0,0.0,126.0,ND,ND,ND
+CEREALES CON GRASA,Chicharrón de harina enchilado,1/2,bolsa,23,23,106,2.1,5.6,12.5,0.9,0.0,0.0,0.0,0.0,ND,ND,ND
+CEREALES CON GRASA,Chips ahoy,2,pieza,19,19,91,1.0,4.0,12.6,0.3,0.0,0.0,0.0,65.9,ND,ND,ND
+CEREALES CON GRASA,Chips de platano,3/7,bolsa individual,21,21,109,0.5,7.1,12.3,1.7,0.0,0.0,0.0,0.0,7.4,ND,ND
+CEREALES CON GRASA,Choco chispas,4,pieza,18,18,93,1.0,0.2,12.7,0.2,0.0,0.0,0.0,49.2,ND,ND,ND
+CEREALES CON GRASA,Churritos barcel,1/4,paquete,15,15,83,0.8,5.5,7.7,0.7,0.0,0.0,0.0,191.7,ND,ND,ND
+CEREALES CON GRASA,Concha! pan dulce,1/3,pieza,21,21,87,2.3,3.7,11.1,0.0,0.0,7.9,1.0,82.4,ND,ND,ND
+CEREALES CON GRASA,Costra para pay casera,90,g,90,90,109,1.4,7.2,9.8,0.4,0.0,0.0,0.0,0.0,ND,ND,ND
+CEREALES CON GRASA,Costra para pay congelada,125,g,125,125,101,1.3,5.8,11.3,0.6,0.0,0.0,0.0,0.0,0.9,ND,ND
+CEREALES CON GRASA,Croissant,1/2,pieza mediana,29,29,116,2.3,6.0,13.1,0.7,37.1,10.5,0.6,133.1,3.2,ND,ND
+CEREALES CON GRASA,Croissant de manzana,3/4,pieza mediana,43,43,109,3.2,3.7,15.9,1.1,37.6,12.8,0.5,117.1,ND,ND,ND
+CEREALES CON GRASA,Croissant de queso,1/2,pieza mediana,29,29,118,2.6,6.0,13.4,0.7,29.4,15.1,0.6,102.9,3.2,ND,ND
+CEREALES CON GRASA,Croutones sazonados,3/4,taza,23,23,105,2.4,4.1,14.3,1.1,9.0,21.4,0.6,278.4,ND,ND,ND
+CEREALES CON GRASA,Cuernitos,1/2,pieza mediana,29,29,116,2.3,6.0,13.1,0.7,37.1,10.5,0.6,133.1,3.2,ND,ND
+CEREALES CON GRASA,Cuernitos de manzana,3/4,pieza mediana,43,43,109,3.2,3.7,15.9,1.1,37.6,12.8,0.5,117.1,ND,ND,ND
+CEREALES CON GRASA,Cuernitos de queso,1/2,pieza mediana,29,29,118,2.6,6.0,13.4,0.7,29.4,15.1,0.6,102.9,3.2,ND,ND
+CEREALES CON GRASA,Cuernos,1/2,pieza mediana,29,29,116,2.3,6.0,13.1,0.7,37.1,10.5,0.6,133.1,3.2,ND,ND
+CEREALES CON GRASA,Cupcake de chocolate,1/2,pieza ,30,30,105,1.0,3.5,18.0,1.0,0.0,0.0,0.0,0.0,13.0,ND,ND
+CEREALES CON GRASA,Dalmata,1/3,pieza,19,19,83,0.8,4.0,10.9,0.2,0.0,0.0,0.0,47.9,ND,ND,ND
+CEREALES CON GRASA,Dona,1/3,pieza,21,21,90,1.0,4.9,10.7,0.3,1.8,9.6,0.4,117.3,3.6,76.0,16.3
+CEREALES CON GRASA,Dona azucarada,1/3,pieza,21,21,90,1.0,4.9,10.7,0.3,1.8,9.6,0.4,117.3,3.6,76.0,16.3
+CEREALES CON GRASA,Dona glaseada de chocolate,1/3,pieza,21,21,102,1.0,6.6,10.3,0.4,3.5,7.5,0.5,91.8,ND,ND,ND
+CEREALES CON GRASA,Dona glaseada sabor chocolate,1/3,pieza,21,21,102,1.0,6.6,10.3,0.4,3.5,7.5,0.5,91.8,ND,ND,ND
+CEREALES CON GRASA,Dona glaseada,1/3,pieza,21,21,90,1.0,4.9,10.7,0.3,1.8,9.6,0.4,117.3,3.6,76.0,16.3
+CEREALES CON GRASA,Doraditas,1/2,pieza,18,18,98,0.9,5.0,12.3,0.0,0.0,0.0,0.0,139.3,ND,ND,ND
+CEREALES CON GRASA,Doritos incognita,1/3,paquete,19,19,90,15.4,4.5,10.8,1.0,0.0,0.0,0.0,196.0,ND,ND,ND
+CEREALES CON GRASA,Doritos nachos,1/3,paquete,20,20,95,1.6,5.0,11.0,1.0,0.0,0.0,0.0,152.0,ND,ND,ND
+CEREALES CON GRASA,Doritos pizzerolas,1/3,paquete,19,19,93,1.4,4.9,10.8,1.0,0.0,0.0,0.0,213.5,ND,ND,ND
+CEREALES CON GRASA,Eclair de chocolate,1/2,pieza,29,29,98,1.3,4.6,12.8,0.0,0.0,5.5,0.4,32.5,ND,ND,ND
+CEREALES CON GRASA,Fritos,20,g,20,20,110,1.6,7.2,9.6,1.6,0.0,0.0,0.0,144.0,ND,ND,ND
+CEREALES CON GRASA,Frituras de maíz con chile y limón,1/3,bolsa,19,19,84,0.8,5.3,8.3,0.0,0.0,0.0,1.4,218.2,ND,64.0,12.0
+CEREALES CON GRASA,Frituras de maíz con limón y sal,1/3,bolsa,19,19,84,0.8,5.3,8.3,0.0,0.0,0.0,1.4,218.2,ND,64.0,12.0
+CEREALES CON GRASA,Fruitcake,1/3,rebanada,32,32,104,0.9,2.9,19.9,1.2,0.0,0.0,0.0,0.0,9.6,ND,ND
+CEREALES CON GRASA,Galletas con chispa de chocolate,3,pieza,21,21,105,1.3,5.3,13.8,0.7,0.0,0.0,0.0,72.2,6.6,ND,ND
+CEREALES CON GRASA,Galletas cubierta de chocolate,1 1/2,pieza,21,21,103,1.2,5.0,14.2,0.7,2.3,12.0,0.8,61.5,ND,ND,ND
+CEREALES CON GRASA,Galleta de avena,1,pieza,18,18,81,1.1,3.3,12.4,0.5,1.0,7.0,0.5,69.0,ND,ND,ND
+CEREALES CON GRASA,Galleta de avena con pasas,2,pieza,25,25,110,1.0,5.0,15.0,0.0,0.0,0.0,0.0,75.0,ND,ND,ND
+CEREALES CON GRASA,Galleta de avena y manzana,1,pieza,24,24,108,0.9,3.5,17.6,0.0,0.0,23.0,0.3,106.5,ND,ND,ND
+CEREALES CON GRASA,Galleta de chocolate con relleno cremoso,2 1/2,pieza,23,23,106,1.3,4.6,16.5,0.7,0.0,0.0.,0.0,0.0,9.3,ND,ND
+CEREALES CON GRASA,Galleta de chocolate con relleno cremoso baja en grasa,3,pieza,27,27,119,1.6,3.6,20.6,0.8,0.0,0.0,0.0,0.0,11.1,ND,ND
+CEREALES CON GRASA,Galleta de crema de cacahuate,1 1/2,pieza,23,23,108,2.1,5.3,13.2,0.5,7.5,7.5,0.6,93.0,ND,ND,ND
+CEREALES CON GRASA,Galleta de malvavisco con chocolate,2,pieza,26,26,110,1.0,4.4,17.6,0.6,2.0,12.0,0.7,44.0,ND,ND,ND
+CEREALES CON GRASA,Galleta de nuez,1 1/2,pieza,23,23,110,1.5,4.5,15.8,1.9,0.0,0.0,0.0,131.2,5.2,ND,ND
+CEREALES CON GRASA,Galleta integral,4,pieza,20,20,95,1.7,3.6,13.9,1.1,0.0,0.0,0.0,180.0,0.5,ND,ND
+CEREALES CON GRASA,Galleta integral con miel,4,pieza,24,24,110,1.9,3.2,18.2,0.6,0.0,0.0,0.0,90.8,5.2,ND,ND
+CEREALES CON GRASA,Galleta integral de miel,4,pieza,24,24,110,1.9,3.2,18.2,0.6,0.0,0.0,0.0,90.8,5.2,ND,ND
+CEREALES CON GRASA,Galleta integral de trigo,4,pieza,28,28,113,2.4,3.9,19.1,1.6,0.0,6.4,0.1,153.2,ND,ND,ND
+CEREALES CON GRASA,Galleta integral molida,4,cucharada,24,24,114,2.1,4.3,16.6,1.4,0.0,0.0,0.0,216.0,0.6,ND,ND
+CEREALES CON GRASA,Galleta O´reo,2,pieza,18,18,86,0.9,3.8,12.2,0.4,0.0,0.0,0.0,84.8,ND,ND,ND
+CEREALES CON GRASA,Galleta salada cremosa,7,pieza,22,22,112,1.4,5.6,14.0,0.0,0.0,0.0,0.0,189.0,1.4,ND,ND
+CEREALES CON GRASA,Galleta sandwich,2,pieza,21,21,91,0.8,2.1,16.5,0.8,0.0,0.0,0.0,181.1,9.1,ND,ND
+CEREALES CON GRASA,Galleta sandwich chocolate,2,pieza,21,21,91,0.8,2.1,16.5,0.8,0.0,0.0,0.0,181.1,9.1,ND,ND
+CEREALES CON GRASA,Galleta sandwuich de vainilla,2,pieza,21,21,91,0.8,25.1,16.5,0.8,0.0,0.0,0.0,181.1,9.1,ND,ND
+CEREALES CON GRASA,Galleta wafers,6,pieza,21,21,105,0.8,4.5,15.8,0.8,0.0,0.0,0.0,30.0,9.8,ND,ND
+CEREALES CON GRASA,Galletas con almendras,1 1/2,pieza,21,21,113,0.8,7.4,12.8,ND,0.0,0.0,0.0,0.0,9.8,ND,ND
+CEREALES CON GRASA,Galletas con chispas de chocolate,1/2,pieza,16,16,80,1.0,4.0,10.5,0.0,0.0,0.0,0.0,.0.,5.0,ND,ND
+CEREALES CON GRASA,Galletas con chispas de chocolate bajas en grasa,2,pieza,20,20,90,1.2,33.0,14.6,0.8,0.0,0.0,0.0,0.0,ND,ND,ND
+CEREALES CON GRASA,Galletas con chispas de chocolate con mantequilla casera,1 1/2,pieza,24,24,117,1.4,6.8,14.0,ND,0.0,0.0,0.0,0.0,ND,ND,ND
+CEREALES CON GRASA,Galletas de manzana con pasas,1,pieza,26,26,113,1.3,4.3,17.2,0.6,0.0,0.0,0.0,0.0,8.8,ND,ND
+CEREALES CON GRASA,Gansito,25,g,25,25,99,1.1,3.9,14.9,0.6,0.0,0.0,0.0,55.5,ND,ND,ND
+CEREALES CON GRASA,Granola con almendras,3,cucharada,21,21,98,2.5,3.5,14.1,1.1,7.0,18.1,0.9,7.0,4.3,ND,ND
+CEREALES CON GRASA,Granola con avena y miel,3,cucharada,21,21,96,2.3,4.0,13.7,1.4,6.6,26.7,0.5,8.8,5.7,ND,ND
+CEREALES CON GRASA,Granola con pasitas y dátiles,3,cucharada,21,21,92,2.1,2.9,15.2,1.3,6.7,16.1,0.9,5.3,6.1,ND,ND
+CEREALES CON GRASA,Granola estándar,3,cucharada,21,21,97,2.3,4.0,14.1,1.1,0.0,0.0,0.0,8.2,ND,ND,ND
+CEREALES CON GRASA,Granola Thins Nature Valley,1,pieza,17,17,80,1.0,4.0,11.0,1.0,0.0,0.0,0.0,75.0,ND,ND,ND
+CEREALES CON GRASA,Habaneras Bran Arándanos Ciruela,35,g,35,35,113,2.7,4.3,16.0,3.0,0.0,0.0,0.0,171.5,ND,ND,ND
+CEREALES CON GRASA,Harina de algodón  baja  en grado,4,cucharada,32,32,106,15.9,0.4,11.5,0.0,0.0,0.0,0.0,57.6,ND,ND,ND
+CEREALES CON GRASA,harina de cacahuate,4,cucharada,32,32,105,16.7,0.2,11.1,5.1,0.0,0.0,0.0,13.2,2.6,ND,ND
+CEREALES CON GRASA,Harina de girasol parcialmente desgrasada,4,cucharada,32,32,105,15.4,0.5,11.5,1.7,0.0,0.0,0.0,0.0,ND,ND,ND
+CEREALES CON GRASA,Harina de sésamo baja en grasa,4,cucharada,32,32,107,16.0,0.6,11.4,0.0,0.0,0.0,0.0,6.4,ND,ND,ND
+CEREALES CON GRASA,Harina de soya baja en grasa,4,cucharada,32,32,120,14.5,2.8,11.2,5.1,0.0,0.0,0.0,1.0,3.4,ND,ND
+CEREALES CON GRASA,Harina de soya desgrasada,4,cucharada,32,32,106,15.0,0.4,12.3,5.6,0.0,0.0,0.0,4.2,6.0,ND,ND
+CEREALES CON GRASA,Harina de soya fill fat,3,cucharada,24,24,105,8.3,4.9,8.5,2.3,0.0,0.0,0.0,2.2,1.8,ND,ND
+CEREALES CON GRASA,Hojaldra,1/3,pieza,28,28,115,2.3,6.0,13.0,0.7,8.0,10.4,0.6,210.8,ND,ND,ND
+CEREALES CON GRASA,Kinder delice,1/2,paquete,21,21,95,1.0,5.9,9.0,0.5,0.0,0.0,0.0,20.0,ND,ND,ND
+CEREALES CON GRASA,Macarrón con queso,1/4,taza,50,50,108,4.2,5.6,10.1,0.0,0.0,90.5,0.5,271.5,ND,ND,ND
+CEREALES CON GRASA,Madalena,3/4,pieza,20,20,92,1.6,4.2,8.9,0.0,0.0,0.0,0.0,85.0,ND,ND,ND
+CEREALES CON GRASA,Maíz palomero con mantequilla horno de microondas,2 1/2,taza,38,38,115,3.5,2.6,25.4,6.1,0.0,20.0,0.2,383.8,ND,ND,ND
+CEREALES CON GRASA,Marías Gamesa Cereale Chocoplátano,20,g,20,20,120,1.4,2.7,12.6,1.7,0.0,0.0,0.0,84.0,ND,ND,ND
+CEREALES CON GRASA,Marías Gamesa Cereale Fresa,30,g,30,30,121,2.1,4.1,18.9,2.5,0.0,0.0,0.0,126.0,ND,ND,ND
+CEREALES CON GRASA,Muffin con mantequilla,1/3,pieza,37,37,112,2.9,3.4,18.0,0.0,10.1,61.0,0.9,228.5,ND,ND,ND
+CEREALES CON GRASA,Muffin de blueberry,1/4,pieza,28,28,107,1.3,4.5,15.0,0.3,20.6,13.0,0.4,95.8,9.3,59.0,16.7
+CEREALES CON GRASA,Muffin de maíz,1/3,pieza,37,37,114,2.2,3.1,19.0,1.2,12.4,27.5,1.0,194.3,2.8,49.0,18.3
+CEREALES CON GRASA,Muffin integral,1/3,pieza,37,37,11,2.6,2.8,18.0,1.7,51.8,23.5,1.6,146.5,3.1,60.0,22.4
+CEREALES CON GRASA,Muffin integral con pasas,1/3,pieza,37,37,118,2.5,3.2,19.9,2.5,0.0,42.4,1.8,200.6,ND,ND,ND
+CEREALES CON GRASA,Nachos,3,pieza,21,21,106,1.7,5.5,13.3,1.1,3.0,31.5,0.3,150.8,ND,ND,ND
+CEREALES CON GRASA,Nature valley,1/2,barra,18,18,70,1.5,2.0,12.5,1.5,0.0,0.0,0.0,32.5,ND,ND,ND
+CEREALES CON GRASA,Nature valley barra granola con manzana,1,pieza,21,21,90,1.5,3.2,13.0,1.2,0.0,0.0,0.0,65.0,ND,ND,ND
+CEREALES CON GRASA,Oreja,1/3,pieza,17,17,81,1.0,4.4,9.6,0.2,13.2,0.0,0.3,50.8,ND,ND,ND
+CEREALES CON GRASA,Orejas de pan dulce,1/3,pieza,17,17,81,1.0,4.4,9.6,0.2,13.2,0.0,0.3,50.8,ND,ND,ND
+CEREALES CON GRASA,Palomitas con queso,3/4,taza,21,21,110,2.0,7.0,10.8,2.1,2.3,24.0,0.5,186.8,ND,ND,ND
+CEREALES CON GRASA,Palomitas garapiñadas,3/4,taza,21,21,91,0.8,2.7,16.6,1.1,1.1,0.9,0.4,43.3,11.2,ND,ND
+CEREALES CON GRASA,Pan de ajo,1,pieza,28,28,93,2.0,3.9,12.3,1.0,0.0,49.1,0.9,142.5,2.5,ND,ND
+CEREALES CON GRASA,Pan de ajo con queso,1,pieza,28,28,98,2.5,4.9,11.3,1.0,0.0,98.2,0.7,211.2,1.0,ND,ND
+CEREALES CON GRASA,Pan dulce! orejas,1/3,pieza,17,17,81,1.0,4.4,9.6,0.2,13.2,0.0,0.3,50.8,ND,ND,ND
+CEREALES CON GRASA,Pan de jenjibre,1,rebanada,28,28,100,1.1,4.6,13.8,ND,0.0,0.0,0.0,0.0,ND,ND,ND
+CEREALES CON GRASA,Pan de muesli,1,rebanada,28,28,94,2.5,3.6,13.2,1.4,0.0,0.0,0.0,124.9,ND,54.0,15.1
+CEREALES CON GRASA,Pan tipo muffin con mantequilla,1/3,pieza,37,37,112,2.9,3.4,18.0,0.0,10.1,61.0,0.9,228.5,ND,ND,ND
+CEREALES CON GRASA,Pan tipo muffin de fruta,1/4,pieza,28,28,107,1.3,4.5,15.0,0.3,20.6,13.0,0.4,95.8,9.3,ND,ND
+CEREALES CON GRASA,pan tipo muffin de maíz,1/3,pieza,37,37,144,2.2,3.1,19.0,1.2,12.4,27.5,1.0,194.3,2.8,49.0,18.3
+CEREALES CON GRASA,Pan tipo muffin integral,1/3,pieza,37,37,101,2.6,2.8,18.0,1.7,51.8,23.5,1.6,146.5,3.1,60.0,22.4
+CEREALES CON GRASA,Panqué,1/2,rebanada,20,20,84,1.3,4.3,9.8,0.2,0.0,10.4,0.3,71.4,5.7,ND,ND
+CEREALES CON GRASA,Panqué con mantequilla,1/2,rebanada,20,20,84,1.3,4.3,9.8,ND,0.0,10.4,3.0,71.4,ND,ND,ND
+CEREALES CON GRASA,Panqué de nata,1/2,rebanada,23,23,97,1.4,5.6,10.7,0.0,3.4,5.5,0.4,65.0,ND,ND,ND
+CEREALES CON GRASA,Panqué de salvado,1,rebanada,40,40,118,1.6,5.6,13.6,1.2,0.0,19.2,0.6,79.2,3.2,ND,ND
+CEREALES CON GRASA,Panquecito cubierto de chocolate,1/2,pieza,24,24,86,1.1,3.0,14.2,0.0,0.0,31.0,0.2,80.5,ND,ND,ND
+CEREALES CON GRASA,Panquecito cubierto de vainilla,1/2,pieza,33,33,119,1.1,3.8,20.6,0.0,0.0,16.6,0.0,74.0,ND,ND,ND
+CEREALES CON GRASA,Panquecito de vainilla,1/2,pieza,33,33,119,1.1,3.8,20.6,0.0,0.0,16.6,0.1,74.0,ND,ND,ND
+CEREALES CON GRASA,Papa congelada para freir,50,g,50,50,100,1.6,3.8,15.6,1.6,6.0,4.0,0.6,15.0,ND,ND,ND
+CEREALES CON GRASA,Papa hash brown,1/4,taza,39,39,100,1.2,4.9,13.7,1.2,6.2,5.5,0.2,133.4,0.6,ND,ND
+CEREALES CON GRASA,Papa sal,20,g,20,20,107,1.0,6.6,11.0,1.0,0.0,0.0,0.0,116.0,ND,ND,ND
+CEREALES CON GRASA,Papas fritas,6,pieza,18,18,100,1.1,6.9,9.2,0.6,1.3,4.3,0.3,118.1,0.9,76.0,13.7
+CEREALES CON GRASA,Papas fritas a la francesa,4,pieza,20,20,112,1.2,7.7,10.2,0.7,1.4,4.8,0.3,13.2,1.0,ND,ND
+CEREALES CON GRASA,Papas fritas bajas en grasa,7,pieza,21,21,105,1.2,5.4,13.6,0.8,5.7,7.1,0.3,89.9,1.1,ND,ND
+CEREALES CON GRASA,Papas fritas con crema ácida y cebolla,6,pieza,18,18,98,1.2,6.7,9.2,0.2,4.1,11.5,0.3,129.6,ND,ND,ND
+CEREALES CON GRASA,papas fritas con queso,6,pieza,18,18,99,1.3,6.7,9.1,0.6,3.2,19.8,0.3,135.9,0.9,ND,ND
+CEREALES CON GRASA,Papas fritas en juliana,6,pieza,30,30,100,1.1,5.6,11.9,1.0,6.6,3.6,0.5,183.9,ND,ND,ND
+CEREALES CON GRASA,Papas fritas light,10,pieza,19,19,100,1.1,5.6,11.9,1.0,6.6,3.6,0.5,183.9,ND,ND,ND
+CEREALES CON GRASA,Papas fritas reducidas en grasa,3/4,bolsa individual,20,20,94,1.1,4.8,12.2,0.7,5.1,6.4,0.3,80.3,0.9,ND,ND
+CEREALES CON GRASA,Papas sabritas,20,g,195,195,102,0.8,6.4,10.4,0.8,0.0,0.0,0.0,112.0,ND,ND,ND
+CEREALES CON GRASA,Papilla de macarrones con pollo,1 1/2,frasco,20,20,101,4.1,2.9,14.6,0.6,10.5,42.9,1.0,31.2,ND,ND,ND
+CEREALES CON GRASA,Pasta de hojaldre,20,g,20,20,108,1.1,8.2,7.6,0.3,0.0,3.9,0.0,1.2,ND,ND,ND
+CEREALES CON GRASA,Pasta hojaldrada,20,g,20,20,108,1.1,8.2,7.6,0.3,0.0,3.9,0.0,1.2,ND,ND,ND
+CEREALES CON GRASA,Pasta quebrada,20,g,28,28,108,1.1,8.2,7.6,0.3,0.0,3.9,0.0,1.2,ND,ND,ND
+CEREALES CON GRASA,Pastel de chocolate,1,rebanada,28,28,104,1.5,4.2,14.8,0.4,0.0,16.8,0.5,88.2,ND,ND,ND
+CEREALES CON GRASA,Pastel de frutas,1,rebanada,28,28,91,0.8,2.5,17.3,1.0,0.7,9.1,0.6,75.5,12.0,47.0,13.2
+CEREALES CON GRASA,Pastel de piña,1,rebanada,28,28,89,1.0,3.4,14.1,ND,5.3,33.6,0.4,89.3,ND,ND,ND
+CEREALES CON GRASA,Pastel de zanahoria con cubierta de queso crema,1/2,rebanada,28,28,112,1.1,5.7,14.6,0.3,3.2,6.9,0.3,50.6,10.8,ND,ND
+CEREALES CON GRASA,Pastelito con relleno cremoso y mermelada,1/2,pieza,25,25,98,1.1,3.9,14.8,0.7,0.0,18.8,0.6,59.5,10.5,ND,ND
+CEREALES CON GRASA,Pastelito de chocolate con relleno cremoso,1,pieza,30,30,109,1.3,3.2,18.7,0.6,0.0,0.0,0.0,93.9,13.2,ND,ND
+CEREALES CON GRASA,Pastitas de mantequilla,2,pieza,15,15,84,0.8,4.7,9.6,0.0,0.0,3.0,0.3,30.0,3.0,ND,ND
+CEREALES CON GRASA,Pay de calabaza,1,rebanada,45,45,109,1.8,4.4,15.7,0.8,7.2,28.8,0.4,107.6,8.5,ND,ND
+CEREALES CON GRASA,Pay de chocolate,1,rebanada,30,30,91,0.8,5.8,10.1,0.6,2.1,10.9,0.3,40.9,ND,ND,ND
+CEREALES CON GRASA,Pay de limón con merengue,1,rebanada,35,35,94,0.5,3.0,16.5,0.4,2.8,19.5,0.2,51.1,8.4,ND,ND
+CEREALES CON GRASA,Pay  de manzana,1,rebanada,40,40,95,0.8,4.4,13.6,0.6,1.6,4.5,0.2,106.6,ND,ND,ND
+CEREALES CON GRASA,Pay de nuez,1/3,pieza,23,23,102,1.5,4.5,13.9,0.2,3.7,5.1,0.2,77.2,6.4,ND,ND
+CEREALES CON GRASA,Pay de piña,1/3,pieza,28,28,108,1.0,4.9,15.1,0.1,0.0,6.6,0.2,120.3,5.3,ND,ND
+CEREALES CON GRASA,Pay de queso,1,rebanada,35,35,112,1.9,7.9,8.9,0.0,5.3,17.9,0.2,72.6,7.6,ND,ND
+CEREALES CON GRASA,Pay helado de limón,1,rebanada,40,40,109,0.9,6.1,13.0,0.6,0.0,12.1,0.1,72.7,9.4,ND,ND
+CEREALES CON GRASA,Pop tarts,1/3,pieza,18,18,70,1.0,1.7,12.9,0.3,0.0,0.0,0.0,73.5,ND,ND,ND
+CEREALES CON GRASA,Prispas,3/4,paquete,19,19,91,0.8,3.4,14.3,0.4,0.0,0.0,0.0,131.3,ND,ND,ND
+CEREALES CON GRASA,Puré de papa,1/2,taza,105,105,119,2.0,4.4,17.5,1.6,8.4,25.2,0.3,332.9,1.5,74.0,77.7
+CEREALES CON GRASA,Rice krispies treats,1,barra,22,22,90,1.0,2.5,17.0,0.0,0.0,0.0,0.0,105.0,ND,ND,ND
+CEREALES CON GRASA,Roles de canela,1/2,pieza,30,30,100,2.0,2.2,18.0,0.2,4.8,12.6,0.6,64.5,8.1,ND,ND
+CEREALES CON GRASA,Rollo de fresa,1,pieza,30,30,100,1.4,2.1,18.9,0.1,4.8,7.0,0.4,87.0,11.7,ND,ND
+CEREALES CON GRASA,Runner sabor hot sauce,1/3,bolsa,20,20,110,1.2,6.9,10.9,0.5,0.0,0.0,0.0,210.0,ND,ND,ND
+CEREALES CON GRASA,Sabritas ligeras,20,g,20,20,97,1.2,4.6,12.8,0.8,0.0,0.0,0.0,80.0,ND,ND,ND
+CEREALES CON GRASA,Sabritas ligeras citricas,20,g,20,20,93,1.2,4.4,12.2,0.8,0.0,0.0,0.0,148.0,ND,ND,ND
+CEREALES CON GRASA,Salsa gravie de champiñones,1,taza,230,230,116,2.9,6.2,12.7,0.9,27.8,15.4,1.5,1310.5,ND,ND,ND
+CEREALES CON GRASA,Salsa gravie de res,1,taza,226,226,120,8.5,5.4,10.8,1.0,3.9,13.5,1.6,1265.8,ND,ND,ND
+CEREALES CON GRASA,Sándwich Quaker chocolate,30,g,30,30,124,2.7,5.2,16.6,2.8,0.0,0.0,0.0,96.0,ND,ND,ND
+CEREALES CON GRASA,Senzo,2,pieza,22,22,106,1.1,5.1,13.8,0.5,0.0,0.0,0.0,75.4,ND,ND,ND
+CEREALES CON GRASA,Snack mix nabisco 100 Kcal,1,paquete,22,22,99,2.0,3.0,16.0,1.0,0.0,0.0,0.0,210.1,ND,ND,ND
+CEREALES CON GRASA,Strudel de manzana,1,rebanada,40,40,110,1.3,4.5,16.5,0.9,2.3,6.2,0.2,107.6,10.4,ND,ND
+CEREALES CON GRASA,Tamal de carne,1/5,pieza,40,40,102,3.1,6.0,8.8,0.1,0.0,24.4,0.6,70.4,ND,ND,ND
+CEREALES CON GRASA,Tamal de elote,1/5,pieza,40,40,86,1.1,4.3,9.9,0.4,0.0,43.2,0.3,234.3,ND,ND,ND
+CEREALES CON GRASA,Tamal de frijol,1/5,pieza,40,40,103,1.5,7.2,9.1,0.4,0.0,24.6,0.0,112.9,ND,ND,ND
+CEREALES CON GRASA,Tamal de queso con rajas,1/5,pieza,40,40,104,2.0,7.1,9.1,0.4,0.0,41.3,0.0,130.3,ND,ND,ND
+CEREALES CON GRASA,Tamal rojo,1/6,pieza,34,34,103,0.9,6.5,11,0.2,0.0,ND,0,ND,ND,ND,ND
+CEREALES CON GRASA,Tamal verde,1/6,pieza,34,34,103,0.9,6.5,11.0,0.2,0.0,ND,0.0,ND,ND,ND,ND
+CEREALES CON GRASA,Tortilla de harina,1,pieza,28,28,80,1.9,1.9,13.4,0.1,0.0,19.9,0.3,214.8,0.1,30.0,8.4
+CEREALES CON GRASA,Tortilla de harina integral,1,pieza,28,28,82,2.5,2.9,11.4,1.2,0.0,0.0,0.0,166.9,0.1,ND,ND
+CEREALES CON GRASA,Tostada,1 1/2,pieza,18,18,93,1.2,4.9,11.2,1.2,0.0,19.3,0.2,131.6,ND,ND,ND
+CEREALES CON GRASA,Tostada rayada,1 1/2,pieza,18,18,93,1.2,4.9,11.2,1.2,0.0,19.3,0.2,131.6,ND,ND,ND
+CEREALES CON GRASA,Tostada tipo jalisco,1 1/2,pieza,18,18,93,1.2,4.9,11.2,1.2,0.0,19.3,0.2,131.6,ND,ND,ND
+CEREALES CON GRASA,Totopos de maíz,25,g,25,25,109,1.4,5.6,13.5,1.4,2.7,39.3,0.4,40.8,ND,ND,ND
+CEREALES CON GRASA,Trenza glaseada,1/2,pieza,21,21,85,0.7,3.8,12.2,0.3,1.5,5.5,0.3,70.5,7.2,ND,ND
+CEREALES CON GRASA,Wafle,1,pieza,35,35,100,2.3,3.4,15.1,0.8,20.0,107.8,2.0,223.3,1.8,76.0,26.6
+CEREALES CON GRASA,Wafle con mantequilla,1,pieza,35,35,97,2.3,3.8,13.9,0.6,17.9,17.9,1.6,184.1,1.0,76.0,26.6
+CEREALES CON GRASA,Wafle estilo casero,1,pieza,31,31,86,2.0,3.3,12.4,0.4,15.9,15.9,1.4,181.7,0.8,769.0,23.6
+CEREALES CON GRASA,Wafle integral,1,pieza,35,35,84,2.3,2.9,13.2,1.4,10.8,17.9,1.6,198.5,1.3,ND,ND
+CEREALES CON GRASA,Wafle miniatura,2,pieza,40,40,112,3.0,3.9,16.3,9.0,25.8,25.8,2.3,258.1,0.6,ND,ND

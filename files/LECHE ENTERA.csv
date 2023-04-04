@@ -1,0 +1,37 @@
+GRUPO,ALIMENTOS,Cantidad sugerida,Unidad,Peso bruto redondeado (g),Peso neto (g),Energia (Kcal),Proteina (g),Lípidos (g),Hidratos de carbono (g),Colesterol (mg),Vitamina A     (µg RE),Calcio (mg),Sodio (mg)
+LECHE ENTERA,Activia natural,1,pieza,150,150,135,5.6,5.9,14.9,0.0,0.0,186.1,86.8
+LECHE ENTERA,Activia natural bebible,1,pieza,250,250,170,6.5,7.6,19.9,0.0,0.0,222.6,105.4
+LECHE ENTERA,Activia natural sólido,1,pieza,150,150,135,5.6,5.9,14.9,0.0,0.0,186.1,86.8
+LECHE ENTERA,Jocoque,5,cucharada,75,75,126,7.0,9.6,2.9,0.0,0.0,0.0,248.3
+LECHE ENTERA,Jcoque ligero,5,cucharada,75,75,126,7.0,9.6,2.9,0.0,0.0,0.0,248.3
+LECHE ENTERA,Jocoque seco,5,cucharada,75,75,126,7.0,9.6,2.9,0.0,0.0,0.0,248.3
+LECHE ENTERA,Leche,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.2,118.0
+LECHE ENTERA,Leche caliente,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.2,118.0
+LECHE ENTERA,Leche clavel,1/2,taza,120,120,150,7.5,7.5,11.3,37.5,0.0,300.0,112.5
+LECHE ENTERA,Leche cruda ,1,taza,240,240,146,7.9,7.9,11.3,33.6,74.4,285.6,117.6
+LECHE ENTERA,Leche de burra,1,taza,237,237,126,4.7,5.7,14.5,0.0,47.4,194.3,0.0
+LECHE ENTERA,Leche de cabra,1,taza,240,240,165,8.6,9.9,10.7,27.5,134.8,320.7,120.0
+LECHE ENTERA,Leche de vaca,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.2,118.0
+LECHE ENTERA,Leche en polvo,4,cucharada,32,32,159,8.4,8.5,12.3,31.0,90.0,292.0,119.0
+LECHE ENTERA,Leche entera,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.2,118.0
+LECHE ENTERA,Leche entera baja en sodio,1,taza,240,240,147,7.5,8.3,10.7,32.5,76.7,242.0,5.9
+LECHE ENTERA,Leche entera en polvo,4,cucharada,32,32,159,8.4,8.5,12.3,31.0,90.0,292.0,119.0
+LECHE ENTERA,Leche entera en polvo adicionada,4,cucharada,32,32,159,8.4,8.5,12.3,31.0,90.0,392.0,119.0
+LECHE ENTERA,Leche entera evaporada,1/2,taza,120,120,150,7.5,7.5,11.3,37.5,0.0,300.0,112.5
+LECHE ENTERA,Leche entera ultrapasteurizada,1,taza,240,240,134,7.0,7.0,11.3,14.4,0.0,0.0,168.0
+LECHE ENTERA,Lerche evaporada,1/2,taza,120,120,150,7.5,7.5,11.3,37.5,0.0,300.0,112.5
+LECHE ENTERA,Leche fría,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.2,118.0
+LECHE ENTERA,Leche hervida,1,taza,240,240,163,8.2,9.1,12.5,33.6,74.4,271.2,117.6
+LECHE ENTERA,Leche humana,1,taza,240,240,170,2.3,10.8,16.3,31.0,154.8,77.4,38.7
+LECHE ENTERA,Leche Lala Desarrollo en polvo,2 1 /2,cucharada,33,33,150,5.9,5.9,18.3,0.0,0.0,200.6,96.6
+LECHE ENTERA,Leche Lala Entera,1,taza,240,240,139,7.5,7.2,12.0,0.0,0.0,247.7,120.0
+LECHE ENTERA,Leche Liconsa Te Nutre,4,cucharada,32,32,159,8.4,8.5,12.3,31.0,90.0,292.0,119.9
+LECHE ENTERA,Leche materna,1,taza,240,240,170,2.3,10.8,16.3,31.0,154.8,77.4,38.7
+LECHE ENTERA,Leche maternizada en polvo,2,cucharada,26,26,132,3.5,7.0,14.3,0.0,223.6,87.1,0.0
+LECHE ENTERA,Leche omega verde,1,taza,240,240,120,7.9,4.6,11.5,19.2,0.0,292.0,120.0
+LECHE ENTERA,Leche pasteurizada,1,taza,240,240,146,7.9,7.9,11.3,33.6,74.4,285.6,117.6
+LECHE ENTERA,Leche preparada,1,taza,240,240,141,6.5,5.9,8.5,32.5,74.8,286.2,118.0
+LECHE ENTERA,Yoghur,1,taza,227,227,139,7.9,7.4,10.6,29.0,68.0,274.0,105.0
+LECHE ENTERA,Yoghur Lala batido,1,pieza,125,125,121,4.1,2.9,20.0,0.0,0.0,131.3,106.3
+LECHE ENTERA,Yoghur Lala Vive con fibra,1,vasito,150,150,140,5.9,4.2,22.1,0.0,0.0,169.5,81.0
+LECHE ENTERA,Yoghur natural,1,taza,227,227,139,7.9,7.4,10.6,29.0,68.0,274.0,105.0

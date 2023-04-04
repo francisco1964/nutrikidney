@@ -1,0 +1,65 @@
+GRUPO,ALIMENTOS,Cantidad sugerida,Unidad,Peso bruto redondeado (g),Peso neto (g),Energia (Kcal),Proteina (g),Lípidos (g),Hidratos de carbono (g),Colesterol (mg),Vitamina A     (µg RE),Calcio (mg),Sodio (mg),Azúcar por equivalente (g)
+LECHE CON AZUCAR,ALF* para beber fresa con Lactobacillus casei Shirota,1,envase,215,215,185,6.2,3.2,32.3,0.0,0.0,341.9,96.8,31.2
+LECHE CON AZUCAR,ALF* para beber mango con Lactobacillus casei Shirota,1,envase,215,215,155,6.2,0.4,31.4,0.0,0.0,337.6,96.8,29.2
+LECHE CON AZUCAR,ALF* para beber natural con Lactobacillus casei Shirota,1,envase,213,213,141,6.0,1.3,26.4,0.0,0.0,334.4,98.0,24.3
+LECHE CON AZUCAR,Alimento lácteo fermentado con Actiregularis sabor Ciruela Pasa (bebible),1,pieza,250,250,211,5.8,6.8,31.7,ND,ND,200.4,0.0,31.5
+LECHE CON AZUCAR,Alimento lácteo fermentado con Actiregularis sabor Ciruela Pasa (sólido),1 1/3,pieza,200,200,206,6.2,6.4,30.9,ND,ND,203.0,94.7,30.7
+LECHE CON AZUCAR,Alimento lácteo fermentado con Actiregularis sabor fresa (bebible),1,pieza,250,250,211,5.8,6.8,32.0,ND,ND,200.4,0.0,31.8
+LECHE CON AZUCAR,Alimento lácteo fermentado con Actiregularis sabor fresa (sólido),1 1/3,pieza,200,200,188,7.0,6.4,25.5,ND,ND,255.4,94.7,25.3
+LECHE CON AZUCAR,Alimento lácteo fermentado sabor fresa (Lactobacillus casei y Streptococcus thermophilus),2,pieza,216,216,188,7.8,4.4,29.6,ND,ND,231.1,92.9,29.6
+LECHE CON AZUCAR,Alimento lácteo fermentado sabor manzana  (Lactobacillus casei y Streptococcus thermophilus),2,pieza,216,216,161,8.2,0.4,31.2,ND,ND,250.6,97.2,30.2
+LECHE CON AZUCAR,Alimento lácteo fermentado sabor natural  (Lactobacillus casei y Streptococcus thermophilus),2,pieza,216,216,161,8.6,0.4,31.0,ND,ND,263.5,103.7,28.1
+LECHE CON AZUCAR,Bio 4,2,pieza,240,240,180,6.2,3.1,31.4,ND,ND,ND,96.0,ND
+LECHE CON AZUCAR,Chongos zamoranos,1/2,taza,108,108,194,6.5,3.2,34.6,10.8,21.6,220.3,54.0,30.2
+LECHE CON AZUCAR,Helado de café,1/2,taza,91,91,195,3.4,10.0,25.5,30.8,106.8,98.6,68.8,23
+LECHE CON AZUCAR,Helado de café bajo en calorías,1/2,taza,91,91,183,4.8,6.6,27.0,37.3,ND,143.8,68.3,21.9
+LECHE CON AZUCAR,Helado de  chocolate,3/4,taza,99,99,214,3.8,10.9,27.9,33.7,114.8,107.9,75.2,25.1
+LECHE CON AZUCAR,Helado de chocolate bajo en calorías,3/4,taza,99,99,199,5.0,7.1,28.7,9.9,59.4,157.4,70.3,24.5
+LECHE CON AZUCAR,Helado de fresa,3/4,taza,99,99,190,3.2,8.3,27.3,28.7,95.0,118.8,59.4,22.9
+LECHE CON AZUCAR,Helado de fresa bajo en calorías,2/3,taza,123,123,200,6.0,5.7,31.2,18.5,539.3,208.6,87.6,28.1
+LECHE CON AZUCAR,Helado de vainilla,3/4,taza,99,99,199,3.5,10.9,23.4,43.6,114.8,126.7,79.2,21
+LECHE CON AZUCAR,Helado de vainilla bajo en calorías,1,taza,132,132,218,6.3,6.4,34.1,13.2,167.6,212.5,97.7,29.2
+LECHE CON AZUCAR,Helado de yogur,1,taza,158,158,201,4.8,5.7,34.2,20.6,60.2,158.3,99.8,33.9
+LECHE CON AZUCAR,Helado de yogur de fresa,1,taza,158,158,201,4.8,5.7,34.2,20.6,60.2,158.3,99.8,33.9
+LECHE CON AZUCAR,Helado napolitano,3/4,taza,102,102,205,3.6,11.2,24.1,44.9,120.4,130.6,81.6,21.5
+LECHE CON AZUCAR,Helado napolitano bajo en calorías,2/3,taza,119,119,192,5.6,5.2,31.1,16.7,ND,188.7,82.4,26.8
+LECHE CON AZUCAR,Leche con chocolate,31-Dec,taza,240,240,200,7.6,8.2,24.9,29.8,151.2,268.8,143.0,22.9
+LECHE CON AZUCAR,Leche con chocolate semidescremada 1%,1,taza,240,240,182,7.2,4.6,29.1,6.7,142.1,261.6,158.4,22.9
+LECHE CON AZUCAR,Leche con vainilla,1,taza,218,218,207,6.4,6.6,31.0,24.0,56.8,200.9,120.1,27.6
+LECHE CON AZUCAR,Leche de soya saborizada,1 1/4,taza,300,300,191,9.3,6.8,23.3,ND,10.8,ND,304.5,ND
+LECHE CON AZUCAR,Leche descremada con chocolate,1 1/4,taza,300,300,189,9.7,3.0,31.3,9.0,174.0,345.0,183.0,29.8
+LECHE CON AZUCAR,Leche en polvo sabor fresa,8,cucharada,56,56,187,13.3,0.0,32.0,ND,ND,826.7,400.0,ND
+LECHE CON AZUCAR,Leche en polvo sabor vainilla,8,cucharada,56,56,187,13.3,0.0,32.0,ND,ND,826.7,400.0,ND
+LECHE CON AZUCAR,Leche fermentada con latobacilos,2 1/2,pieza,250,250,180,7.5,4.0,35.8,ND,ND,207.5,100.0,35.8
+LECHE CON AZUCAR,Leche fermentada con latobacilos sabor naranja,2 1/2,pieza,250,250,185,7.3,3.8,40.0,ND,ND,232.5,100.0,40.0
+LECHE CON AZUCAR,Leche fermentada con latobacilos sabor natural,2 1/2,pieza,250,250,208,7.0,4.0,35.8,ND,ND,207.5,100.0,35.8
+LECHE CON AZUCAR,Leche fermentada con latobacilos sabor  vainilla,2 1/3,pieza,233,233,205,6.3,3.5,37.3,ND,ND,149.1,93.2,37.3
+LECHE CON AZUCAR,Leche Lala saborizada,1 1/3,taza,312,312,207,9.4,3.1,34.9,ND,ND,ND,182.2,ND
+LECHE CON AZUCAR,Leche Lala Vive con fribra saborizada,1,taza,240,240,167,7.2,3.8,29.9,ND,ND,234.2,114.2,ND
+LECHE CON AZUCAR,Leche malteada de chocolate,1,taza,240,240,202,8.1,7.8,26.2,24.0,818.4,307.2,208.8,25.2
+LECHE CON AZUCAR,Leche malteada sabor chocolate,3/4,pieza,180,180,214,5.5,4.9,38.1,19.8,32.4,237.6,199.8,37.5
+LECHE CON AZUCAR,Leche malteada sabor fresa,3/4,pieza,182,182,204,7,5.5,32.4,21.9,45.6,266.3,173.3,32.4
+LECHE CON AZUCAR,Leche malteada sabor vainilla,3/4,pieza,180,180,202,6.9,5.5,32.0,21.6,45.0,262.8,171.0,32.0
+LECHE CON AZUCAR,Leche semidescremada sabor chocolate,1,pieza,240,240,182,7.2,4.6,29.1,19.2,153.6,261.6,158.4,22.9
+LECHE CON AZUCAR,Malteada de chocolate,2/3,taza,156,156,198,5.3,5.8,32.0,20.0,39,176.3,151.3,29.0
+LECHE CON AZUCAR,Malteada de fresa,3/4,pieza,180,180,203,6.1,5.0,34,198.8,46.8,203.4,149.4,33.3
+LECHE CON AZUCAR,Malteada de vainilla,1/2,pieza,130,130,192,4.4,8.4,25.4,29.8,117.9,149.0,105.0,17.7
+LECHE CON AZUCAR,Nescafé Dolce Gusto late macchiato (1 cápsula de leche + 1 cápsula de cocoa,2,cápsula,50,50,182,8.6,8.4,18.2,25.5,ND,ND,128.0,18.0
+LECHE CON AZUCAR,Nescafé Dolce Gusto caramel latte macchiato (1 cápsula de leche + 1 cápsula de cocoa,2,cápsula,42,42,157,5.2,6.2,20.1,ND,ND,ND,57.5,18.1
+LECHE CON AZUCAR,Nescafé Dolce Gusto Chococino (1 cápsula de leche + 1 cápsula de cocoa,1 1/2,cápsula,51,51,223,7.4,8.2,29.9,22.4,ND,ND,92.8,28.5
+LECHE CON AZUCAR,PLF* con Lactobacillus casei Shirota,3,envase,240,240,165,3.0,0.1,38.1,ND,ND,108.0,39.0,38.1
+LECHE CON AZUCAR,Queso petit Suisse,1 1/4,pieza,255,255,203,9.0,3.4,36,22.5,69.8,270.0,0.0,29.3
+LECHE CON AZUCAR,Yoghur Activia de Ciruela Pasa,1 1/3,vasito,200,200,206,6.2,6.4,30.9,ND,ND,203.0,94.7,30.7
+LECHE CON AZUCAR,Yoghur bebible sabor durazno,2,pieza,330,330,224,7.9,2.3,40.9,ND,ND,290.4,99.5,40.6
+LECHE CON AZUCAR,Yoghur bebible sabor  fresa,2,pieza,330,330,224,7.9,2.3,40.9,ND,ND,290.4,0.1,40.6
+LECHE CON AZUCAR,Yoghur bebible sabor piña colada,2,pieza,330,330,224,7.9,2.3,40.9,ND,ND,290.4,99.5,40.6
+LECHE CON AZUCAR,Yoghur de café,3/4,taza,180,180,180,8.5,2.1,32.8,10.6,ND,211.8,95.3,29.6
+LECHE CON AZUCAR,Yoghur de fruta,3/4,taza,180,180,201,8.5,3.2,33.9,15.9,ND,211.8,105.9,31.8
+LECHE CON AZUCAR,Yoghur de vainilla,3/4,taza,180,180,201,8.5,3.2,33.9,15.9,ND,211.8,100.6,30.7
+LECHE CON AZUCAR,Yoghur Lala batido,1 1/2,pieza,188,188,182,6.2,4.4,30.0,ND,ND,196.9,159.4,ND
+LECHE CON AZUCAR,Yoghur Lala bebible frutas,1,pieza,250,250,195,5.5,4.0,20.0,ND,ND,ND,0.0,ND
+LECHE CON AZUCAR,Yoghur Lala Vive con fibra,1 1/2,vasito,255,255,210,8.9,6.3,33.2,ND,ND,254.3,121.5,ND
+LECHE CON AZUCAR,Yoghur Lala Vive deslactosada,1,pieza,250,250,195,5.5,4.0,34.5,ND,ND,192.5,95.0,ND
+LECHE CON AZUCAR,Yoghur Lala Vive sin colesterol con Menoscol,1,pieza,250,250,185,6.8,1.0,37.3,ND,ND,225.0,75.0,ND
+LECHE CON AZUCAR,Yoghur para beber sabor fresa,1 1/4,pieza,313,313,216,5.9,5.0,37.5,ND,ND,221.9,81.3,ND
+LECHE CON AZUCAR,Yoghur de soya,1,taza,180,180,169,6.3,3.2,28.7,ND,ND,ND,462.6,ND

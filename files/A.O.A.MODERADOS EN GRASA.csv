@@ -1,0 +1,71 @@
+GRUPO,ALIMENTOS,Cantidad sugerida,Unidad,Peso bruto redondeado (g),Peso neto (g),Energia (Kcal),Proteina (g),Lípidos (g),Hidratos de carbono (g),Colesterol (mg),Vitamina A     (µg RE),Calcio (mg),Hierro (mg),Sodio (mg),Selenio (mg)
+A.O.A.MODERADOS EN GRASA,Arenque marinado,1/4,filete,46,46,73,8.3,4.2,0.0,27.6,12.9,26.2,0.5,41.4,16.8
+A.O.A.MODERADOS EN GRASA,Bistec bola,25,g,25,25,71,7.2,4.5,0.0,24.0,0.0,1.5,0.8,12.5,5.0
+A.O.A.MODERADOS EN GRASA,Bola de res,25,g,25,25,71,7.2,4.5,0.0,24.0,0.0,1.5,0.8,12.5,5.0
+A.O.A.MODERADOS EN GRASA,Boquerones (fritos),40,g,40,40,70,7.7,4.1,0.1,nd,nd,67.2,0.0,0.0,5.6
+A.O.A.MODERADOS EN GRASA,Carne de suadero,59,g,29,29,76,7.8,4.8,0.0,20.9,0.0,1.7,1.0,20.3,0.0
+A.O.A.MODERADOS EN GRASA,Carne deshebrada,30,g,30,30,75,7.4,4.8,0.0,24.6,0.0,2.1,0.7,14.7,5.9
+A.O.A.MODERADOS EN GRASA,Carne molida estra magna cocida,30,g,30,30,75,7.4,4.8,0.0,24.6,0.0,2.1,0.7,14.7,3.8
+A.O.A.MODERADOS EN GRASA,Carne molida estra magna salteada,30,g,30,30,77,7.5,4.9,0.0,24.3,0.0,2.1,0.7,21.0,3.8
+A.O.A.MODERADOS EN GRASA,Caviar,5,cucharadita,27,27,67,6.6,4.8,1.1,156.6,72.2,73.3,3.2,399.8,17.5
+A.O.A.MODERADOS EN GRASA,Caviar negro,5,cucharadita,27,27,67,6.6,4.8,1.1,156.6,72.2,73.3,3.2,399.8,17.5
+A.O.A.MODERADOS EN GRASA,Caviar rojo,5,cucharadita,27,27,67,6.6,4.8,1.1,156.6,72.2,73.3,3.2,399.8,17.5
+A.O.A.MODERADOS EN GRASA,Chicharrón,12,g,12,12,72,6.9,4.7,0.0,8.9,ND,7.3,0.3,0.0,0.0
+A.O.A.MODERADOS EN GRASA,Chicharrón de cerdo,12,g,12,12,72,6.9,4.7,0.0,8.9,ND,7.3,0.3,0.0,0.0
+A.O.A.MODERADOS EN GRASA,Chicharrón de puerco,12,g,12,12,72,6.9,4.7,0.0,8.9,ND,7.3,0.3,0.0,0.0
+A.O.A.MODERADOS EN GRASA,Costillar de cerdo,50,g,50,33,69,6.5,4.6,0.0,19.5,0.7,1.6,0.2,13.7,10.4
+A.O.A.MODERADOS EN GRASA,Costillitas de cerdo,51,g,50,33,69,6.5,4.6,0.0,19.5,0.7,1.6,0.2,13.7,10.4
+A.O.A.MODERADOS EN GRASA,Gusanos de maguey,35,g,35,35,70,5.8,4.8,0.0,ND,ND,49.7,1.5,0.0,0.0
+A.O.A.MODERADOS EN GRASA,"Huevo ""enriquecido con DHA-Omega 3 y Vitamina E""",1,pieza,63,55,70,6.0,4.5,0.7,199.7,ND,ND,ND,70.0,16.5
+A.O.A.MODERADOS EN GRASA,Huevo agra,1,pieza,63,55,70,6.0,4.5,0.7,199.7,ND,ND,ND,70.0,16.5
+A.O.A.MODERADOS EN GRASA,Huevo batido o revuelto cocido,3,cucharada,41,41,69,4.6,5.0,0.9,144.7,57.5,29.9,0.5,115.1,9.2
+A.O.A.MODERADOS EN GRASA,Huevo blanco cocido,1,pieza,50,44,68,5.5,4.7,0.5,186.6,73.9,22.0,0.5,54.6,13.6
+A.O.A.MODERADOS EN GRASA,Huevo cocido,1,pieza,50,44,68,5.5,4.7,0.5,186.6,73.9,22.0,0.5,54.6,13.6
+A.O.A.MODERADOS EN GRASA,Huevo de codorniz fresco,6,pieza,54,50,78,6.5,5.5,0.2,419.5,77,31.8,1.8,70,15.9
+A.O.A.MODERADOS EN GRASA,Huevo deshidratado,2 1/2,cucharada,13,13,76,6.0,5.4,0.2,203.8,62.5,29.5,0.5,60.0,ND
+A.O.A.MODERADOS EN GRASA,Huevo en polvo,2 1/2,cucharada,13,13,76,6.0,5.4,0.2,203.8,62.5,29.6,0.5,60.0,ND
+A.O.A.MODERADOS EN GRASA,Huevo entero cocido,1,pieza,50,44,68,5.5,4.7,0.5,186.6,73.9,22.0,0.5,54.6,13.6
+A.O.A.MODERADOS EN GRASA,Huevo entero fresco,1,pieza,50,44,63,5.5,4.4,0.3,186.1,61.6,23.3,0.8,61.6,13.9
+A.O.A.MODERADOS EN GRASA,Huevo  fresco,1,pieza,50,44,63,5.5,4.4,0.3,186.1,61.6,23.3,0.8,61.6,13.9
+A.O.A.MODERADOS EN GRASA,Huevo pochado,1,pieza,50,50,71,6.3,5.0,0.4,211.0,69.5,26.5,0.9,147.0,15.8
+A.O.A.MODERADOS EN GRASA,Huevo rojo cocido,1,pieza,50,44,68,5.5,4.7,0.5,186.6,73.9,22.0,0.5,54.6,13.6
+A.O.A.MODERADOS EN GRASA,Longaniza de primera,45,g,45,44,78,7.3,5.2,0.0,ND,6.6,17.6,2.1,0.0,19.1
+A.O.A.MODERADOS EN GRASA,Macarela cocida,1/3,filete,29,29,76,6.9,5.2,0.0,21.9,15.7,4.4,0.5,24.1,15.0
+A.O.A.MODERADOS EN GRASA,Macarela fresca,1/3,filete,37,37,76,6.9,5.1,0.0,25.9,18.7,4.3,0.6,33.5,13.5
+A.O.A.MODERADOS EN GRASA,Muslo de pierna con piel cocido con hueso,1/3,pieza,43,33,76,7.6,4.8,0.0,27.4,14.3,3.6,0.4,23.1,7.7
+A.O.A.MODERADOS EN GRASA,Muslo de pierna con piel crudo con hueso,1/3,pieza,43,34,72,5.9,5.2,0.0,28.5,13.9,3.4,0.3,25.8,4.4
+A.O.A.MODERADOS EN GRASA,Orejas de cerdo,1/4,pieza,28,28,66,6.3,4.3,0.2,23.2,0.0,5.9,0.7,54.0,1.2
+A.O.A.MODERADOS EN GRASA,Pata de cerdo cocidas,150,g,150,51,71,5.9,5.1,0.0,42.3,5.6,16.3,0.2,285.6,8.1
+A.O.A.MODERADOS EN GRASA,Patas de cerdo en escabeche,150,g,150,51,71,5.9,5.1,0.0,42.3,5.6,16.3,0.2,285.6,8.1
+A.O.A.MODERADOS EN GRASA,Patitas de cerdo encurtidas sin hueso,150,g,150,51,71,5.9,5.1,0.0,42.3,5.6,16.3,0.2,285.6,8.1
+A.O.A.MODERADOS EN GRASA,Pecho de res,50,g,50,37,76,6.4,5.4,0.0,25.9,6.6,2.6,0.2,25.9,2.4
+A.O.A.MODERADOS EN GRASA,Pierna de pollo con piel cocida,1/3,pieza,63,36,79,8.7,4.6,0.0,30.2,12.9,4.0,0.5,26.2,8.5
+A.O.A.MODERADOS EN GRASA,Pierna y mueslo de pollo con piel,1/5,pieza,61,40,74,7.2,4.8,0.0,32.9,14.3,4.0,0.4,31.3,5.0
+A.O.A.MODERADOS EN GRASA,Queso blanco,35,g,35,35,77,6.0,5.1,1.8,26.3,22.5,ND,ND,ND,5.1
+A.O.A.MODERADOS EN GRASA,Queso de soya,2,rebanada,56,56,84,7.0,4.6,3.8,ND,ND,106.0,0.0,12.0,0.0
+A.O.A.MODERADOS EN GRASA,Queso holandés,20,G,20,20,75,6.7,5.2,1.6,17.0,56.6,165.8,0.3,0.0,1.8
+A.O.A.MODERADOS EN GRASA,Queso monterrey bajo en grasa,1,rebanada,28,28,88,7.9,6.0,0.2,18.0,40.0,197.0,0.2,158.0,0.0
+A.O.A.MODERADOS EN GRASA,Queso Mozzarella reducido en grasa,1,rebanada,28,28,71,6.8,4.5,0.8,17.9,35.6,219.0,0.1,173.3,0.0
+A.O.A.MODERADOS EN GRASA,Queso Mozzarella semidescremado,30,g,30,30,76,7.3,4.8,0.8,19.2,37.2,234.6,0.1,185.7,4.3
+A.O.A.MODERADOS EN GRASA,Queso Muenster bajo en grasa,1,rebanada,28,28,77,6.9,4.9,14.1,18.0,49.0,148.0,0.1,168.0,0.0
+A.O.A.MODERADOS EN GRASA,Queso parmensano,3 1/2,cucharada,18,18,75,6.7,5.0,0.9,15.4,20.5,194.1,0.2,267.6,3.0
+A.O.A.MODERADOS EN GRASA,Queso parmensano duro,20,g,20,20,78,7.2,5.2,0.6,13.6,21.2,236.8,0.2,320.4,4.5
+A.O.A.MODERADOS EN GRASA,Queso parmensano en trozo,20,g,20,20,78,7.2,5.2,0.6,13.6,21.2,236.8,0.2,320.4,4.5
+A.O.A.MODERADOS EN GRASA,Queso parmensano rallado,3 1/2,cucharada,18,18,75,6.7,5.0,0.9,15.4,20.5,194.1,0.2,267.6,3.0
+A.O.A.MODERADOS EN GRASA,Queso ricotta semidescremado,55,g,55,55,76,6.3,4.3,2.8,16.9,57.8,149.5,0.2,68.8,9.2
+A.O.A.MODERADOS EN GRASA,Queso tipo americano lala light,30,g,30,30,63,5.0,3.8,1.7,ND,ND,ND,ND,480.0,ND
+A.O.A.MODERADOS EN GRASA,Requesón promedio,3 1/2,cucharada,42,42,76,6.3,5.0,1.3,10.5,ND,38.6,0.2,163.8,ND
+A.O.A.MODERADOS EN GRASA,Salami de pavo,6,rebanada,42,42,72,8.1,3.9,0.7,31.9,0.8,16.8,0.5,421.7,11.1
+A.O.A.MODERADOS EN GRASA,Salchica de pavo,1,pieza,61,61,120,14.6,6.4,1.0,56.4,6.7,13.5,0.9,407.3,0.0
+A.O.A.MODERADOS EN GRASA,Salchicha vegetariana,1,pieza,25,25,64,4.6,4.5,2.5,ND,ND,15.8,0.9,222.0,1.9
+A.O.A.MODERADOS EN GRASA,Salmón de aceite,35,g,35,35,71,7.6,4.9,0.0,28.0,6.3,27.7,0.3,165.6,16.1
+A.O.A.MODERADOS EN GRASA,Sardina en aceite,3,pieza,36,36,75,8.9,4.1,0.0,51.1,11.5,137.5,1.1,181.8,19.0
+A.O.A.MODERADOS EN GRASA,Sardina en tomate,1,pieza,38,38,71,7.9,4.0,0.3,23.2,12.2,91.2,0.9,157.3,15.4
+A.O.A.MODERADOS EN GRASA,Sesos de cerdo cocidos,50,g,50,50,69,6.1,4.8,0.0,1276.0,0.0,4.5,0.9,45.5,9.3
+A.O.A.MODERADOS EN GRASA,Sesos de cordero cocidos,50,g,50,50,73,6.3,5.1,0.0,1021.5,0.0,6.0,0.8,67.0,6.0
+A.O.A.MODERADOS EN GRASA,Sesos de ternera cocidos,50,g,50,50,68,5.7,4.8,0.0,1550,0.0,8.0,0.8,78.0,5.5
+A.O.A.MODERADOS EN GRASA,Sierra,50,g,50,38,78,7.3,5.2,0.0,30.0,50.6,1.9,0.4,0.0,5.3
+A.O.A.MODERADOS EN GRASA,Sierra fileteada,35,g,35,35,73,6.8,4.9,0.0,28.0,47.3,1.8,0.4,0.0,4.9
+A.O.A.MODERADOS EN GRASA,Sierra picada,35,g,35,35,73,6.8,4.9,0.0,28.0,47.3,1.8,0.4,0.0,4.9
+A.O.A.MODERADOS EN GRASA,Suarero crudo,29,g,29,29,76,7.8,4.8,0.0,20.9,0.0,1.7,1.0,20.3,0.0
+A.O.A.MODERADOS EN GRASA,Sustituto de queso mozzarella,1,rebanada,28,28,69,3.2,3.4,6.6,ND,122.0,171.0,0.1,192.0,0.0
