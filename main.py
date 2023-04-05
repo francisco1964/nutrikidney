@@ -11,7 +11,6 @@ Bootstrap(app)
 
 @app.route('/')
 def get_all_posts():
-
     return render_template("index.html")
 
 
