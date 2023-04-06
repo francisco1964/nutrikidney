@@ -55,8 +55,13 @@ def get_equivalentes():
 
 @app.route("/equivalente/<int:index>", methods=["GET", "POST"] )
 def show_equivalente(index):
-    return (f"Mostrar equivalente: {index}")
-    pass
+    eq = None
+    with app.app_context():
+        eq = db.session.query(Equivalente).filter(Equivalente.id==index).first()
+        return render_template("equivalente.html",equivalente = eq)
+    
+    return redirect(url_for("get_equivalentes"))
+
 
 if __name__ == "__main__":
     # app.run(debug=True,port=5001)

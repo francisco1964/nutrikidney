@@ -1,0 +1,19 @@
+
+
+{% include "header.html" %}
+
+<h3>{{ equivalente.nombre }}</h3>
+<ul>
+
+    {% for prop in equivalente.propiedades %}
+    <div>
+        <span>{{prop.concepto.nombre}}: </span>
+        <span>{{prop.valor}}</span>
+    </div>
+
+    {% endfor %}
+
+</ul>
+
+
+{% include "footer.html" %}

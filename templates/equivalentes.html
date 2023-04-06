@@ -8,7 +8,7 @@
 {{ wtf.quick_form(form, novalidate=True, button_map={"submit": "primary"}) }}
 <ul>
     {% for equivalente in equivalentes %}
-    <li> {{ equivalente.nombre }},{{ equivalente.propiedades[0].valor }},  {{ equivalente.propiedades[1].valor }}</li>
+    <li><a href="{{ url_for('show_equivalente', index=equivalente.id) }}"> {{ equivalente.nombre }}</a>,{{ equivalente.propiedades[0].valor }},  {{ equivalente.propiedades[1].valor }}</li>
 
     {% endfor %}
 
