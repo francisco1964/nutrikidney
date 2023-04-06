@@ -1,0 +1,31 @@
+id,nombre
+1,Cantidad sugerida
+2,Unidad
+3,Peso bruto redondeado (g)
+4,Peso neto (g)
+5,Energia (Kcal)
+6,Proteina (g)
+7,Lípidos (g)
+8,Hidratos de carbono (g)
+9,Colesterol (mg)
+10,Vitamina A     (microg RE)
+11,Calcio (mg)
+12,Hierro (mg)
+13,Sodio (mg)
+14,Selenio (mg)
+15,AG Saturados (g)
+16,AG Monoinsaturados (g)
+17,AG Poliinsatuirados (g)
+18,Fibra (g)
+19,Acido Ascórbico   (mg)
+20,Acido Fólico (microg)
+21,Hierro NO HEM (mg)
+22,Potasio (mg)
+23,Azúcar por equivalente (g)
+24,Indice glicémico
+25,Carga glicémica
+26,sodio (mg)
+27,Selenio (microg)
+28,Azúcares por equivalente (g)
+30,Fósforo (mg)
+31,Etanol (g)

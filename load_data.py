@@ -32,7 +32,7 @@ class Equivalente(db.Model):
     # id = db.Column(db.Integer, primary_key=True)
     id =  mapped_column(Integer, primary_key=True)
     grupo = db.Column(db.String(100))
-    nombre = db.Column(db.String(100), unique=True)
+    nombre = db.Column(db.String(100))
     concepto = db.Column(db.String(100))
     valor = db.Column(db.String(10))
 
