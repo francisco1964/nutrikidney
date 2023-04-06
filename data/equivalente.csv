@@ -1,180 +1,180 @@
 id,nombre,grupo_id
 1,Abulón fresco,1
-2,Aceite comestible,4
-3,Aceite de aguacate,4
-4,Aceite de ajonjolí,4
-5,Aceite de algodón,4
-6,Aceite de almendra,4
-7,Aceite de cacao,4
-8,Aceite de cachuate,4
-9,Aceite de canola,4
-10,Aceite de cártamo,4
-11,Aceite de coco,4
-12,Aceite de girasol 60% con ácido linoleico,4
-13,Aceite de girasol 70% con ácido aleico,4
-14,Aceite de girasol,4
-15,Aceite de hígado de bacalao,4
-16,Aceite de maíz,4
-17,Aceite de oliva extra virgen,4
-18,Aceite de oliva,4
-19,Aceite de olivo,4
-20,Aceite de palma,4
-21,Aceite de soya y algodón,4
-22,Aceite de soya,4
-23,Aceite en spray,4
-24,Aceite,4
-25,Aceituna negra sin hueso,4
-26,Aceituna verde con hueso,4
-27,Aceituna verde sin hueso,4
-28,Aceitunas rellenas de anchoa,4
-29,Aceitunas rellenas de pimiento,4
-30,Acelga cruda,16
-31,Acelga picada cocida,16
-32,Achiote,6
+2,Aceite,5
+3,Aceite comestible,5
+4,Aceite de aguacate,5
+5,Aceite de ajonjolí,5
+6,Aceite de algodón,5
+7,Aceite de almendra,5
+8,Aceite de cacao,5
+9,Aceite de cachuate,5
+10,Aceite de canola,5
+11,Aceite de cártamo,5
+12,Aceite de coco,5
+13,Aceite de girasol,5
+14,Aceite de girasol 60% con ácido linoleico,5
+15,Aceite de girasol 70% con ácido aleico,5
+16,Aceite de hígado de bacalao,5
+17,Aceite de maíz,5
+18,Aceite de oliva,5
+19,Aceite de oliva extra virgen,5
+20,Aceite de olivo,5
+21,Aceite de palma,5
+22,Aceite de soya,5
+23,Aceite de soya y algodón,5
+24,Aceite en spray,5
+25,Aceituna negra sin hueso,5
+26,Aceituna verde con hueso,5
+27,Aceituna verde sin hueso,5
+28,Aceitunas rellenas de anchoa,5
+29,Aceitunas rellenas de pimiento,5
+30,Acelga cruda,19
+31,Acelga picada cocida,19
+32,Achiote,7
 33,Acociles,1
-34,Activia natural bebible,14
-35,Activia natural sólido,14
-36,Activia natural,14
-37,Aderezo blue cheese bajo en calorias,7
-38,Aderezo blue cheese,4
-39,Aderezo con queso y ajo,4
-40,Aderezo cremoso,4
-41,Aderezo de ciruela pasas,4
-42,Aderezo de hierbas finas,4
-43,Aderezo de mayonesa,4
-44,Aderezo de miel y mostaza bajo calorias,7
-45,Aderezo de miel y mostaza,4
-46,Aderezo de miel,7
-47,Aderezo fránces bajo en calorías,7
-48,Aderezo francés,4
-49,Aderezo italiano bajo en calorías,4
-50,Aderezo italiano cremoso bajo en calorías,4
-51,Aderezo italiano cremoso,4
-52,Aderezo italiano,4
-53,Aderezo jalapeño,4
-54,Aderezo mil islas bajo en calorías,7
-55,Aderezo mil islas,4
-56,Aderezo ranch bajo en calorías,7
-57,Aderezo ranch,4
-58,Aderezo roquefort,4
-59,Aderezo ruso bajo en calorías,7
-60,Aderezo ruso,4
-61,Aderezo tipo blue cheese,4
-62,Aderezo tipo cesar bajo en   calorías,7
-63,Aderezo tipo cesar,4
-64,Aderezo tipo francés,4
-65,Aderezo tipo mil islas,4
-66,Aderezo tipo ranch,4
-67,Aderezo vinagreta casera,4
-68,Aderezo vinagreta comercial,4
-69,Aderezo,4
-70,Aderezos para ensalada bajos en calorías y grasa,7
-71,Agua de coco,11
-72,Agua mineral,6
-73,Agua quina,7
-74,Agua,6
-75,Aguacate California,4
-76,Aguacate de pellejo,4
-77,Aguacate florida,4
-78,Aguacate hass,4
-79,Aguacate madiano,4
-80,Aguacate verde,4
-81,Aguardiente,8
-82,Aguayón de res,1
-83,Aguayón,1
+34,Activia natural,16
+35,Activia natural bebible,16
+36,Activia natural sólido,16
+37,Aderezo,5
+38,Aderezo blue cheese,5
+39,Aderezo blue cheese bajo en calorias,8
+40,Aderezo con queso y ajo,5
+41,Aderezo cremoso,5
+42,Aderezo de ciruela pasas,5
+43,Aderezo de hierbas finas,5
+44,Aderezo de mayonesa,5
+45,Aderezo de miel,8
+46,Aderezo de miel y mostaza,5
+47,Aderezo de miel y mostaza bajo calorias,8
+48,Aderezo francés,5
+49,Aderezo fránces bajo en calorías,8
+50,Aderezo italiano,5
+51,Aderezo italiano bajo en calorías,5
+52,Aderezo italiano cremoso,5
+53,Aderezo italiano cremoso bajo en calorías,5
+54,Aderezo jalapeño,5
+55,Aderezo mil islas,5
+56,Aderezo mil islas bajo en calorías,8
+57,Aderezo ranch,5
+58,Aderezo ranch bajo en calorías,8
+59,Aderezo roquefort,5
+60,Aderezo ruso,5
+61,Aderezo ruso bajo en calorías,8
+62,Aderezo tipo blue cheese,5
+63,Aderezo tipo cesar,5
+64,Aderezo tipo cesar bajo en   calorías,8
+65,Aderezo tipo francés,5
+66,Aderezo tipo mil islas,5
+67,Aderezo tipo ranch,5
+68,Aderezo vinagreta casera,5
+69,Aderezo vinagreta comercial,5
+70,Aderezos para ensalada bajos en calorías y grasa,9
+71,Agua,7
+72,Agua de coco,13
+73,Agua mineral,7
+74,Agua quina,9
+75,Aguacate California,5
+76,Aguacate de pellejo,5
+77,Aguacate florida,5
+78,Aguacate hass,5
+79,Aguacate madiano,5
+80,Aguacate verde,5
+81,Aguardiente,10
+82,Aguayón,1
+83,Aguayón de res,1
 84,Aguja de res,3
 85,Ahuahutle seco,1
-86,Ajo en polvo,6
-87,Ajonjoli tostado,5
-88,Ajonjoli,5
-89,Albahaca deshidratada,6
-90,Albahaca molida,6
-91,Albaricoque en almibar,11
-92,Albaricoque en mitades enlatados en agua,11
-93,Albaricoque en mitades enlatados en jugo,11
-94,Alcachofa mediana cocida,16
-95,Alcaparras,6
-96,Alcaravea,6
+86,Ajo en polvo,7
+87,Ajonjoli,6
+88,Ajonjoli tostado,6
+89,Albahaca deshidratada,7
+90,Albahaca molida,7
+91,Albaricoque en almibar,13
+92,Albaricoque en mitades enlatados en agua,13
+93,Albaricoque en mitades enlatados en jugo,13
+94,Alcachofa mediana cocida,19
+95,Alcaparras,7
+96,Alcaravea,7
 97,Alce crudo,1
-98,Alegría natural,10
-99,Alegría tostada,10
-100,Alemndra ahumada,5
-101,ALF* para beber fresa con Lactobacillus casei Shirota,12
-102,ALF* para beber mango con Lactobacillus casei Shirota,12
-103,ALF* para beber natural con Lactobacillus casei Shirota,12
-104,ALF** fresa con lactobacillus casei Shirota,13
-105,ALF** mango con lactobacillus casei Shirota,13
-106,ALF** manzana con lactobacillus casei Shirota,13
+98,Alegría natural,12
+99,Alegría tostada,12
+100,Alemndra ahumada,6
+101,ALF* para beber fresa con Lactobacillus casei Shirota,14
+102,ALF* para beber mango con Lactobacillus casei Shirota,14
+103,ALF* para beber natural con Lactobacillus casei Shirota,14
+104,ALF** fresa con lactobacillus casei Shirota,14
+105,ALF** mango con lactobacillus casei Shirota,14
+106,ALF** manzana con lactobacillus casei Shirota,15
 107,ALF** natural con Lactobacillus casei Shirota,14
-108,Alimento lácteo fermentado con Actiregularis sabor Ciruela Pasa (bebible),12
-109,Alimento lácteo fermentado con Actiregularis sabor Ciruela Pasa (sólido),12
-110,Alimento lácteo fermentado con Actiregularis sabor fresa (bebible),12
-111,Alimento lácteo fermentado con Actiregularis sabor fresa (sólido),12
-112,Alimento lácteo fermentado sabor fresa (Lactobacillus casei y Streptococcus thermophilus),12
-113,Alimento lácteo fermentado sabor manzana  (Lactobacillus casei y Streptococcus thermophilus),12
-114,Alimento lácteo fermentado sabor natural  (Lactobacillus casei y Streptococcus thermophilus),12
+108,Alimento lácteo fermentado con Actiregularis sabor Ciruela Pasa (bebible),14
+109,Alimento lácteo fermentado con Actiregularis sabor Ciruela Pasa (sólido),14
+110,Alimento lácteo fermentado con Actiregularis sabor fresa (bebible),14
+111,Alimento lácteo fermentado con Actiregularis sabor fresa (sólido),14
+112,Alimento lácteo fermentado sabor fresa (Lactobacillus casei y Streptococcus thermophilus),14
+113,Alimento lácteo fermentado sabor manzana  (Lactobacillus casei y Streptococcus thermophilus),14
+114,Alimento lácteo fermentado sabor natural  (Lactobacillus casei y Streptococcus thermophilus),14
 115,Almeja chirla,1
 116,Almeja cruda mediana sin concha,1
 117,Almeja fresca sin concha,1
-118,Almendra acaramelada,5
-119,Almendra con chocolate,7
-120,Almendra deshidratada,5
-121,Almendra fileteada,5
-122,Almendra picada,5
-123,Almendra tostada,5
-124,Almendra,5
-125,Almond joy miniatura,7
-126,Almond joy,7
+118,Almendra,6
+119,Almendra acaramelada,6
+120,Almendra con chocolate,8
+121,Almendra deshidratada,6
+122,Almendra fileteada,6
+123,Almendra picada,6
+124,Almendra tostada,6
+125,Almond joy,8
+126,Almond joy miniatura,8
 127,Alón de pollo con piel cocido,2
 128,Alón de pollo con piel crudo,2
 129,Alón de pollo sin piel,1
-130,Alubia cocida (chica o grande),15
-131,Alubia cruda (chica o grande),15
-132,Alubia enlatada guisada,15
-133,Alubia germinada,15
-134,Alverjón o chicharo  seco cocido,15
-135,Alverjón o chicharo  seco crudo,15
-136,Amaranto cocido,10
-137,Amaranto tostado,10
+130,Alubia cocida (chica o grande),18
+131,Alubia cruda (chica o grande),18
+132,Alubia enlatada guisada,18
+133,Alubia germinada,18
+134,Alverjón o chicharo  seco cocido,18
+135,Alverjón o chicharo  seco crudo,18
+136,Amaranto cocido,12
+137,Amaranto tostado,12
 138,Anchoa con aceite,3
 139,Anchoa fresca,1
 140,Anillos de calamar,1
-141,Anillos de trigo azucarados de colores,10
-142,Anís dulce seco,8
-143,Anís,6
-144,Anona,11
+141,Anillos de trigo azucarados de colores,12
+142,Anís,7
+143,Anís dulce seco,10
+144,Anona,13
 145,Añejo tipo cotija,2
-146,Apio cocido,16
-147,Apio crudo,16
-148,Arándano fresco,11
-149,Arándano seco con azucar,11
+146,Apio cocido,19
+147,Apio crudo,19
+148,Arándano fresco,13
+149,Arándano seco con azucar,13
 150,Arenque cocido,3
 151,Arenque fresco crudo,3
-152,Arenque marinado,3
+152,Arenque marinado,4
 153,Armadillo,1
 154,Arrachera cruda,3
 155,Arrachera de avestruz,1
 156,Arrachera de res cruda,3
-157,Arroz cocido,10
-158,Arroz crudo,10
-159,Arroz inflado con cocoa,10
-160,Arroz inflado natural,10
-161,Arroz integral cocido,10
-162,Arroz integral crudo,10
-163,Arroz precocido cocido,10
-164,Arroz precocido crudo,10
-165,Arroz pulido crudo,10
-166,Arroz salvaje cocido,10
-167,Arroz salvaje crudo,10
-168,Arúgula! cruda,16
-169,Arúgula,6
-170,Aspartame,6
-171,Ate de guayaba,7
-172,Ate de membrillo,7
-173,Ate,7
-174,Atole en polvo,10
-175,Atole en sobre,10
-176,Atole vitaminado,10
+157,Arroz cocido,12
+158,Arroz crudo,12
+159,Arroz inflado con cocoa,12
+160,Arroz inflado natural,12
+161,Arroz integral cocido,12
+162,Arroz integral crudo,12
+163,Arroz precocido cocido,12
+164,Arroz precocido crudo,12
+165,Arroz pulido crudo,12
+166,Arroz salvaje cocido,12
+167,Arroz salvaje crudo,12
+168,Arúgula,7
+169,Arúgula! cruda,19
+170,Aspartame,7
+171,Ate,9
+172,Ate de guayaba,9
+173,Ate de membrillo,9
+174,Atole en polvo,12
+175,Atole en sobre,12
+176,Atole vitaminado,12
 177,Atún blanco en aceite,3
 178,Atún blanco en agua (drenado),1
 179,Atún en aceite drenado,3
@@ -182,172 +182,172 @@ id,nombre,grupo_id
 181,Atún fresco,1
 182,Atún horneado,1
 183,Atún lihgt (drenado),1
-184,Avellana picada,5
-185,Avellana salada,5
-186,Avellana tostada,5
-187,Avellana,5
-188,Avena cocida,10
-189,Avena con canela y especias,10
-190,Avena con manzana y canela,10
-191,Avena con pasitas y especias,10
-192,Avena en hojuelas,10
-193,Avena instantánea PLUS varios sabores,10
-194,Avena instantánea preparada,10
-195,Avena instantánea varios sabores,10
-196,Avena integral con pasitas! instantánea preparada,10
-197,Avena integral,10
-198,Avena Quaker Old fashion,10
-199,Azafrán,6
-200,Azúcar blanca,7
-201,Azúcar de mesa,7
-202,Azúcar glass,7
-203,Azúcar granulada,7
-204,Azúcar mascabado,7
-205,Azúcar morena,7
+184,Avellana,6
+185,Avellana picada,6
+186,Avellana salada,6
+187,Avellana tostada,6
+188,Avena cocida,12
+189,Avena con canela y especias,12
+190,Avena con manzana y canela,12
+191,Avena con pasitas y especias,12
+192,Avena en hojuelas,12
+193,Avena instantánea PLUS varios sabores,12
+194,Avena instantánea preparada,12
+195,Avena instantánea varios sabores,12
+196,Avena integral,12
+197,Avena integral con pasitas! instantánea preparada,12
+198,Avena Quaker Old fashion,12
+199,Azafrán,7
+200,Azúcar blanca,9
+201,Azúcar de mesa,9
+202,Azúcar glass,9
+203,Azúcar granulada,9
+204,Azúcar mascabado,9
+205,Azúcar morena,9
 206,Bacalao enlatado,1
 207,Bacalao fresco,1
 208,Bacalao noruego,1
 209,Bacalao seco,1
-210,Bagel de ajo,10
-211,Bagel de ajonjolí,10
-212,Bagel de avena,10
-213,Bagel de canela y pasas,10
-214,Bagel de cebolla,10
-215,Bagel integral,10
-216,Bagel,10
-217,Bagre fileteado,1
-218,Bagre,1
-219,Baguette,10
-220,Barbacoa con hueso,3
-221,Barbacoa,3
-222,Barquillo,10
-223,Barra Chewy para niños varios sabores,9
-224,Barra Choco Krispis,9
-225,Barra de fruta con Avena fresa,9
-226,Barra de granola,9
-227,Barra multigrano linaza,9
-228,Barra Special K varios sabores,10
-229,Barra Stila varios sabores,10
-230,Barra zucaritas,9
-231,Barrita de avena,10
-232,Barrita de fresa,9
-233,Barrita de granola con cacahuate,9
-234,Barrita de granola con choco chip,9
-235,Barrita de granola con pasitas y nuez,9
-236,Barrita de granola cubierta con chocolate,9
-237,Barrita de granola sabor manzana,10
-238,Barrita marinela,9
-239,Base para pay,9
-240,Bebida láctea fermentada,7
-241,Bebida para deportistas en polvo,7
-242,Bebida para deportistas,7
-243,Berenjena picada cocida,16
-244,Berro crudo,16
-245,Betabel crudo rallado,16
-246,Betabel crudo,16
-247,Bigote de cajeta,9
-248,Bigote relleno de chocolate,9
-249,Bigotes de chocolate,9
-250,Bigotes miniatura de cajeta,9
-251,Bimbuñuelos,9
-252,Bio 4,12
-253,Birote,10
-254,Bisquet,9
-255,Bistec bola,3
-256,Bistec de res,1
-257,Bistec de ternera,3
-258,Bistec,1
-259,Bledos crudos,16
-260,Blueberries congeladas con azucar,11
-261,Blueberries congeladas,11
-262,Blueberries en almibar,11
-263,Blueberries,11
-264,Bola de res,3
+210,Bagel,12
+211,Bagel de ajo,12
+212,Bagel de ajonjolí,12
+213,Bagel de avena,12
+214,Bagel de canela y pasas,12
+215,Bagel de cebolla,12
+216,Bagel integral,12
+217,Bagre,1
+218,Bagre fileteado,1
+219,Baguette,12
+220,Barbacoa,3
+221,Barbacoa con hueso,3
+222,Barquillo,12
+223,Barra Chewy para niños varios sabores,11
+224,Barra Choco Krispis,11
+225,Barra de fruta con Avena fresa,11
+226,Barra de granola,11
+227,Barra multigrano linaza,11
+228,Barra Special K varios sabores,12
+229,Barra Stila varios sabores,12
+230,Barra zucaritas,11
+231,Barrita de avena,12
+232,Barrita de fresa,11
+233,Barrita de granola con cacahuate,11
+234,Barrita de granola con choco chip,11
+235,Barrita de granola con pasitas y nuez,11
+236,Barrita de granola cubierta con chocolate,11
+237,Barrita de granola sabor manzana,12
+238,Barrita marinela,11
+239,Base para pay,11
+240,Bebida láctea fermentada,9
+241,Bebida para deportistas,9
+242,Bebida para deportistas en polvo,9
+243,Berenjena picada cocida,19
+244,Berro crudo,19
+245,Betabel crudo,19
+246,Betabel crudo rallado,19
+247,Bigote de cajeta,11
+248,Bigote relleno de chocolate,11
+249,Bigotes de chocolate,11
+250,Bigotes miniatura de cajeta,11
+251,Bimbuñuelos,11
+252,Bio 4,14
+253,Birote,12
+254,Bisquet,11
+255,Bistec,1
+256,Bistec bola,4
+257,Bistec de res,1
+258,Bistec de ternera,3
+259,Bledos crudos,19
+260,Blueberries,13
+261,Blueberries congeladas,13
+262,Blueberries congeladas con azucar,13
+263,Blueberries en almibar,13
+264,Bola de res,4
 265,Bola de ternera,1
-266,Bolillo integral sin migajón,10
-267,Bolillo integral,10
-268,Bolillo sin migajón,10
-269,Bolillo,10
-270,Bollo de hamburguesa,10
-271,Bollos para hamburguesa,10
-272,Bonito en aceite,3
-273,Bonito filereado,3
-274,Bonito,3
-275,Boost *,7
+266,Bolillo,12
+267,Bolillo integral,12
+268,Bolillo integral sin migajón,12
+269,Bolillo sin migajón,12
+270,Bollo de hamburguesa,12
+271,Bollos para hamburguesa,12
+272,Bonito,3
+273,Bonito en aceite,3
+274,Bonito filereado,3
+275,Boost *,9
 276,Boquerón crudo,1
-277,Boquerones (fritos),3
+277,Boquerones (fritos),4
 278,Boquilla! crudo,1
-279,Botanas con proteinas de amaranto,9
-280,Brandy,8
-281,Breba,11
-282,Brócoli cocido,16
-283,Brócoli crudo,16
-284,Brownie casero,9
-285,Brownie comercial,9
-286,Bubbaloo xtreme,7
-287,Bubulubu,7
-288,burbujas de maíz azucaradas,10
-289,Burn *,7
+279,Botanas con proteinas de amaranto,11
+280,Brandy,10
+281,Breba,13
+282,Brócoli cocido,19
+283,Brócoli crudo,19
+284,Brownie casero,11
+285,Brownie comercial,11
+286,Bubbaloo xtreme,9
+287,Bubulubu,9
+288,burbujas de maíz azucaradas,12
+289,Burn *,9
 290,Cabeza de carnero cocida,3
 291,Cabeza de cerdo,3
 292,Cabeza de pescado,1
 293,Cabrilla,1
 294,Cabrito,1
-295,Cacahuate acaramelado,5
-296,Cacahuate con cáscara,5
-297,Cacahuate con pepitas,5
-298,Cacahuate con piel,5
-299,Cacahuate confitado (chocolate),7
-300,Cacahuate enchilado,5
-301,Cacahuate japonés,5
-302,Cacahuate picado,5
-303,Cacahuate salado,5
-304,Cacahuate tostado,5
-305,Cacahuate,5
-306,Cacahuates confitados,5
-307,Cacahuates cubiertos con salsa y limón,5
-308,Cacahucate cocido,5
-309,Cacao sin cascara,5
-310,Cacoa con cáscara,5
-311,Cacoa pataste,5
-312,Café americano,6
-313,Café capuchino helado,7
-314,Café capuchino instantáneo,7
-315,Café con azúcar,6
-316,Café de grano,6
-317,Café de polvo descafeinado,6
-318,Café descafeinado preparado,6
-319,Café descafeinado,6
-320,Café en polvo sabor moka,6
-321,Café en polvo,6
-322,Café express,6
-323,Café instantáneo! descafeinado,6
-324,Café instantáneo,6
-325,Café intantánio preparado,6
-326,Café molido,6
-327,Café ó té sin azúcar,6
-328,Café sin azúcar,6
-329,Caimito blanco o morado,11
-330,Cajeta,7
-331,Calabacita alargada cruda,16
-332,Calabacita de Castilla cocida,16
-333,Calabacita redonda cruda,16
-334,Calabaza melón,11
-335,Calahua,4
+295,Cacahuate,6
+296,Cacahuate acaramelado,6
+297,Cacahuate con cáscara,6
+298,Cacahuate con pepitas,6
+299,Cacahuate con piel,6
+300,Cacahuate confitado (chocolate),8
+301,Cacahuate enchilado,6
+302,Cacahuate japonés,6
+303,Cacahuate picado,6
+304,Cacahuate salado,6
+305,Cacahuate tostado,6
+306,Cacahuates confitados,6
+307,Cacahuates cubiertos con salsa y limón,6
+308,Cacahucate cocido,6
+309,Cacao sin cascara,6
+310,Cacoa con cáscara,6
+311,Cacoa pataste,6
+312,Café americano,7
+313,Café capuchino helado,9
+314,Café capuchino instantáneo,9
+315,Café con azúcar,7
+316,Café de grano,7
+317,Café de polvo descafeinado,7
+318,Café descafeinado,7
+319,Café descafeinado preparado,7
+320,Café en polvo,7
+321,Café en polvo sabor moka,7
+322,Café express,7
+323,Café instantáneo,7
+324,Café instantáneo! descafeinado,7
+325,Café intantánio preparado,7
+326,Café molido,7
+327,Café ó té sin azúcar,7
+328,Café sin azúcar,7
+329,Caimito blanco o morado,13
+330,Cajeta,9
+331,Calabacita alargada cruda,19
+332,Calabacita de Castilla cocida,19
+333,Calabacita redonda cruda,19
+334,Calabaza melón,13
+335,Calahua,5
 336,Calamar americano,1
 337,Calamar crudo,1
 338,Calamar fresco entero,1
 339,Calamar fresco limpio,1
 340,Calamar frito,3
-341,Caldo de carne concentrado,6
-342,Caldo de carne,6
-343,Caldo de pescado,6
-344,Caldo de pollo concentrado,6
-345,Caldo de pollo enlatado,6
-346,Caldo de pollo,6
-347,Caldo de res enlatado,6
-348,Caldo de res,6
-349,Caldo,6
+341,Caldo,7
+342,Caldo de carne,7
+343,Caldo de carne concentrado,7
+344,Caldo de pescado,7
+345,Caldo de pollo,7
+346,Caldo de pollo concentrado,7
+347,Caldo de pollo enlatado,7
+348,Caldo de res,7
+349,Caldo de res enlatado,7
 350,Camarón 16-20,1
 351,Camarón cocido,1
 352,Camarón crudo mediano,1
@@ -355,42 +355,42 @@ id,nombre,grupo_id
 354,Camarón enlatado,1
 355,Camarón gigante,1
 356,Camarón pacotilla,1
-357,Camarón seco salado,1
-358,Camarón seco,1
+357,Camarón seco,1
+358,Camarón seco salado,1
 359,Camarón U15,1
-360,Camote al honor,10
-361,Camote amarillo,10
-362,Camote cocido,10
-363,Camote con miel,10
-364,Camote con naranja,10
-365,Camote en dulce,10
-366,Camote largo,10
-367,Camote poblano (dulce),10
-368,Cana de azúcar,11
-369,Canela en polvo,6
-370,Canela en raja,6
-371,Canela molida,6
-372,Canela,6
-373,Canelones,10
-374,Cangrejo de Alaska cocido,1
+360,Camote al honor,12
+361,Camote amarillo,12
+362,Camote cocido,12
+363,Camote con miel,12
+364,Camote con naranja,12
+365,Camote en dulce,12
+366,Camote largo,12
+367,Camote poblano (dulce),12
+368,Cana de azúcar,13
+369,Canela,7
+370,Canela en polvo,7
+371,Canela en raja,7
+372,Canela molida,7
+373,Canelones,12
+374,Cangrejo,1
 375,Cangrejo de Alaska,1
-376,Cangrejo enlatado,1
-377,Cangrejo,1
+376,Cangrejo de Alaska cocido,1
+377,Cangrejo enlatado,1
 378,Cangrejp cocido,1
-379,Capulín,11
-380,Carambolo o Carambola,11
-381,Caramelo de mantequilla,7
-382,Caramelo macizo,7
-383,Caramelo salvavidas,7
-384,Caramelo,7
-385,Cardamomo molido,6
-386,Cardamomo,6
-387,Carlos V,7
+379,Capulín,13
+380,Carambolo o Carambola,13
+381,Caramelo,9
+382,Caramelo de mantequilla,9
+383,Caramelo macizo,9
+384,Caramelo salvavidas,9
+385,Cardamomo,7
+386,Cardamomo molido,7
+387,Carlos V,8
 388,Carne de alce cocida,1
 389,Carne de armadillo,1
 390,Carne de avestruz,1
-391,Carne de cerdo molida,3
-392,Carne de cerdo,3
+391,Carne de cerdo,3
+392,Carne de cerdo molida,3
 393,Carne de faisám cruda sin  piel,1
 394,Carne de ganzo de crianza,3
 395,carne de jaiba,1
@@ -398,260 +398,260 @@ id,nombre,grupo_id
 397,Carne de res (promedio),3
 398,Carne de res seca,1
 399,Carne de res semigrasossa,2
-400,Carne de suadero,3
+400,Carne de suadero,4
 401,Carne de ternera,3
 402,Carne de venado cruda,1
-403,Carne deshebrada,3
+403,Carne deshebrada,4
 404,Carne molida de cerdo,3
 405,Carne molida de pavo,1
 406,Carne molida de pollo,1
-407,Carne molida estra magna cocida,3
-408,Carne molida estra magna salteada,3
+407,Carne molida estra magna cocida,4
+408,Carne molida estra magna salteada,4
 409,Carne molida popular de res,2
-410,Carne molida regular cocida,2
-411,Carne molida regular,2
+410,Carne molida regular,2
+411,Carne molida regular cocida,2
 412,Carne obscura de pollo con piel,2
 413,Carne obscura de pollo cruda,1
 414,Carne promedio,3
-415,Carnero con hueso,3
-416,Carnero,3
-417,Carpa cocida,3
-418,Carpa horneada,3
-419,Carpa,3
-420,Cáscara de limón,6
-421,Cáscara de naranja cristalizada,7
-422,Cáscara de naranja,6
-423,Cáscara de papa cruda,10
-424,Castaña asada,7
-425,Castaña con cáscara,7
-426,Castaña,7
-427,Caviar negro,3
-428,Caviar rojo,3
-429,Caviar,3
-430,Cazón fileteado,1
-431,Cazón,1
-432,Ccoc seco,4
-433,Cebada perla cocida,10
-434,Cebada,10
-435,Cebolla blanca rebanada,16
-436,Cebolla cocida,16
-437,Cebolla deshidratada,6
-438,Cebolla en polvo,6
-439,Cebolla morada rebanada,16
-440,Cebollín deshidratada,6
-441,Cebollín fresco,6
-442,Cebollín liofilizado,6
-443,Cebollín,6
-444,Cebollita de cambray sin raíz,16
-445,Cebollita en salmuera,16
-446,Cecina de res,2
-447,Cecina enchilada,1
-448,Cecina,1
-449,Centeno,10
+415,Carnero,3
+416,Carnero con hueso,3
+417,Carpa,3
+418,Carpa cocida,3
+419,Carpa horneada,3
+420,Cáscara de limón,7
+421,Cáscara de naranja,7
+422,Cáscara de naranja cristalizada,9
+423,Cáscara de papa cruda,12
+424,Castaña,9
+425,Castaña asada,9
+426,Castaña con cáscara,9
+427,Caviar,4
+428,Caviar negro,4
+429,Caviar rojo,4
+430,Cazón,1
+431,Cazón fileteado,1
+432,Ccoc seco,5
+433,Cebada,12
+434,Cebada perla cocida,12
+435,Cebolla blanca rebanada,19
+436,Cebolla cocida,19
+437,Cebolla deshidratada,7
+438,Cebolla en polvo,7
+439,Cebolla morada rebanada,19
+440,Cebollín,7
+441,Cebollín deshidratada,7
+442,Cebollín fresco,7
+443,Cebollín liofilizado,7
+444,Cebollita de cambray sin raíz,19
+445,Cebollita en salmuera,19
+446,Cecina,1
+447,Cecina de res,2
+448,Cecina enchilada,1
+449,Centeno,12
 450,Cerdo en canal,2
-451,Cereal Avena Flakes,10
-452,Cereal Chewy para niños varios sabores,10
-453,Cereal con almendras y pasas,10
-454,Cereal con avena con maple,10
-455,Cereal de arroz inflado con chocolate,10
-456,Cereal de arroz,10
-457,Cereal de avena integral! seco,10
-458,Cereal de galleta de chispa de chocolate,10
-459,Cereal de maíz reventado  con azúcar,10
-460,Cereal de salvado de trigo,10
-461,Cereal de trigo con canela,10
-462,Cereal de trigo sabor frutas,10
-463,Cereal integral con pasitas,10
-464,Cereal Multibran Flakes,10
-465,Cereal Multibran pasas,10
-466,Cereal multigrano,10
-467,Cereal sin azúcar,10
-468,Cereales de maíz reventado sabor chocolate y crema de cacahucate,10
-469,Cereza congeladas,11
-470,Cereza,11
-471,Cerezas en almibar,11
-472,Cerezas maschino enlatadas,11
-473,Cerveza ligth,8
-474,Cerveza,8
-475,Chabacano,11
-476,Chagua,11
-477,Chalacas crudas,16
-478,Chambarete de res,1
-479,Chambarete,1
-480,Champaña,8
-481,Champiñon cocido entero,16
-482,Champiñon cocido rebanado,16
-483,Champiñon crudo entero,16
-484,Champíñon crudo rebanado,16
+451,Cereal Avena Flakes,12
+452,Cereal Chewy para niños varios sabores,12
+453,Cereal con almendras y pasas,12
+454,Cereal con avena con maple,12
+455,Cereal de arroz,12
+456,Cereal de arroz inflado con chocolate,12
+457,Cereal de avena integral! seco,12
+458,Cereal de galleta de chispa de chocolate,12
+459,Cereal de maíz reventado  con azúcar,12
+460,Cereal de salvado de trigo,12
+461,Cereal de trigo con canela,12
+462,Cereal de trigo sabor frutas,12
+463,Cereal integral con pasitas,12
+464,Cereal Multibran Flakes,12
+465,Cereal Multibran pasas,12
+466,Cereal multigrano,12
+467,Cereal sin azúcar,12
+468,Cereales de maíz reventado sabor chocolate y crema de cacahucate,12
+469,Cereza,13
+470,Cereza congeladas,13
+471,Cerezas en almibar,13
+472,Cerezas maschino enlatadas,13
+473,Cerveza,10
+474,Cerveza ligth,10
+475,Chabacano,13
+476,Chagua,13
+477,Chalacas crudas,19
+478,Chambarete,1
+479,Chambarete de res,1
+480,Champaña,10
+481,Champiñon cocido entero,19
+482,Champiñon cocido rebanado,19
+483,Champiñon crudo entero,19
+484,Champíñon crudo rebanado,19
 485,Charales frescos,1
 486,Charales secos,1
-487,Charritos de amaranto,9
-488,Chayote cocido picado,16
-489,Chayote crudo,16
-490,Cheescake,9
-491,Cheetos poffs,9
-492,Cheetos,9
+487,Charritos de amaranto,11
+488,Chayote cocido picado,19
+489,Chayote crudo,19
+490,Cheescake,11
+491,Cheetos,11
+492,Cheetos poffs,11
 493,Cheez whiz,2
-494,Chepil crudo,16
-495,Cherimoya picada,11
+494,Chepil crudo,19
+495,Cherimoya picada,13
 496,Cherna,1
-497,Chetos torciditos,9
-498,Chewy candy,7
-499,Chía,5
-500,Chicharo cocido con vaina,16
-501,Chícharo cocido sin vaina,16
-502,Chicharo en vaina cocido,16
-503,Chicharo germinado cocido,15
-504,Chicharrón de cerdo,3
-505,Chicharrón de harina enchilado,9
-506,Chicharrón de puerco,3
-507,Chicharrón,3
-508,Chicle bajo en azúcar,7
-509,Chicle casacabel,6
-510,Chicle en polvo,6
-511,Chicle piquín molido,6
-512,Chicle piquín,6
-513,Chicle sin azúcar,6
-514,Chicle,7
-515,Chicloso,7
-516,Chicoria cruda,16
-517,Chicozapote,11
-518,Chilacayote crudo,16
-519,Chile chilaca,16
-520,Chile chipotle seco,16
-521,Chile costeño,16
-522,Chile cristalino,16
-523,Chile cuaresmeño,16
-524,Chile de árbol seco,16
-525,Chile habanero,16
-526,Chile jalapeño,16
-527,Chile poblano,16
-528,Chiles secos,16
-529,Chilorio de pavo,5
-530,Chilorio,5
+497,Chetos torciditos,11
+498,Chewy candy,9
+499,Chía,6
+500,Chicharo cocido con vaina,19
+501,Chícharo cocido sin vaina,19
+502,Chicharo en vaina cocido,19
+503,Chicharo germinado cocido,18
+504,Chicharrón,4
+505,Chicharrón de cerdo,4
+506,Chicharrón de harina enchilado,11
+507,Chicharrón de puerco,4
+508,Chicle,9
+509,Chicle bajo en azúcar,9
+510,Chicle casacabel,7
+511,Chicle en polvo,7
+512,Chicle piquín,7
+513,Chicle piquín molido,7
+514,Chicle sin azúcar,7
+515,Chicloso,9
+516,Chicoria cruda,19
+517,Chicozapote,13
+518,Chilacayote crudo,19
+519,Chile chilaca,19
+520,Chile chipotle seco,19
+521,Chile costeño,19
+522,Chile cristalino,19
+523,Chile cuaresmeño,19
+524,Chile de árbol seco,19
+525,Chile habanero,19
+526,Chile jalapeño,19
+527,Chile poblano,19
+528,Chiles secos,19
+529,Chilorio,6
+530,Chilorio de pavo,6
 531,Chipirón (calamar) crudo,1
-532,Chips ahoy,9
-533,Chips de platano,9
-534,Chirimoya,11
-535,Chispas de chocolate hershey,7
-536,Chispas de chocolate,7
-537,Chistorra,5
-538,Choco chispas,9
-539,Chocolate amargo,7
-540,Chocolate blanco son azúcar,7
-541,Chocolate blanco,7
-542,Chocolate con almendras,7
-543,Chocolate con arroz tostado,7
-544,Chocolate con azúcar,7
-545,Chocolate con galleta y caramelo,7
-546,Chocolate con leche con menos del 10% proteinas,7
-547,Chocolate con leche y almendras sin azúcar,7
-548,Chocolate con leche,7
-549,Chocolate con nugar y cacahuate,7
-550,Chocolate con nugar,7
-551,Chocolate de coco y almendras,7
-552,Chocolate de leche,7
-553,Chocolate de menta,7
-554,Chocolate en polvo con más del 10% proteínas,7
-555,Chocolate en polvo con menos del 10% proteinas,7
-556,Chocolate en polvo DICONSA,7
-557,Chocolate en polvo sin azúcar,7
-558,Chocolate en polvo sin azúcares,7
-559,Chocolate fundido,7
-560,Chocolate para repostería sin azúcar,6
-561,Chocolate rallado,7
-562,Chocolate semi amargo,7
-563,Chocolate sin azúcar,7
-564,Chongos zamoranos,12
-565,Chorizo de pollo,5
-566,Chorizo vegetariano,5
-567,Chorizo,5
+532,Chips ahoy,11
+533,Chips de platano,11
+534,Chirimoya,13
+535,Chispas de chocolate,8
+536,Chispas de chocolate hershey,8
+537,Chistorra,6
+538,Choco chispas,11
+539,Chocolate amargo,8
+540,Chocolate blanco,8
+541,Chocolate blanco son azúcar,8
+542,Chocolate con almendras,8
+543,Chocolate con arroz tostado,8
+544,Chocolate con azúcar,8
+545,Chocolate con galleta y caramelo,8
+546,Chocolate con leche,8
+547,Chocolate con leche con menos del 10% proteinas,8
+548,Chocolate con leche y almendras sin azúcar,8
+549,Chocolate con nugar,8
+550,Chocolate con nugar y cacahuate,8
+551,Chocolate de coco y almendras,8
+552,Chocolate de leche,8
+553,Chocolate de menta,8
+554,Chocolate en polvo con más del 10% proteínas,8
+555,Chocolate en polvo con menos del 10% proteinas,8
+556,Chocolate en polvo DICONSA,8
+557,Chocolate en polvo sin azúcar,9
+558,Chocolate en polvo sin azúcares,8
+559,Chocolate fundido,8
+560,Chocolate para repostería sin azúcar,7
+561,Chocolate rallado,8
+562,Chocolate semi amargo,8
+563,Chocolate sin azúcar,8
+564,Chongos zamoranos,14
+565,Chorizo,6
+566,Chorizo de pollo,6
+567,Chorizo vegetariano,6
 568,Chuleta ahumada,1
 569,Chuleta de carnero,2
 570,Chuleta de cerdo,3
 571,Chuleta de cordero entera,2
-572,Churritos barcel,9
-573,Cilantro picado crudo,16
-574,Ciricote,11
-575,Ciruela criolla roja o amarilla,11
-576,Ciruela negra,11
-577,Ciruela pasa deshuesada,11
-578,Clara de huevo en polvo,1
-579,Clara de huevo,1
-580,Clavito (hongo) crudo,16
-581,Clavo de olor,6
-582,Clavo en polvo,6
-583,Clavo entero,6
-584,Clavo molido,6
-585,Clavo,6
-586,Clight,6
-587,Coca light,6
-588,Cocacola de dieta,6
-589,Cocada,7
-590,Cocca Cola de dieta,6
-591,Cocca Cola Zero,6
-592,Cocktail de frutas en almibar,11
-593,Cocktail de frutas enlatado en agua,11
-594,Cocktail de frutas enlatado en jugo de frutas,11
-595,Coco de aceite,4
-596,Coco deshidratado,4
-597,Coco en hojuelas,4
-598,Coco entero,4
-599,Coco fresco,4
-600,Coco rallado y endulzado,4
-601,Coco rallado,4
-602,Coco seco y endulzado,4
-603,Coco,4
-604,Cocoa en polvo con aspartame,6
-605,Cocoa sin azúcar Hershey,6
-606,Cocoa sin azúcar,6
-607,Cococa en polvo,7
-608,Cocoyol,11
-609,Codito crudo,10
-610,Coditos con crema deshidratados,10
-611,Col cocida picada,16
-612,Col cruda picada,16
-613,Col morada cruda picada,16
-614,Colesita de Bruselas cocida,16
-615,Coliflor cocida,16
-616,Coliflor cruda,16
-617,Coliflor verde cocida,16
-618,Coliflor verde cruda,16
-619,Colinabo crudo,16
-620,Coloc,11
-621,Comino entetro,6
-622,Comino molido,6
-623,Comino,6
-624,Concentrado de pollo,6
-625,Concha! pan dulce,9
-626,Conejo de crianza,3
-627,Conejo,3
-628,Conos de helado,7
-629,Consiomé de res en polvo,6
-630,Consiomé de res,6
-631,Consomé de camarón en polvo,6
-632,Consomé de pescado,6
-633,Consomé de pollo bajo en grasa,6
-634,Consomé de pollo desgarsado en polvo,6
-635,Consomé de pollo en cubo,6
-636,Consomé de pollo en polvo,6
-637,Consomé de pollo,6
-638,Consomé de res condesado,6
-639,Consomé de res en cubo,6
-640,Consomé de res enlatado,6
-641,Consomé en polvo,6
-642,Consomé sabor tomate,6
-643,Consomé,6
-644,Coñac,8
-645,Coquito,4
+572,Churritos barcel,11
+573,Cilantro picado crudo,19
+574,Ciricote,13
+575,Ciruela criolla roja o amarilla,13
+576,Ciruela negra,13
+577,Ciruela pasa deshuesada,13
+578,Clara de huevo,1
+579,Clara de huevo en polvo,1
+580,Clavito (hongo) crudo,19
+581,Clavo,7
+582,Clavo de olor,7
+583,Clavo en polvo,7
+584,Clavo entero,7
+585,Clavo molido,7
+586,Clight,7
+587,Coca light,7
+588,Cocacola de dieta,7
+589,Cocada,8
+590,Cocca Cola de dieta,7
+591,Cocca Cola Zero,7
+592,Cocktail de frutas en almibar,13
+593,Cocktail de frutas enlatado en agua,13
+594,Cocktail de frutas enlatado en jugo de frutas,13
+595,Coco,5
+596,Coco de aceite,5
+597,Coco deshidratado,5
+598,Coco en hojuelas,5
+599,Coco entero,5
+600,Coco fresco,5
+601,Coco rallado,5
+602,Coco rallado y endulzado,5
+603,Coco seco y endulzado,5
+604,Cocoa en polvo con aspartame,7
+605,Cocoa sin azúcar,7
+606,Cocoa sin azúcar Hershey,7
+607,Cococa en polvo,9
+608,Cocoyol,13
+609,Codito crudo,12
+610,Coditos con crema deshidratados,12
+611,Col cocida picada,19
+612,Col cruda picada,19
+613,Col morada cruda picada,19
+614,Colesita de Bruselas cocida,19
+615,Coliflor cocida,19
+616,Coliflor cruda,19
+617,Coliflor verde cocida,19
+618,Coliflor verde cruda,19
+619,Colinabo crudo,19
+620,Coloc,13
+621,Comino,7
+622,Comino entetro,7
+623,Comino molido,7
+624,Concentrado de pollo,7
+625,Concha! pan dulce,11
+626,Conejo,3
+627,Conejo de crianza,3
+628,Conos de helado,9
+629,Consiomé de res,7
+630,Consiomé de res en polvo,7
+631,Consomé,7
+632,Consomé de camarón en polvo,7
+633,Consomé de pescado,7
+634,Consomé de pollo,7
+635,Consomé de pollo bajo en grasa,7
+636,Consomé de pollo desgarsado en polvo,7
+637,Consomé de pollo en cubo,7
+638,Consomé de pollo en polvo,7
+639,Consomé de res condesado,7
+640,Consomé de res en cubo,7
+641,Consomé de res enlatado,7
+642,Consomé en polvo,7
+643,Consomé sabor tomate,7
+644,Coñac,10
+645,Coquito,5
 646,Corazón de  puerco crudo,1
 647,Corazón de  res cocido,1
-648,Corazón de borrego cocido,3
-649,Corazón de borrego,3
-650,Corazón de cordero cocido,3
-651,Corazón de cordero,3
-652,Corazón de lechuga crudo,16
-653,Corazón de palmito crudo,16
+648,Corazón de borrego,3
+649,Corazón de borrego cocido,3
+650,Corazón de cordero,3
+651,Corazón de cordero cocido,3
+652,Corazón de lechuga crudo,19
+653,Corazón de palmito crudo,19
 654,Corazón de pavo,3
 655,Corazón de pollo cocido,3
 656,Corazón de puerco cocido,1
@@ -659,156 +659,156 @@ id,nombre,grupo_id
 658,Corazón de ternera cocido,1
 659,Corazón de ternera crudo,1
 660,Cordero,2
-661,Corned beef con áspic,3
-662,Corned beef,3
-663,Coroso,5
+661,Corned beef,3
+662,Corned beef con áspic,3
+663,Coroso,6
 664,Costilla de carnero,2
 665,Costilla de res,2
-666,Costillar de cerdo,3
-667,Costillitas de cerdo,3
-668,Costra para pay casera,9
-669,Costra para pay congelada,9
-670,Couscous,10
-671,Cozarón de alcachofa crudo,16
-672,Crazy dips sabor frutas,7
-673,Creama chantilly,4
-674,Creama de coco dulce,4
-675,Creama de coco natural,4
-676,Creama dulce,4
-677,Crema 20% grasa (dulce),4
-678,Crema 40% grasa (agria),4
-679,Crema ácida,4
-680,Crema agria,4
-681,Crema batida en aerosol,4
-682,Crema batida,4
-683,Crema de leche en polvo,4
-684,Crema de menta,8
-685,Crema dulce para batir,4
-686,Crema en polvo para café,7
-687,Crema entera,4
-688,Crema Lala Light,4
-689,Crema ligera,4
-690,Crema natural,4
-691,Crema para batir,4
-692,Crema para café,4
-693,Crema,4
-694,Cremor tártaro,6
-695,Crepa,10
-696,Crepas para rellenar,10
-697,Crepas saladas,10
-698,Cresón cocido,16
-699,Cresón limpio crudo,16
-700,Croissant de manzana,9
-701,Croissant de queso,9
-702,Croissant,9
-703,Croutones sazonados,9
-704,Croutones,10
-705,Crucetas crudas,16
-706,Cuadritos de avena con salvado,10
-707,Cuadritos de avena,10
-708,Cubierta de chocolate,7
-709,Cubierta de fresa,7
-710,Cubierta de piña,7
-711,Cubo consomé,6
-712,Cueritos de fruta,7
-713,Cuernitos de manzana,9
-714,Cuernitos de queso,9
-715,Cuernitos,9
-716,Cuernos,9
-717,Cuete de res,1
-718,Cuete de ternera,3
-719,Cuete,1
-720,Cuitlacoche cocido,16
-721,Cundeamor,11
-722,Cupcake de chocolate,9
-723,Cúrcuma,10
-724,Curry en polvo,6
-725,Curry,6
-726,Dacaf,6
-727,Dalmata,9
-728,Dátil seco,11
-729,Diet coke,6
-730,Diet sprite,6
-731,Dip de cebolla,4
-732,Dip preparado con crema,4
-733,Dip preparado,4
-734,Dip,4
-735,Dona azucarada,9
-736,Dona glaseada de chocolate,9
-737,Dona glaseada sabor chocolate,9
-738,Dona glaseada,9
-739,Dona,9
-740,Doraditas,9
-741,Doritos incognita,9
-742,Doritos nachos,9
-743,Doritos pizzerolas,9
-744,Durazno amarillo,11
-745,Durazno con azúcar congelado,11
-746,Durazno en almibar,11
-747,Durazno enlatado en agua,11
-748,Durazno enlatado en jugo,11
-749,Durazno prisco,11
-750,Echalot,16
-751,Eclair de chocolate,9
-752,Ejotes cocidos picados,16
-753,Elote amarillo cocido,10
-754,Elote amarillo congelado,10
-755,Elote amarillo crudo,10
-756,Elote amarillo desgranado cocido,10
-757,Elote amarillo desgranado crudo,10
-758,Elote amarillo enlatado,10
-759,Elote blanco cocido,10
-760,elote blanco desgranado,10
-761,Elote crudo,10
-762,Elote desgranado,10
-763,Elote enlatado,10
-764,Elotitos de cambray,16
-765,Empuje de res,1
-766,Empuje,1
-767,Eneldo deshidratado,6
-768,Eneldo,6
-769,Enelo en semilla,6
-770,English miffin,10
-771,Envidia cruda,16
+666,Costillar de cerdo,4
+667,Costillitas de cerdo,4
+668,Costra para pay casera,11
+669,Costra para pay congelada,11
+670,Couscous,12
+671,Cozarón de alcachofa crudo,19
+672,Crazy dips sabor frutas,9
+673,Creama chantilly,5
+674,Creama de coco dulce,5
+675,Creama de coco natural,5
+676,Creama dulce,5
+677,Crema,5
+678,Crema 20% grasa (dulce),5
+679,Crema 40% grasa (agria),5
+680,Crema ácida,5
+681,Crema agria,5
+682,Crema batida,5
+683,Crema batida en aerosol,5
+684,Crema de leche en polvo,5
+685,Crema de menta,10
+686,Crema dulce para batir,5
+687,Crema en polvo para café,8
+688,Crema entera,5
+689,Crema Lala Light,5
+690,Crema ligera,5
+691,Crema natural,5
+692,Crema para batir,5
+693,Crema para café,5
+694,Cremor tártaro,7
+695,Crepa,12
+696,Crepas para rellenar,12
+697,Crepas saladas,12
+698,Cresón cocido,19
+699,Cresón limpio crudo,19
+700,Croissant,11
+701,Croissant de manzana,11
+702,Croissant de queso,11
+703,Croutones,12
+704,Croutones sazonados,11
+705,Crucetas crudas,19
+706,Cuadritos de avena,12
+707,Cuadritos de avena con salvado,12
+708,Cubierta de chocolate,9
+709,Cubierta de fresa,9
+710,Cubierta de piña,9
+711,Cubo consomé,7
+712,Cueritos de fruta,9
+713,Cuernitos,11
+714,Cuernitos de manzana,11
+715,Cuernitos de queso,11
+716,Cuernos,11
+717,Cuete,1
+718,Cuete de res,1
+719,Cuete de ternera,3
+720,Cuitlacoche cocido,19
+721,Cundeamor,13
+722,Cupcake de chocolate,11
+723,Cúrcuma,12
+724,Curry,7
+725,Curry en polvo,7
+726,Dacaf,7
+727,Dalmata,11
+728,Dátil seco,13
+729,Diet coke,7
+730,Diet sprite,7
+731,Dip,5
+732,Dip de cebolla,5
+733,Dip preparado,5
+734,Dip preparado con crema,5
+735,Dona,11
+736,Dona azucarada,11
+737,Dona glaseada,11
+738,Dona glaseada de chocolate,11
+739,Dona glaseada sabor chocolate,11
+740,Doraditas,11
+741,Doritos incognita,11
+742,Doritos nachos,11
+743,Doritos pizzerolas,11
+744,Durazno amarillo,13
+745,Durazno con azúcar congelado,13
+746,Durazno en almibar,13
+747,Durazno enlatado en agua,13
+748,Durazno enlatado en jugo,13
+749,Durazno prisco,13
+750,Echalot,19
+751,Eclair de chocolate,11
+752,Ejotes cocidos picados,19
+753,Elote amarillo cocido,12
+754,Elote amarillo congelado,12
+755,Elote amarillo crudo,12
+756,Elote amarillo desgranado cocido,12
+757,Elote amarillo desgranado crudo,12
+758,Elote amarillo enlatado,12
+759,Elote blanco cocido,12
+760,elote blanco desgranado,12
+761,Elote crudo,12
+762,Elote desgranado,12
+763,Elote enlatado,12
+764,Elotitos de cambray,19
+765,Empuje,1
+766,Empuje de res,1
+767,Eneldo,7
+768,Eneldo deshidratado,7
+769,Enelo en semilla,7
+770,English miffin,12
+771,Envidia cruda,19
 772,Escalopa de res,1
 773,Escamoles,1
-774,Espagueti cocido,10
-775,Espagueti con espinacas cocido,10
-776,Espagueti crudo,10
-777,Espagueti integral crudo,10
-778,Espagueto integral cocido,10
-779,Espaguetti cocido,10
-780,Espaguetti con espinacas cocido,10
-781,Espaguetti crudo,10
-782,Espaguetti integral cocido,10
-783,Espaldilla de cerdo,2
-784,Espaldilla,2
-785,Espárragos crudos,16
-786,Especias para sazonar aves,6
-787,Espinaca cocida,16
-788,Espinaca cruda picada,16
-789,Espinazo de cerdo,2
-790,Espinazo,2
-791,Estragón molido,6
-792,Estragón seco,6
-793,Estragón,6
-794,Extracto de vainilla,6
-795,Extraviado fileteado,1
-796,Extraviado,1
+774,Espagueti cocido,12
+775,Espagueti con espinacas cocido,12
+776,Espagueti crudo,12
+777,Espagueti integral crudo,12
+778,Espagueto integral cocido,12
+779,Espaguetti cocido,12
+780,Espaguetti con espinacas cocido,12
+781,Espaguetti crudo,12
+782,Espaguetti integral cocido,12
+783,Espaldilla,2
+784,Espaldilla de cerdo,2
+785,Espárragos crudos,19
+786,Especias para sazonar aves,7
+787,Espinaca cocida,19
+788,Espinaca cruda picada,19
+789,Espinazo,2
+790,Espinazo de cerdo,2
+791,Estragón,7
+792,Estragón molido,7
+793,Estragón seco,7
+794,Extracto de vainilla,7
+795,Extraviado,1
+796,Extraviado fileteado,1
 797,Fajitas de pollo sin piel cruda,1
-798,Falafel! hecho en casa,5
-799,Falda abierta,1
-800,Falda de cerdo,3
-801,Falda de res,1
-802,Falda,1
-803,Fécula de maíz de sabor,10
-804,Fécula de maíz,10
-805,Fetuccini crudo,10
-806,Fibra uno,10
-807,Fideo cocido,10
-808,Fideo con tomate deshidratado,10
-809,Fideo crudo,10
-810,Fideo seco deshidratado,10
+798,Falafel! hecho en casa,6
+799,Falda,1
+800,Falda abierta,1
+801,Falda de cerdo,3
+802,Falda de res,1
+803,Fécula de maíz,12
+804,Fécula de maíz de sabor,12
+805,Fetuccini crudo,12
+806,Fibra uno,12
+807,Fideo cocido,12
+808,Fideo con tomate deshidratado,12
+809,Fideo crudo,12
+810,Fideo seco deshidratado,12
 811,Filete de bandera crudo,1
 812,Filete de calamar crudo,1
 813,Filete de carpa,3
@@ -820,8 +820,8 @@ id,nombre,grupo_id
 819,Filete de merluza,1
 820,Filete de mero,1
 821,Filete de mojarra,1
-822,Filete de pescado blanco del Nilo,1
-823,Filete de pescado,1
+822,Filete de pescado,1
+823,Filete de pescado blanco del Nilo,1
 824,Filete de puerco,3
 825,Filete de res,1
 826,Filete de robalo,1
@@ -830,307 +830,307 @@ id,nombre,grupo_id
 829,Filete mignón,1
 830,Filete miñón,1
 831,Filete tampiqueña,1
-832,Flan casero,7
-833,Flan de caja preparado con leche descremada,7
-834,Flan de caja preparado con leche entera,7
-835,Flan en polvo,7
-836,Flor de calabaza cocida,16
-837,Flor de calabaza cruda picada,16
-838,Flor de colorín cocida,16
-839,Flor de colorín cruda,16
-840,Flor de garambullo cruda,16
-841,Flor de jamaica,6
-842,Flor de maguey cruda,16
-843,Flor de Yuca cruda,16
+832,Flan casero,8
+833,Flan de caja preparado con leche descremada,8
+834,Flan de caja preparado con leche entera,8
+835,Flan en polvo,9
+836,Flor de calabaza cocida,19
+837,Flor de calabaza cruda picada,19
+838,Flor de colorín cocida,19
+839,Flor de colorín cruda,19
+840,Flor de garambullo cruda,19
+841,Flor de jamaica,7
+842,Flor de maguey cruda,19
+843,Flor de Yuca cruda,19
 844,Fondue de queso,2
-845,Frambuesa,11
-846,Fresa entera,11
-847,Fresa rebanada,11
-848,Fresas congeladas con azucar,11
-849,Fresas congeladas sin azúcar,11
-850,Frijol germinado cocido,15
-851,Frijol germinado crudo,15
-852,Frijol molido,15
-853,Frijol promedio cocido,15
-854,Frijol promedio crudo,15
-855,Frijoles enteros enlatados,15
-856,Frijoles refritos! caseros o enlatados,15
-857,Fritos,9
-858,Frituras de maíz con chile y limón,9
-859,Frituras de maíz con limón y sal,9
-860,Fruitcake,9
-861,Fruitcake (repetido),10
-862,Fruta cristalizada,7
-863,Fruta de la pasión,11
-864,Fruta picada,11
-865,Fruto del pan,11
-866,Fusili cocido,10
-867,Fusili crudo,10
-868,Gajos de mandarina,11
-869,Gajos de naranja,11
-870,Gajos de toronja,11
-871,Galleta barras de higo,10
-872,Galleta de animalitos,10
-873,Galleta de avena con pasas,9
-874,Galleta de avena pasas,10
-875,Galleta de avena y manzana,9
-876,Galleta de avena,9
-877,Galleta de chocolate con relleno cremoso baja en grasa,9
-878,Galleta de chocolate con relleno cremoso,9
-879,Galleta de crema de cacahuate,9
-880,Galleta de malvavisco con chocolate,9
-881,Galleta de manzana,10
-882,Galleta de nuez,9
-883,Galleta dulce sin relleno,10
-884,Galleta dulce,10
-885,Galleta integral con miel,9
-886,Galleta integral de miel,9
-887,Galleta integral de trigo,9
-888,Galleta integral molida,9
-889,Galleta integral,9
-890,Galleta maría,10
-891,Galleta O´reo,9
-892,Galleta salada cremosa,9
-893,Galleta salada integral,10
-894,Galleta salada molida,10
-895,Galleta salada,10
-896,Galleta sandwich chocolate,9
-897,Galleta sandwich,9
-898,Galleta sandwuich de vainilla,9
-899,Galleta wafers,9
-900,Galletas con almendras,9
-901,Galletas con chispa de chocolate,9
-902,Galletas con chispas de chocolate bajas en grasa,9
-903,Galletas con chispas de chocolate con mantequilla casera,9
-904,Galletas con chispas de chocolate,9
-905,Galletas cubierta de chocolate,9
-906,Galletas de maíz horneadas sin grasa (salmas),10
-907,Galletas de manzana con pasas,9
-908,Galletas Marias azucaradas,10
-909,Galletas Marías,10
-910,Galletas para sopa,10
-911,Gallina joven cocida,3
-912,Gallina,3
+845,Frambuesa,13
+846,Fresa entera,13
+847,Fresa rebanada,13
+848,Fresas congeladas con azucar,13
+849,Fresas congeladas sin azúcar,13
+850,Frijol germinado cocido,18
+851,Frijol germinado crudo,18
+852,Frijol molido,18
+853,Frijol promedio cocido,18
+854,Frijol promedio crudo,18
+855,Frijoles enteros enlatados,18
+856,Frijoles refritos! caseros o enlatados,18
+857,Fritos,11
+858,Frituras de maíz con chile y limón,11
+859,Frituras de maíz con limón y sal,11
+860,Fruitcake - Cereales con Grasa,11
+861,Fruitcake - Cereales sin Grasa,12
+862,Fruta cristalizada,9
+863,Fruta de la pasión,13
+864,Fruta picada,13
+865,Fruto del pan,13
+866,Fusili cocido,12
+867,Fusili crudo,12
+868,Gajos de mandarina,13
+869,Gajos de naranja,13
+870,Gajos de toronja,13
+871,Galleta barras de higo,12
+872,Galleta de animalitos,12
+873,Galleta de avena,11
+874,Galleta de avena con pasas,11
+875,Galleta de avena pasas,12
+876,Galleta de avena y manzana,11
+877,Galleta de chocolate con relleno cremoso,11
+878,Galleta de chocolate con relleno cremoso baja en grasa,11
+879,Galleta de crema de cacahuate,11
+880,Galleta de malvavisco con chocolate,11
+881,Galleta de manzana,12
+882,Galleta de nuez,11
+883,Galleta dulce,12
+884,Galleta dulce sin relleno,12
+885,Galleta integral,11
+886,Galleta integral con miel,11
+887,Galleta integral de miel,11
+888,Galleta integral de trigo,11
+889,Galleta integral molida,11
+890,Galleta maría,12
+891,Galleta O´reo,11
+892,Galleta salada,12
+893,Galleta salada cremosa,11
+894,Galleta salada integral,12
+895,Galleta salada molida,12
+896,Galleta sandwich,11
+897,Galleta sandwich chocolate,11
+898,Galleta sandwuich de vainilla,11
+899,Galleta wafers,11
+900,Galletas con almendras,11
+901,Galletas con chispa de chocolate,11
+902,Galletas con chispas de chocolate,11
+903,Galletas con chispas de chocolate bajas en grasa,11
+904,Galletas con chispas de chocolate con mantequilla casera,11
+905,Galletas cubierta de chocolate,11
+906,Galletas de maíz horneadas sin grasa (salmas),12
+907,Galletas de manzana con pasas,11
+908,Galletas Marías,12
+909,Galletas Marias azucaradas,12
+910,Galletas para sopa,12
+911,Gallina,3
+912,Gallina joven cocida,3
 913,Gallinita de guinea con piel,1
 914,Gallinita de guinea sin piel,1
-915,Gandul,15
-916,Gansito,9
+915,Gandul,18
+916,Gansito,11
 917,Ganso de crianza,3
-918,Garbanzo cocido,15
-919,Garbanzo crudo,15
-920,Garbanzo enlatado,15
-921,Gatorade variedad de sabores,7
-922,Gelatina de dieta,6
-923,Gelatina de sabor en polvo,7
-924,Gelatina en polvo para agua,7
-925,Gelatina en polvo para leche,7
-926,Gelatina preparada,7
-927,Gelatina sin azúcar preparada,6
-928,Gelatina,7
-929,Gengibre en polvo,6
-930,Gengibre fresco,6
-931,Gengibre,6
-932,Germen de alfalfa cruda,16
-933,Germen de lenteja crudo,16
-934,Germen de soya cocidpo,16
-935,Ginebra,8
-936,Giotilla,11
-937,Gluten de trigo,10
-938,Gomitas,7
-939,Granada chica,11
-940,Granada roja,11
-941,Granola baja en grasa,10
-942,Granola con almendras,9
-943,Granola con avena y miel,9
-944,Granola con frura seca! baja en grasas,10
-945,Granola con pasitas y dátiles,9
-946,Granola estándar,9
-947,Granola Thins Nature Valley,9
-948,Granos de elote crudos,16
-949,Grasa de tocino,4
-950,Grasas animales,4
-951,Grasas vegetales para cocinar,4
-952,Grenetina sin sabor,6
-953,Grosellas en almibar,11
-954,Grosellas negras,11
-955,Grosellas rojas o blancas,11
-956,Grosellas,11
-957,Guacamole,4
+918,Garbanzo cocido,18
+919,Garbanzo crudo,18
+920,Garbanzo enlatado,18
+921,Gatorade variedad de sabores,9
+922,Gelatina,9
+923,Gelatina de dieta,7
+924,Gelatina de sabor en polvo,9
+925,Gelatina en polvo para agua,9
+926,Gelatina en polvo para leche,9
+927,Gelatina preparada,9
+928,Gelatina sin azúcar preparada,7
+929,Gengibre,7
+930,Gengibre en polvo,7
+931,Gengibre fresco,7
+932,Germen de alfalfa cruda,19
+933,Germen de lenteja crudo,19
+934,Germen de soya cocidpo,19
+935,Ginebra,10
+936,Giotilla,13
+937,Gluten de trigo,12
+938,Gomitas,9
+939,Granada chica,13
+940,Granada roja,13
+941,Granola baja en grasa,12
+942,Granola con almendras,11
+943,Granola con avena y miel,11
+944,Granola con frura seca! baja en grasas,12
+945,Granola con pasitas y dátiles,11
+946,Granola estándar,11
+947,Granola Thins Nature Valley,11
+948,Granos de elote crudos,19
+949,Grasa de tocino,5
+950,Grasas animales,5
+951,Grasas vegetales para cocinar,5
+952,Grenetina sin sabor,7
+953,Grosellas,13
+954,Grosellas en almibar,13
+955,Grosellas negras,13
+956,Grosellas rojas o blancas,13
+957,Guacamole,5
 958,Guachinando crudo fileteado,1
-959,Guachinango cocido,1
-960,Guachinango,1
+959,Guachinango,1
+960,Guachinango cocido,1
 961,Guajolote,3
-962,Guanábana,11
-963,Guayaba rosa,11
-964,Guayaba,11
+962,Guanábana,13
+963,Guayaba,13
+964,Guayaba rosa,13
 965,Gurrubata cruda,1
-966,Gusanos de maguey,3
-967,Haba seca cocida,15
-968,Haba seca cruda,15
-969,Haba verde,16
-970,Habaneras Bran Arándanos Ciruela,9
-971,Habaneras Bran trigo entero,10
-972,habaneras Clásicas,10
-973,Habaneras integrales,10
+966,Gusanos de maguey,4
+967,Haba seca cocida,18
+968,Haba seca cruda,18
+969,Haba verde,19
+970,Habaneras Bran Arándanos Ciruela,11
+971,Habaneras Bran trigo entero,12
+972,habaneras Clásicas,12
+973,Habaneras integrales,12
 974,Halibut cocido,1
-975,Halls nite,7
-976,Harina blanca refinada,10
-977,Harina blanca,10
-978,Harina de ajonjolí,5
-979,Harina de alforfón,10
-980,Harina de algodón  baja  en grado,9
-981,Harina de almendras,5
-982,Harina de amaranto,10
-983,Harina de arroz refinada,10
-984,Harina de arroz,10
-985,Harina de cacahuate,5
-986,harina de cacahuate  (repetido),9
-987,Harina de cebada,10
-988,Harina de centeno integral,10
-989,Harina de centeno,10
-990,Harina de frijol,15
-991,Harina de garbanzo,15
-992,Harina de girasol parcialmente desgrasada,9
-993,Harina de haba,15
-994,Harina de lenteja,15
-995,Harina de maíz nixtamalizada,10
-996,Harina de maíz para atole,10
-997,Harina de maíz para tamales,10
-998,Harina de maíz,10
-999,Harina de papa,10
-1000,Harina de sésamo baja en grasa,9
-1001,Harina de soya baja en grasa,9
-1002,Harina de soya baja en grasa  (repetido),15
-1003,Harina de soya desgrasada,9
-1004,Harina de soya fill fat,9
-1005,Harina de soya sin grasa,15
-1006,Harina de soya,15
-1007,Harina de trigo integral,10
-1008,Harina de trigo para panificación,10
-1009,Harina de trigo para pasteleria,10
-1010,Harina de trigo,10
-1011,Harina integral de centeno,10
-1012,Harina integral de trigo,10
-1013,Harina integral,10
-1014,Harina nixtamalizada,10
-1015,Harina para brownies baja en grasa,10
-1016,Harina para brownies,10
-1017,Harina para hot cakes,10
-1018,Harina para reposteria,10
-1019,Harina para tamales,10
-1020,Harina,10
-1021,Helado de  chocolate,12
-1022,Helado de café bajo en calorías,12
-1023,Helado de café,12
-1024,Helado de chocolate bajo en calorías,12
-1025,Helado de fresa bajo en calorías,12
-1026,Helado de fresa,12
-1027,Helado de vainilla bajo en calorías,12
-1028,Helado de vainilla,12
-1029,Helado de yogur de fresa,12
-1030,Helado de yogur,12
-1031,Helado napolitano bajo en calorías,12
-1032,Helado napolitano,12
-1033,herchey´s creme´n ´arandano,7
-1034,Hierbabuena,6
-1035,Hierbas de olor,6
-1036,Hierbas finas,6
-1037,Hierbas molidas,6
+975,Halls nite,9
+976,Harina,12
+977,Harina blanca,12
+978,Harina blanca refinada,12
+979,Harina de ajonjolí,6
+980,Harina de alforfón,12
+981,Harina de algodón  baja  en grado,11
+982,Harina de almendras,6
+983,Harina de amaranto,12
+984,Harina de arroz,12
+985,Harina de arroz refinada,12
+986,Harina de cacahuate,11
+987,Harina de cacahuate AGP,6
+988,Harina de cebada,12
+989,Harina de centeno,12
+990,Harina de centeno integral,12
+991,Harina de frijol,18
+992,Harina de garbanzo,18
+993,Harina de girasol parcialmente desgrasada,11
+994,Harina de haba,18
+995,Harina de lenteja,18
+996,Harina de maíz,12
+997,Harina de maíz nixtamalizada,12
+998,Harina de maíz para atole,12
+999,Harina de maíz para tamales,12
+1000,Harina de papa,12
+1001,Harina de sésamo baja en grasa,11
+1002,Harina de soya,18
+1003,Harina de soya baja en grasa - leguminosa,18
+1004,Harina de soya baja en grasa -cereal c/g,11
+1005,Harina de soya desgrasada,11
+1006,Harina de soya fill fat,11
+1007,Harina de soya sin grasa,18
+1008,Harina de trigo,12
+1009,Harina de trigo integral,12
+1010,Harina de trigo para panificación,12
+1011,Harina de trigo para pasteleria,12
+1012,Harina integral,12
+1013,Harina integral de centeno,12
+1014,Harina integral de trigo,12
+1015,Harina nixtamalizada,12
+1016,Harina para brownies,12
+1017,Harina para brownies baja en grasa,12
+1018,Harina para hot cakes,12
+1019,Harina para reposteria,12
+1020,Harina para tamales,12
+1021,Helado de  chocolate,14
+1022,Helado de café,14
+1023,Helado de café bajo en calorías,14
+1024,Helado de chocolate bajo en calorías,14
+1025,Helado de fresa,14
+1026,Helado de fresa bajo en calorías,14
+1027,Helado de vainilla,14
+1028,Helado de vainilla bajo en calorías,14
+1029,Helado de yogur,14
+1030,Helado de yogur de fresa,14
+1031,Helado napolitano,14
+1032,Helado napolitano bajo en calorías,14
+1033,herchey´s creme´n ´arandano,8
+1034,Hierbabuena,7
+1035,Hierbas de olor,7
+1036,Hierbas finas,7
+1037,Hierbas molidas,7
 1038,Hígado de borrego crudo,3
 1039,Hígado de cerdo cocido,3
-1040,Hígado de ganzo crudo,3
-1041,Hígado de ganzo,3
+1040,Hígado de ganzo,3
+1041,Hígado de ganzo crudo,3
 1042,Hígado de pato crudo,3
 1043,Hígado de pavo,3
 1044,Hígado de pollo cocido,3
 1045,Hígado de pollo crudo,3
 1046,Hígado de res cocido,3
 1047,Hígado de res frito,3
-1048,Higo deshidratado,11
-1049,Higo,11
-1050,Hilos de trigo entrelazados con miel maple y azúcar,10
-1051,Hinojo,6
-1052,Hoja de aguacate,6
-1053,Hojaldra,9
-1054,Hojas de amaranto cocidas,16
-1055,Hojas de amaranto crudas,16
-1056,Hojas de chicoria cruda,16
-1057,Hojas de dientes de león,16
-1058,Hojas de laurel,6
-1059,Hojas de pata de paloma,16
-1060,Hojas de remolacha!  crudas,16
-1061,Hojas de remolacha! hervida,16
-1062,Hojuelas avena instantánea con manzana y canela,10
-1063,Hojuelas de 7 fibras,10
-1064,Hojuelas de arroz,10
-1065,Hojuelas de avena con maple,10
-1066,Hojuelas de avena endulzadas con miel y almendras,10
-1067,Hojuelas de avena instantáneas con miel maple y azúcar morena. Preparado,10
-1068,Hojuelas de avena instantáneas con pasas y especieas. Preparado,10
-1069,Hojuelas de avena instantaneas con pasas! dátiles y nueces. Preparado,10
-1070,Hojuelas de avena! fruta seca y nueces,10
-1071,Hojuelas de avena,10
-1072,Hojuelas de cereales con frutas secas,10
-1073,Hojuelas de maíz azucaradas,10
-1074,Hojuelas de maíz y trigo con frutas y nueces,10
-1075,Hojuelas de maíz,10
-1076,Hojuelas de papa para puré,10
-1077,Hojuelas de salvado con pasas,10
-1078,Hojuelas de salvado,10
-1079,Hojuelas de trigo con miel,10
-1080,Hojuelas de trigo integral con chispas de yogur,10
-1081,Hojuelas de trigo integral con fibra extra,10
-1082,Hojuelas de trigo integral con frutas y yogur,10
-1083,Hojuelas de trigo integral con frutos rojos,10
-1084,Hojuelas de trigo integral,10
-1085,Hojuelas de trigo negro,10
-1086,Hojuelas de trigo,10
-1087,Hojuelas fortificadas de trigo entero! almendras! nueces y miel,10
-1088,Hongos crudos,16
-1089,Hongos porrtobello crudo,16
-1090,Hongos shiitake deshidratados,16
-1091,Hot cake,10
-1092,Hot nuts,5
+1048,Higo,13
+1049,Higo deshidratado,13
+1050,Hilos de trigo entrelazados con miel maple y azúcar,12
+1051,Hinojo,7
+1052,Hoja de aguacate,7
+1053,Hojaldra,11
+1054,Hojas de amaranto cocidas,19
+1055,Hojas de amaranto crudas,19
+1056,Hojas de chicoria cruda,19
+1057,Hojas de dientes de león,19
+1058,Hojas de laurel,7
+1059,Hojas de pata de paloma,19
+1060,Hojas de remolacha!  crudas,19
+1061,Hojas de remolacha! hervida,19
+1062,Hojuelas avena instantánea con manzana y canela,12
+1063,Hojuelas de 7 fibras,12
+1064,Hojuelas de arroz,12
+1065,Hojuelas de avena,12
+1066,Hojuelas de avena con maple,12
+1067,Hojuelas de avena endulzadas con miel y almendras,12
+1068,Hojuelas de avena instantáneas con miel maple y azúcar morena. Preparado,12
+1069,Hojuelas de avena instantáneas con pasas y especieas. Preparado,12
+1070,Hojuelas de avena instantaneas con pasas! dátiles y nueces. Preparado,12
+1071,Hojuelas de avena! fruta seca y nueces,12
+1072,Hojuelas de cereales con frutas secas,12
+1073,Hojuelas de maíz,12
+1074,Hojuelas de maíz azucaradas,12
+1075,Hojuelas de maíz y trigo con frutas y nueces,12
+1076,Hojuelas de papa para puré,12
+1077,Hojuelas de salvado,12
+1078,Hojuelas de salvado con pasas,12
+1079,Hojuelas de trigo,12
+1080,Hojuelas de trigo con miel,12
+1081,Hojuelas de trigo integral,12
+1082,Hojuelas de trigo integral con chispas de yogur,12
+1083,Hojuelas de trigo integral con fibra extra,12
+1084,Hojuelas de trigo integral con frutas y yogur,12
+1085,Hojuelas de trigo integral con frutos rojos,12
+1086,Hojuelas de trigo negro,12
+1087,Hojuelas fortificadas de trigo entero! almendras! nueces y miel,12
+1088,Hongos crudos,19
+1089,Hongos porrtobello crudo,19
+1090,Hongos shiitake deshidratados,19
+1091,Hot cake,12
+1092,Hot nuts,6
 1093,Huachinango cocido,1
-1094,Huachinango crudo fileteado,1
-1095,Huachinango crudo,1
-1096,Huanzontle,16
+1094,Huachinango crudo,1
+1095,Huachinango crudo fileteado,1
+1096,Huanzontle,19
 1097,Hueva de pescado cocida,3
-1098,Huevo  fresco,3
-1099,"Huevo ""enriquecido con DHA-Omega 3 y Vitamina E""",3
-1100,Huevo agra,3
-1101,Huevo batido o revuelto cocido,3
-1102,Huevo blanco cocido,3
-1103,Huevo cocido,3
+1098,Huevo  fresco,4
+1099,"Huevo ""enriquecido con DHA-Omega 3 y Vitamina E""",4
+1100,Huevo agra,4
+1101,Huevo batido o revuelto cocido,4
+1102,Huevo blanco cocido,4
+1103,Huevo cocido,4
 1104,Huevo congelado sin colesterol,3
-1105,Huevo de codorniz fresco,3
+1105,Huevo de codorniz fresco,4
 1106,Huevo de gansa,2
 1107,Huevo de iguana,1
 1108,Huevo de pato,2
 1109,Huevo de pavo,2
 1110,Huevo de tortuga,3
-1111,Huevo deshidratado,3
-1112,Huevo en polvo,3
-1113,Huevo entero cocido,3
-1114,Huevo entero fresco,3
+1111,Huevo deshidratado,4
+1112,Huevo en polvo,4
+1113,Huevo entero cocido,4
+1114,Huevo entero fresco,4
 1115,Huevo estrellado,2
 1116,Huevo frito,2
-1117,Huevo pochado,3
+1117,Huevo pochado,4
 1118,Huevo revuelto,2
-1119,Huevo rojo cocido,3
-1120,Huitlacoche cocido,16
-1121,Hummus! de garbanzo (1 cda),5
-1122,Hummus,15
-1123,Ibes frescos,16
-1124,Ibes o haba de lima cocida,15
-1125,Ibes o haba de lima cruda,15
+1119,Huevo rojo cocido,4
+1120,Huitlacoche cocido,19
+1121,Hummus,18
+1122,Hummus! de garbanzo (1 cda),6
+1123,Ibes frescos,19
+1124,Ibes o haba de lima cocida,18
+1125,Ibes o haba de lima cruda,18
 1126,Iguana,1
 1127,Isabelita,1
 1128,Jaiba cocida desmenuzada,1
 1129,jaiba cocida entera,1
 1130,jaiba cruda,1
-1131,Jalea,7
-1132,Jamaica,6
+1131,Jalea,9
+1132,Jamaica,7
 1133,Jamón ahumado,2
 1134,Jamón americano,2
 1135,Jamón bajo en grasa,3
@@ -1140,322 +1140,322 @@ id,nombre,grupo_id
 1139,Jamón de pierna,3
 1140,Jamón del diablo,2
 1141,Jamón horneado,2
-1142,Jamón serrano,5
+1142,Jamón serrano,6
 1143,Jamón virginia,2
-1144,Jarabe de chocolate,7
-1145,Jarabe de coco,7
-1146,Jarabe de sabor para preparar agua,7
-1147,Jcoque ligero,14
-1148,Jengibre fresco,6
-1149,Jengibre molido,6
-1150,Jengibre rallado,6
-1151,Jengibre,6
-1152,Jicama picada,16
-1153,Jinicuil,11
-1154,Jitomate bola,16
-1155,Jitomate cereza,16
-1156,Jitomate deshidratado,16
-1157,Jitomate guaje o saladet,16
-1158,Jitomate verde,16
-1159,Jitomate,16
-1160,Jitomatillo (miltomate),16
-1161,Jocoque seco,14
-1162,Jocoque,14
+1144,Jarabe de chocolate,9
+1145,Jarabe de coco,8
+1146,Jarabe de sabor para preparar agua,9
+1147,Jcoque ligero,16
+1148,Jengibre,7
+1149,Jengibre fresco,7
+1150,Jengibre molido,7
+1151,Jengibre rallado,7
+1152,Jicama picada,19
+1153,Jinicuil,13
+1154,Jitomate,19
+1155,Jitomate bola,19
+1156,Jitomate cereza,19
+1157,Jitomate deshidratado,19
+1158,Jitomate guaje o saladet,19
+1159,Jitomate verde,19
+1160,Jitomatillo (miltomate),19
+1161,Jocoque,16
+1162,Jocoque seco,16
 1163,Jorobado! lamparosa,1
 1164,Jugo de almeja,1
-1165,Jugo de caña de azucar,7
-1166,Jugo de ciruela pasa,7
-1167,Jugo de citricos preparados con agua,7
-1168,Jugo de fruta concentrado,7
-1169,Jugo de mamey,11
-1170,Jugo de mandarina natural,11
-1171,Jugo de mango,11
-1172,Jugo de naranja natural,11
-1173,Jugo de papaya,11
-1174,Jugo de tomate,16
-1175,Jugo de toronja natural,11
-1176,Jugo de verduras,16
-1177,Jugo de zanahoria! manzana y 3 frutas citricas,7
-1178,Jugo de zanahoria,16
-1179,Jugo natural´es de Lala,7
-1180,Jugod de limón,11
-1181,Jugod e frutas,7
+1165,Jugo de caña de azucar,9
+1166,Jugo de ciruela pasa,9
+1167,Jugo de citricos preparados con agua,9
+1168,Jugo de fruta concentrado,9
+1169,Jugo de mamey,13
+1170,Jugo de mandarina natural,13
+1171,Jugo de mango,13
+1172,Jugo de naranja natural,13
+1173,Jugo de papaya,13
+1174,Jugo de tomate,19
+1175,Jugo de toronja natural,13
+1176,Jugo de verduras,19
+1177,Jugo de zanahoria,19
+1178,Jugo de zanahoria! manzana y 3 frutas citricas,9
+1179,Jugo natural´es de Lala,9
+1180,Jugod de limón,13
+1181,Jugod e frutas,9
 1182,Jumiles,2
-1183,Kinder delice,7
-1184,Kinder delice  (repetido),9
-1185,Kiwi,11
-1186,Kkwatte sabritas  japonés,5
-1187,Kkwatte sabritas  salados,5
-1188,Koll-Aid en polvo sin azúcar,6
-1189,Kranky,7
-1190,Langosta cocida,1
-1191,Langosta,1
+1183,Kinder delice - azúcares c/g,8
+1184,Kinder delice - cereal c/g,11
+1185,Kiwi,13
+1186,Kkwatte sabritas  japonés,6
+1187,Kkwatte sabritas  salados,6
+1188,Koll-Aid en polvo sin azúcar,7
+1189,Kranky,8
+1190,Langosta,1
+1191,Langosta cocida,1
 1192,langostino,1
-1193,Lardo,4
-1194,Lasagna cruda,10
-1195,Lasaña cocida,10
-1196,Laurel fresco,6
-1197,Laurel troceado,6
-1198,Laurel,6
-1199,Leche Alpura Ligh Extra,13
-1200,Leche caliente,14
-1201,Leche clavel,14
-1202,Leche con chocolate semidescremada 1%,12
-1203,Leche con chocolate,12
-1204,Leche con vainilla,12
-1205,Leche condensada light,7
-1206,Leche condensada,7
-1207,Leche cruda,14
-1208,Leche de burra,14
-1209,Leche de cabra,14
-1210,Leche de soya saborizada,12
-1211,Leche de soya,13
-1212,Leche de vaca,14
-1213,Leche descremada con chocolate,12
-1214,Leche descremada con chocolate  (repetido),13
-1215,Leche descremada en polvo! recucida en Ca,13
-1216,Leche descremada en polvo,13
-1217,Leche descremada,13
-1218,Leche en polvo descremada,13
-1219,Leche en polvo sabor chocolate con malbavisco,7
-1220,Leche en polvo sabor fresa,12
-1221,leche en polvo sabor fudge de chocolate,7
-1222,Leche en polvo sabor vainilla,12
-1223,Leche en polvo,14
-1224,Leche entera baja en sodio,14
-1225,Leche entera en polvo adicionada,14
-1226,Leche entera en polvo,14
-1227,Leche entera evaporada,14
-1228,Leche entera ultrapasteurizada,14
-1229,Leche entera,14
-1230,Leche evaporada descremada,13
-1231,Leche evaporada semidescremada,13
-1232,Leche evaporada semidescremada  (repetido),14
-1233,Leche fácil digestión,14
-1234,Leche fermentada con latobacilos sabor  vainilla,12
-1235,Leche fermentada con latobacilos sabor naranja,12
-1236,Leche fermentada con latobacilos sabor natural,12
-1237,Leche fermentada con latobacilos,12
-1238,Leche fría,14
-1239,Leche hervida,14
-1240,Leche humana,14
-1241,Leche Lactium MX,14
-1242,Leche Lala Desarrollo en polvo,14
-1243,Leche Lala Entera,14
-1244,Leche Lala Extracalcio Deslactosada,14
-1245,Leche Lala Extracalcio Light,13
-1246,Leche Lala Extracalcio Semidescremada,14
-1247,Leche Lala Light,13
-1248,Leche Lala saborizada,12
-1249,Leche Lala Semidescremada,14
-1250,Leche Lala Siluette Plus,13
-1251,Leche Lala Vive con fibra,13
-1252,Leche Lala Vive con fribra saborizada,12
-1253,Leche Lala Vive Deslactosada ligth,13
-1254,Leche Lala Vive Deslactosada semidescremada,14
-1255,Leche Lala Vive sin colesterol con omega 3,14
-1256,Leche Liconsa Te Nutre,14
-1257,Leche light Extra,13
-1258,Leche malteada de chocolate,12
-1259,Leche malteada sabor chocolate,12
-1260,Leche malteada sabor fresa,12
-1261,Leche malteada sabor vainilla,12
-1262,Leche materna,14
-1263,Leche maternizada en polvo,14
-1264,Leche omega verde,14
-1265,Leche pasteurizada,14
-1266,Leche preparada,14
-1267,Leche semidescremada 1%,14
-1268,Leche semidescremada 2%,14
-1269,Leche semidescremada sabor chocolate,12
-1270,Leche semidescremada,14
-1271,Leche,14
-1272,Lechuga,16
+1193,Lardo,5
+1194,Lasagna cruda,12
+1195,Lasaña cocida,12
+1196,Laurel,7
+1197,Laurel fresco,7
+1198,Laurel troceado,7
+1199,Leche,16
+1200,Leche Alpura Ligh Extra,15
+1201,Leche caliente,16
+1202,Leche clavel,16
+1203,Leche con chocolate,14
+1204,Leche con chocolate semidescremada 1%,14
+1205,Leche con vainilla,14
+1206,Leche condensada,9
+1207,Leche condensada light,9
+1208,Leche cruda,16
+1209,Leche de burra,16
+1210,Leche de cabra,16
+1211,Leche de soya,15
+1212,Leche de soya saborizada,14
+1213,Leche de vaca,16
+1214,Leche descremada,15
+1215,Leche descremada con chocolate - leche c/azucar,14
+1216,Leche descremada con chocolate - leche descremada,15
+1217,Leche descremada en polvo,15
+1218,Leche descremada en polvo! recucida en Ca,15
+1219,Leche en polvo,16
+1220,Leche en polvo descremada,15
+1221,Leche en polvo sabor chocolate con malbavisco,9
+1222,Leche en polvo sabor fresa,14
+1223,leche en polvo sabor fudge de chocolate,9
+1224,Leche en polvo sabor vainilla,14
+1225,Leche entera,16
+1226,Leche entera baja en sodio,16
+1227,Leche entera en polvo,16
+1228,Leche entera en polvo adicionada,16
+1229,Leche entera evaporada,16
+1230,Leche entera ultrapasteurizada,16
+1231,Leche evaporada descremada,15
+1232,Leche evaporada semidescremada - leche descremada,15
+1233,Leche evaporada semidescremada - leche semidescremada,17
+1234,Leche fácil digestión,17
+1235,Leche fermentada con latobacilos,14
+1236,Leche fermentada con latobacilos sabor  vainilla,14
+1237,Leche fermentada con latobacilos sabor naranja,14
+1238,Leche fermentada con latobacilos sabor natural,14
+1239,Leche fría,16
+1240,Leche hervida,16
+1241,Leche humana,16
+1242,Leche Lactium MX,17
+1243,Leche Lala Desarrollo en polvo,16
+1244,Leche Lala Entera,16
+1245,Leche Lala Extracalcio Deslactosada,17
+1246,Leche Lala Extracalcio Light,15
+1247,Leche Lala Extracalcio Semidescremada,17
+1248,Leche Lala Light,15
+1249,Leche Lala saborizada,14
+1250,Leche Lala Semidescremada,17
+1251,Leche Lala Siluette Plus,15
+1252,Leche Lala Vive con fibra,15
+1253,Leche Lala Vive con fribra saborizada,14
+1254,Leche Lala Vive Deslactosada ligth,15
+1255,Leche Lala Vive Deslactosada semidescremada,17
+1256,Leche Lala Vive sin colesterol con omega 3,17
+1257,Leche Liconsa Te Nutre,16
+1258,Leche light Extra,15
+1259,Leche malteada de chocolate,14
+1260,Leche malteada sabor chocolate,14
+1261,Leche malteada sabor fresa,14
+1262,Leche malteada sabor vainilla,14
+1263,Leche materna,16
+1264,Leche maternizada en polvo,16
+1265,Leche omega verde,16
+1266,Leche pasteurizada,16
+1267,Leche preparada,16
+1268,Leche semidescremada,17
+1269,Leche semidescremada 1%,17
+1270,Leche semidescremada 2%,17
+1271,Leche semidescremada sabor chocolate,14
+1272,Lechuga,19
 1273,Lengua de cerdo cocida,2
 1274,Lengua de res cocida,2
-1275,Lengua de vaca,16
-1276,Lenguado fileteado,1
-1277,Lenguado,1
-1278,Lenteja cocida,15
-1279,Lenteja cruda,15
-1280,Lenteja germinada cocida,16
-1281,Lerche evaporada,14
-1282,Levadura comprimida,6
-1283,Levadura en polvo,6
-1284,Levadura fresca,6
-1285,Levadura seca,6
-1286,Lichis,11
-1287,Licor 100° proof,8
-1288,Licor 80° proof,8
-1289,Licor 86° proof,8
-1290,Licor 90° proof,8
-1291,Licor 94° proof,8
-1292,Licor de almendras,8
-1293,Licor de café con crema,8
-1294,Licor de café con whiskey,8
-1295,Licor de café,8
-1296,Licor de naranja,8
-1297,Licuado de leche Lala Siluette Plus,14
+1275,Lengua de vaca,19
+1276,Lenguado,1
+1277,Lenguado fileteado,1
+1278,Lenteja cocida,18
+1279,Lenteja cruda,18
+1280,Lenteja germinada cocida,19
+1281,Lerche evaporada,16
+1282,Levadura comprimida,7
+1283,Levadura en polvo,7
+1284,Levadura fresca,7
+1285,Levadura seca,7
+1286,Lichis,13
+1287,Licor 100° proof,10
+1288,Licor 80° proof,10
+1289,Licor 86° proof,10
+1290,Licor 90° proof,10
+1291,Licor 94° proof,10
+1292,Licor de almendras,10
+1293,Licor de café,10
+1294,Licor de café con crema,10
+1295,Licor de café con whiskey,10
+1296,Licor de naranja,10
+1297,Licuado de leche Lala Siluette Plus,17
 1298,Liebre,1
-1299,Lima,11
-1300,Limón agrio,6
-1301,Limón real,11
-1302,Limón sin semilla,6
-1303,Limón,6
+1299,Lima,13
+1300,Limón,7
+1301,Limón agrio,7
+1302,Limón real,13
+1303,Limón sin semilla,7
 1304,Lisa! churra! cabezuda,1
 1305,Lomo canadiense,1
-1306,Lomo de cerdo en trozos,3
-1307,Lomo de cerdo,3
+1306,Lomo de cerdo,3
+1307,Lomo de cerdo en trozos,3
 1308,Lomo de venado,1
-1309,Longaniza de primera,3
-1310,Lunetas,7
-1311,Macarela cocida,3
-1312,Macarela fresca,3
-1313,Macarrón cocido,10
-1314,Macarrón con queso,9
-1315,Macarrón crudo,10
-1316,Macarrón integral cocido,10
+1309,Longaniza de primera,4
+1310,Lunetas,8
+1311,Macarela cocida,4
+1312,Macarela fresca,4
+1313,Macarrón cocido,12
+1314,Macarrón con queso,11
+1315,Macarrón crudo,12
+1316,Macarrón integral cocido,12
 1317,Machaca,1
 1318,Machacado de res,1
 1319,Maciza de carnero,3
 1320,Maciza de cedo,2
 1321,Maciza de puerco,2
-1322,Maciza de res en trozo,1
-1323,Maciza de res,1
+1322,Maciza de res,1
+1323,Maciza de res en trozo,1
 1324,Maciza de ternera,3
-1325,Madalena,9
-1326,Mafer tostados sazonados,5
-1327,Maicena sabor,10
-1328,Maicena,10
-1329,Maíz amarillo cocido,10
-1330,Maíz amarillo,10
-1331,Maíz azul,10
-1332,Maíz blanco cocido,10
-1333,Maíz blanco,10
-1334,Maíz cacahuacintle,10
-1335,Maíz palomero con mantequilla horno de microondas,9
-1336,Maíz palomero,10
-1337,Maíz pozolero,10
-1338,Maíz,10
-1339,Maizena,10
-1340,Malanga,10
-1341,Malteada de chocolate,12
-1342,Malteada de fresa,12
-1343,Malteada de vainilla,12
-1344,Malva,16
-1345,Malvavisco con chocolate,7
-1346,Malvavisco,7
-1347,Malvavisvo miniatura,7
-1348,Mamey,11
-1349,Mandarina reyna,11
-1350,Mandarina,11
-1351,Mango ataúlfo,11
-1352,Mango criollo,11
-1353,Mango en almibar enlatado,11
-1354,mango manila,11
-1355,Mango petacón,11
-1356,Mango picado,11
-1357,Mangosteno enlatado en jarabe,11
-1358,Manteca de cerdo,4
-1359,Manteca vegetal,4
-1360,Mantequilla con sal,4
-1361,Mantequilla de cacachuate,5
-1362,Mantequilla derretida,4
-1363,Mantequilla Lala Reducida en grasa,4
-1364,Mantequilla sin sal,4
-1365,Mantequilla,4
-1366,Manzana al vapor,11
-1367,Manzana amarilla,11
-1368,Manzana cocida,11
-1369,Manzana deshidratada,11
-1370,Manzana en almibar enlatada,11
-1371,Manzana en almibar,11
-1372,Manzana golden,11
-1373,Manzana granny,11
-1374,Manzana picada,11
-1375,Manzana roja,11
-1376,Manzana sin cascara,11
-1377,Manzana verde,11
-1378,Manzana Washington,11
-1379,Manzana,11
-1380,Manzanilla fresca,6
-1381,Manzanilla seca,6
-1382,Maracuyá  rebanado,11
-1383,Maracuyá,11
-1384,Marañon fresco,11
-1385,Margarita baja en grasa,4
-1386,Margarita con sal,4
-1387,Margarita sin sal,4
-1388,Margarita,4
-1389,Marias cerealé fresa,10
-1390,Marías Gamesa Cereale Chocoplátano,9
-1391,Marías Gamesa Cereale Fresa,9
-1392,Masa de maíz amarillo,10
-1393,Masa de maíz blanco,10
-1394,Masa de maíz,10
-1395,Masa pasa tortillas,10
-1396,Masa Yucatán,10
-1397,Mayonesa baja en grasa,7
-1398,Mayonesa light,7
-1399,Mayonesa,4
-1400,Mazapan Azteca Oreo,5
-1401,Mazapan sin azúcar,5
-1402,Mazapan,7
-1403,Medallón de filete de res,1
-1404,Medallón de filete,1
-1405,Media crema,4
-1406,media noche con ajonjoli,10
-1407,Media noche,10
+1325,Madalena,11
+1326,Mafer tostados sazonados,6
+1327,Maicena,12
+1328,Maicena sabor,12
+1329,Maíz,12
+1330,Maíz amarillo,12
+1331,Maíz amarillo cocido,12
+1332,Maíz azul,12
+1333,Maíz blanco,12
+1334,Maíz blanco cocido,12
+1335,Maíz cacahuacintle,12
+1336,Maíz palomero,12
+1337,Maíz palomero con mantequilla horno de microondas,11
+1338,Maíz pozolero,12
+1339,Maizena,12
+1340,Malanga,12
+1341,Malteada de chocolate,14
+1342,Malteada de fresa,14
+1343,Malteada de vainilla,14
+1344,Malva,19
+1345,Malvavisco,9
+1346,Malvavisco con chocolate,8
+1347,Malvavisvo miniatura,9
+1348,Mamey,13
+1349,Mandarina,13
+1350,Mandarina reyna,13
+1351,Mango ataúlfo,13
+1352,Mango criollo,13
+1353,Mango en almibar enlatado,13
+1354,mango manila,13
+1355,Mango petacón,13
+1356,Mango picado,13
+1357,Mangosteno enlatado en jarabe,13
+1358,Manteca de cerdo,5
+1359,Manteca vegetal,5
+1360,Mantequilla,5
+1361,Mantequilla con sal,5
+1362,Mantequilla de cacachuate,6
+1363,Mantequilla derretida,5
+1364,Mantequilla Lala Reducida en grasa,5
+1365,Mantequilla sin sal,5
+1366,Manzana,13
+1367,Manzana al vapor,13
+1368,Manzana amarilla,13
+1369,Manzana cocida,13
+1370,Manzana deshidratada,13
+1371,Manzana en almibar,13
+1372,Manzana en almibar enlatada,13
+1373,Manzana golden,13
+1374,Manzana granny,13
+1375,Manzana picada,13
+1376,Manzana roja,13
+1377,Manzana sin cascara,13
+1378,Manzana verde,13
+1379,Manzana Washington,13
+1380,Manzanilla fresca,7
+1381,Manzanilla seca,7
+1382,Maracuyá,13
+1383,Maracuyá  rebanado,13
+1384,Marañon fresco,13
+1385,Margarita,5
+1386,Margarita baja en grasa,5
+1387,Margarita con sal,5
+1388,Margarita sin sal,5
+1389,Marias cerealé fresa,12
+1390,Marías Gamesa Cereale Chocoplátano,11
+1391,Marías Gamesa Cereale Fresa,11
+1392,Masa de maíz,12
+1393,Masa de maíz amarillo,12
+1394,Masa de maíz blanco,12
+1395,Masa pasa tortillas,12
+1396,Masa Yucatán,12
+1397,Mayonesa,5
+1398,Mayonesa baja en grasa,8
+1399,Mayonesa light,8
+1400,Mazapan,8
+1401,Mazapan Azteca Oreo,6
+1402,Mazapan sin azúcar,6
+1403,Medallón de filete,1
+1404,Medallón de filete de res,1
+1405,Media crema,5
+1406,Media noche,12
+1407,media noche con ajonjoli,12
 1408,Mejillones  sin concha cocidos,1
 1409,Mejillones  sin concha crudos,1
-1410,Mejorana,6
-1411,Melaza,7
-1412,Melón cantaloupe,11
-1413,Melón chico,11
-1414,Melón picado,11
-1415,Melón valenciano picado,11
-1416,Melón valenciano,11
-1417,Melón verde picado,11
-1418,Melón,11
-1419,Membrillo,11
-1420,Menta cubierta con chocolate,7
-1421,Menta fresca,6
-1422,Menta molida,6
-1423,Menta,6
-1424,Mentas de caramelo,7
+1410,Mejorana,7
+1411,Melaza,9
+1412,Melón,13
+1413,Melón cantaloupe,13
+1414,Melón chico,13
+1415,Melón picado,13
+1416,Melón valenciano,13
+1417,Melón valenciano picado,13
+1418,Melón verde picado,13
+1419,Membrillo,13
+1420,Menta,7
+1421,Menta cubierta con chocolate,8
+1422,Menta fresca,7
+1423,Menta molida,7
+1424,Mentas de caramelo,9
 1425,Menudencia de pollo cruda,1
 1426,Menudencias de pavo,1
 1427,Menudencias de pollo cocidas,1
-1428,Merluza fileteada,1
-1429,Merluza,1
-1430,Mermelada con frustosa,7
-1431,Mermelada de fruta! menos azucar,7
-1432,Mermelada,7
-1433,"Merngue ""duro""",7
+1428,Merluza,1
+1429,Merluza fileteada,1
+1430,Mermelada,9
+1431,Mermelada con frustosa,9
+1432,Mermelada de fruta! menos azucar,9
+1433,"Merngue ""duro""",9
 1434,Mero cocido,1
-1435,Mero crudo fileteado,1
-1436,Mero crudo,1
-1437,Mezcla de verduras congeladas! cocidas sin sal,16
-1438,Miel de abeja,7
-1439,Miel de caña,7
-1440,Miel de jarabe sabor maple,7
-1441,Miel de maiz,7
-1442,miel,7
-1443,Mijo cocido,10
-1444,Mijo crudo,10
+1435,Mero crudo,1
+1436,Mero crudo fileteado,1
+1437,Mezcla de verduras congeladas! cocidas sin sal,19
+1438,miel,9
+1439,Miel de abeja,9
+1440,Miel de caña,9
+1441,Miel de jarabe sabor maple,9
+1442,Miel de maiz,9
+1443,Mijo cocido,12
+1444,Mijo crudo,12
 1445,Milanesa de avestruz,1
 1446,Milanesa de cerdo,3
 1447,Milanesa de pollo,1
 1448,Milanesa de res,1
 1449,Milanesa de ternera,3
-1450,Miso (soybean paste),15
+1450,Miso (soybean paste),18
 1451,Mojarra cruda fileteada,1
 1452,Mojarra tilapia cruda,1
-1453,Mole de pepita,7
-1454,Mole poblano en pasta,7
-1455,Mole poblano preparado,7
-1456,Mole poblano,7
-1457,Mole,7
+1453,Mole,8
+1454,Mole de pepita,8
+1455,Mole poblano,8
+1456,Mole poblano en pasta,8
+1457,Mole poblano preparado,8
 1458,Molida de carnero,2
 1459,Molida de cerdo,3
 1460,Molida de pollo,1
@@ -1465,365 +1465,365 @@ id,nombre,grupo_id
 1464,Molida popular de res,2
 1465,Molida regular de res (10% grasa),3
 1466,Molleja de pollo cocida,1
-1467,Monster Energy*,7
-1468,Monster Kaos*,7
-1469,Monster Lo-Carb Energía,6
-1470,Moras,11
-1471,Morcilla de arroz,2
-1472,Morcilla,2
-1473,Morillas deshidratadas,16
-1474,Morillas frescas,16
+1467,Monster Energy*,9
+1468,Monster Kaos*,9
+1469,Monster Lo-Carb Energía,7
+1470,Moras,13
+1471,Morcilla,2
+1472,Morcilla de arroz,2
+1473,Morillas deshidratadas,19
+1474,Morillas frescas,19
 1475,Moronga,2
 1476,Mortadela,2
-1477,Mostaza Dijón,6
-1478,Mostaza en polvo,6
-1479,Mostaza,6
-1480,Mousse de chocolate sin grasa,7
-1481,Mousse de chocolate,7
+1477,Mostaza,7
+1478,Mostaza Dijón,7
+1479,Mostaza en polvo,7
+1480,Mousse de chocolate,8
+1481,Mousse de chocolate sin grasa,9
 1482,Mozzarella fresco,2
-1483,Mueslix con manzana y almendra,10
-1484,Muffin con mantequilla,9
-1485,Muffin de blueberry,9
-1486,Muffin de maíz,9
-1487,Muffin integral con pasas,9
-1488,Muffin integral,9
-1489,Muslo de pierna con piel cocido con hueso,3
-1490,Muslo de pierna con piel crudo con hueso,3
+1483,Mueslix con manzana y almendra,12
+1484,Muffin con mantequilla,11
+1485,Muffin de blueberry,11
+1486,Muffin de maíz,11
+1487,Muffin integral,11
+1488,Muffin integral con pasas,11
+1489,Muslo de pierna con piel cocido con hueso,4
+1490,Muslo de pierna con piel crudo con hueso,4
 1491,Muslo de pollo crudo sin piel,3
-1492,Nabo cocido,16
-1493,Nachos,9
-1494,Nanche agrio,11
-1495,Naranja agria,11
-1496,Naranja cajera,11
-1497,Naranja chica,11
-1498,Naranja concentrada,11
-1499,Naranja sin semilla,11
-1500,Naranja valenciana,11
-1501,Naranja,11
-1502,Natilla Lala Siluette Plus,13
-1503,Nature valley barra granola con manzana,9
-1504,Nature valley,9
-1505,Néctar de fruta,7
-1506,Nectarina,11
-1507,Nescafe Dolca gusto Nestea peach,7
-1508,Nescafé Dolce Gusto caramel latte macchiato (1 cápsula de leche + 1 cápsula de cocoa,12
-1509,Nescafé Dolce Gusto Chococino (1 cápsula de leche + 1 cápsula de cocoa,12
-1510,Nescafé Dolce Gusto late macchiato (1 cápsula de leche + 1 cápsula de cocoa,12
-1511,Nieves de frutas,7
-1512,Níspero del japón,11
-1513,Nispero,11
-1514,Nixtamal,10
-1515,Nopal cocido,16
-1516,Nopal crudo de cambray,16
-1517,Nopal crudo,16
-1518,Nueces mixtas,5
-1519,Nuez acaramelada,5
-1520,Nuez de castilla,5
-1521,Nuez de la india acaramelada,5
-1522,Nuez de la india con almendras,5
-1523,Nuez de la india sin sal en mitades,5
-1524,Nuez de la india sin sal,5
-1525,Nuez de la india tostada sin sal,5
-1526,Nuez de macadamia deshidratada,5
-1527,Nuez deshidratada,5
-1528,Nuez en mitades,5
-1529,Nuez entera,5
-1530,Nuez garapiñada,5
-1531,Nuez moscada molida,6
-1532,Nuez moscada,6
-1533,Nuez picada,5
-1534,Nuez tostada,5
-1535,Nuez,5
+1492,Nabo cocido,19
+1493,Nachos,11
+1494,Nanche agrio,13
+1495,Naranja,13
+1496,Naranja agria,13
+1497,Naranja cajera,13
+1498,Naranja chica,13
+1499,Naranja concentrada,13
+1500,Naranja sin semilla,13
+1501,Naranja valenciana,13
+1502,Natilla Lala Siluette Plus,15
+1503,Nature valley,11
+1504,Nature valley barra granola con manzana,11
+1505,Néctar de fruta,9
+1506,Nectarina,13
+1507,Nescafe Dolca gusto Nestea peach,9
+1508,Nescafé Dolce Gusto caramel latte macchiato (1 cápsula de leche + 1 cápsula de cocoa,14
+1509,Nescafé Dolce Gusto Chococino (1 cápsula de leche + 1 cápsula de cocoa,14
+1510,Nescafé Dolce Gusto late macchiato (1 cápsula de leche + 1 cápsula de cocoa,14
+1511,Nieves de frutas,9
+1512,Nispero,13
+1513,Níspero del japón,13
+1514,Nixtamal,12
+1515,Nopal cocido,19
+1516,Nopal crudo,19
+1517,Nopal crudo de cambray,19
+1518,Nueces mixtas,6
+1519,Nuez,6
+1520,Nuez acaramelada,6
+1521,Nuez de castilla,6
+1522,Nuez de la india acaramelada,6
+1523,Nuez de la india con almendras,6
+1524,Nuez de la india sin sal,6
+1525,Nuez de la india sin sal en mitades,6
+1526,Nuez de la india tostada sin sal,6
+1527,Nuez de macadamia deshidratada,6
+1528,Nuez deshidratada,6
+1529,Nuez en mitades,6
+1530,Nuez entera,6
+1531,Nuez garapiñada,6
+1532,Nuez moscada,7
+1533,Nuez moscada molida,7
+1534,Nuez picada,6
+1535,Nuez tostada,6
 1536,Nugget de pollo,2
 1537,Nugget de queso,2
 1538,Nugget de soya,2
-1539,Nutra sweet,6
-1540,Nutritas variedad de sabores,10
-1541,Ñame,10
-1542,Obelas de cajeta,7
-1543,Oporto,8
-1544,Orange crush diet,6
-1545,Orégano molido,6
-1546,Orégano troceado,6
-1547,Orégano,6
-1548,Oreja,9
-1549,Orejas de cerdo,3
-1550,Orejas de pan dulce,9
-1551,Orejones de chabacano,11
-1552,Orejones de durazno,11
-1553,Orejones de manzana,11
-1554,Orejones de pera,11
+1539,Nutra sweet,7
+1540,Nutritas variedad de sabores,12
+1541,Ñame,12
+1542,Obelas de cajeta,9
+1543,Oporto,10
+1544,Orange crush diet,7
+1545,Orégano,7
+1546,Orégano molido,7
+1547,Orégano troceado,7
+1548,Oreja,11
+1549,Orejas de cerdo,4
+1550,Orejas de pan dulce,11
+1551,Orejones de chabacano,13
+1552,Orejones de durazno,13
+1553,Orejones de manzana,13
+1554,Orejones de pera,13
 1555,Ostión ahumado,2
 1556,Ostión cocido,3
 1557,Ostión crudo,3
-1558,Ostión cultivado cocido,3
-1559,Ostión cultivado,3
+1558,Ostión cultivado,3
+1559,Ostión cultivado cocido,3
 1560,Ostión empanizado,2
 1561,Ostión en jugo,3
 1562,Ostión enlatado,3
-1563,Palanqueta de amaranto con pasas,10
-1564,Palanqueta de amaranto,10
-1565,Palanqueta de cacahuate,7
-1566,Paleta de caramelo,7
-1567,Paleta helada de agua,7
-1568,Paleta helada de café con cubierta de chocolate y almendras,7
-1569,Paleta helada de chocolate cubierta con chocolate,7
-1570,Paleta helada de crema con café cubierta de chocolate y almendras,7
-1571,Paleta helada de fruta sin azúcar,7
-1572,Paleta helada de fruta,7
-1573,Paleta helada de vainilla cubierta con chocolate y almendras,7
-1574,Paleta helada de vainilla cubierta con chocolate,7
-1575,Paleta helada de yogur sabor coco,7
-1576,Palitos de pan,10
+1563,Palanqueta de amaranto,12
+1564,Palanqueta de amaranto con pasas,12
+1565,Palanqueta de cacahuate,8
+1566,Paleta de caramelo,9
+1567,Paleta helada de agua,9
+1568,Paleta helada de café con cubierta de chocolate y almendras,8
+1569,Paleta helada de chocolate cubierta con chocolate,8
+1570,Paleta helada de crema con café cubierta de chocolate y almendras,8
+1571,Paleta helada de fruta,9
+1572,Paleta helada de fruta sin azúcar,9
+1573,Paleta helada de vainilla cubierta con chocolate,8
+1574,Paleta helada de vainilla cubierta con chocolate y almendras,8
+1575,Paleta helada de yogur sabor coco,9
+1576,Palitos de pan,12
 1577,Palitos de pescado congelados,2
-1578,Palmito! enlatado,16
+1578,Palmito! enlatado,19
 1579,Paloma,2
-1580,Palomitas acarameladas sin grasa,10
-1581,Palomitas acarameladas,10
-1582,Palomitas con queso,9
-1583,Palomitas fat free,10
-1584,Palomitas garapiñadas,9
-1585,Palomitas naturales,10
-1586,Palomitas sin grasa,10
-1587,Palomitas,10
-1588,Pam,4
-1589,Pambazo,10
-1590,Pámpano cocido,3
-1591,Pámpano fileteado,3
-1592,Pámpano,3
-1593,Pan 5 granos,10
-1594,Pan 7 granos,10
-1595,Pan ácimo,10
-1596,Pan árabe integral,10
-1597,Pan árabe,10
-1598,Pan bagel dulce,10
-1599,Pan bagel integral,10
-1600,Pan bagel salado,10
-1601,Pan baguette,10
-1602,Pan birote,10
-1603,Pan blanco,10
-1604,Pan centeno,10
-1605,pan con salvado,10
-1606,Pan de 5 granos,10
-1607,Pan de 7 granos,10
-1608,Pan de ajo con queso,9
-1609,Pan de ajo,9
-1610,Pan de avena,10
-1611,Pan de caja integral,10
-1612,Pan de caja,10
-1613,Pan de centeno y comino,10
-1614,Pan de centeno y trigo,10
-1615,Pan de girasol integral,10
-1616,Pan de hambueguesas chico,10
-1617,Pan de hot dog con ajonjoli,10
-1618,Pan de hot dog,10
-1619,pan de jengibre,10
-1620,Pan de jenjibre,9
-1621,Pan de miel y avena,10
-1622,Pan de muesli,9
-1623,Pan de plátano,10
-1624,Pan de trigo con arroz,10
-1625,Pan dulce! orejas,9
-1626,Pan integral,10
-1627,Pan matza,10
-1628,Pan melba,10
-1629,Pan molido,10
-1630,Pan negro con trigo,10
-1631,Pan negro,10
-1632,Pan para hambuerguesa chico,10
-1633,Pan para hambuerguesa grande,10
-1634,Pan para pambazo,10
-1635,"Pan tipo ""english miffin""",10
-1636,Pan tipo media noche,10
-1637,Pan tipo muffin con mantequilla,9
-1638,Pan tipo muffin de fruta,9
-1639,pan tipo muffin de maíz,9
-1640,Pan tipo muffin integral,9
-1641,Pan tostado,10
+1580,Palomitas,12
+1581,Palomitas acarameladas,12
+1582,Palomitas acarameladas sin grasa,12
+1583,Palomitas con queso,11
+1584,Palomitas fat free,12
+1585,Palomitas garapiñadas,11
+1586,Palomitas naturales,12
+1587,Palomitas sin grasa,12
+1588,Pam,5
+1589,Pambazo,12
+1590,Pámpano,3
+1591,Pámpano cocido,3
+1592,Pámpano fileteado,3
+1593,Pan 5 granos,12
+1594,Pan 7 granos,12
+1595,Pan ácimo,12
+1596,Pan árabe,12
+1597,Pan árabe integral,12
+1598,Pan bagel dulce,12
+1599,Pan bagel integral,12
+1600,Pan bagel salado,12
+1601,Pan baguette,12
+1602,Pan birote,12
+1603,Pan blanco,12
+1604,Pan centeno,12
+1605,pan con salvado,12
+1606,Pan de 5 granos,12
+1607,Pan de 7 granos,12
+1608,Pan de ajo,11
+1609,Pan de ajo con queso,11
+1610,Pan de avena,12
+1611,Pan de caja,12
+1612,Pan de caja integral,12
+1613,Pan de centeno y comino,12
+1614,Pan de centeno y trigo,12
+1615,Pan de girasol integral,12
+1616,Pan de hambueguesas chico,12
+1617,Pan de hot dog,12
+1618,Pan de hot dog con ajonjoli,12
+1619,pan de jengibre,12
+1620,Pan de jenjibre,11
+1621,Pan de miel y avena,12
+1622,Pan de muesli,11
+1623,Pan de plátano,12
+1624,Pan de trigo con arroz,12
+1625,Pan dulce! orejas,11
+1626,Pan integral,12
+1627,Pan matza,12
+1628,Pan melba,12
+1629,Pan molido,12
+1630,Pan negro,12
+1631,Pan negro con trigo,12
+1632,Pan para hambuerguesa chico,12
+1633,Pan para hambuerguesa grande,12
+1634,Pan para pambazo,12
+1635,"Pan tipo ""english miffin""",12
+1636,Pan tipo media noche,12
+1637,Pan tipo muffin con mantequilla,11
+1638,Pan tipo muffin de fruta,11
+1639,pan tipo muffin de maíz,11
+1640,Pan tipo muffin integral,11
+1641,Pan tostado,12
 1642,Pancita de puerco,3
 1643,Pancita de res,1
-1644,Panditas,7
-1645,Panqué con mantequilla,9
-1646,Panqué de nata,9
-1647,Panqué de salvado,9
-1648,Panqué fat-free,10
-1649,Panqué,9
-1650,Panquecito cubierto de chocolate,9
-1651,Panquecito cubierto de vainilla,9
-1652,Panquecito de vainilla,9
-1653,Papa al horno con cáscara,10
-1654,Papa al horno sin cáscara,10
-1655,Papa cocida sin cascara,10
-1656,Papa cocida,10
-1657,Papa congelada para freir,9
-1658,Papa de agua,10
-1659,Papa de cambray,10
-1660,Papa hash brown,9
-1661,Papa hervida con piel,10
-1662,Papa hervida pelada,10
-1663,Papa picada,10
-1664,Papa roja cruda,10
-1665,Papa sal,9
-1666,Papaloquite crudo,16
-1667,Papas fritas a la francesa,9
-1668,Papas fritas bajas en grasa,9
-1669,Papas fritas con crema ácida y cebolla,9
-1670,papas fritas con queso,9
-1671,Papas fritas en juliana,9
-1672,Papas fritas light,9
-1673,Papas fritas reducidas en grasa,9
-1674,Papas fritas,9
-1675,Papas hojuelas para puré,10
-1676,Papas sabritas,9
-1677,Papaya hawaiana,11
-1678,Papaya picada,11
-1679,Papilla de arroz deshidratada,10
-1680,Papilla de arroz,10
-1681,Papilla de avena deshidratada,10
-1682,Papilla de chabacano con tapioca,11
-1683,Papilla de ciruela con tapioca,11
-1684,Papilla de durazno,11
-1685,Papilla de frutas mixtas,11
-1686,Papilla de guayaba y papaya con tapioca,11
-1687,Papilla de macarrones con pollo,9
-1688,Papilla de maíz deshidratada,10
-1689,Papilla de mango con tapioca,11
-1690,Papilla de manzana y chabacano,11
-1691,Papilla de manzana,11
-1692,Papilla de pera y piña,11
-1693,Papilla de pera,11
-1694,Papilla de platano y piña con tapioca,11
-1695,Papilla de verduras mixtas,16
-1696,Paprika,6
-1697,Pargo fileteado,1
-1698,Pargo,1
-1699,Pasas,11
-1700,Pasitas con chocolate,7
-1701,Pasitas en semilla,11
-1702,Pasitas,11
-1703,Pasta ángel,10
-1704,Pasta cocida,10
-1705,Pasta con huevo,10
-1706,Pasta cruda para sopa,10
-1707,Pasta de almendras,5
+1644,Panditas,9
+1645,Panqué,11
+1646,Panqué con mantequilla,11
+1647,Panqué de nata,11
+1648,Panqué de salvado,11
+1649,Panqué fat-free,12
+1650,Panquecito cubierto de chocolate,11
+1651,Panquecito cubierto de vainilla,11
+1652,Panquecito de vainilla,11
+1653,Papa al horno con cáscara,12
+1654,Papa al horno sin cáscara,12
+1655,Papa cocida,12
+1656,Papa cocida sin cascara,12
+1657,Papa congelada para freir,11
+1658,Papa de agua,12
+1659,Papa de cambray,12
+1660,Papa hash brown,11
+1661,Papa hervida con piel,12
+1662,Papa hervida pelada,12
+1663,Papa picada,12
+1664,Papa roja cruda,12
+1665,Papa sal,11
+1666,Papaloquite crudo,19
+1667,Papas fritas,11
+1668,Papas fritas a la francesa,11
+1669,Papas fritas bajas en grasa,11
+1670,Papas fritas con crema ácida y cebolla,11
+1671,papas fritas con queso,11
+1672,Papas fritas en juliana,11
+1673,Papas fritas light,11
+1674,Papas fritas reducidas en grasa,11
+1675,Papas hojuelas para puré,12
+1676,Papas sabritas,11
+1677,Papaya hawaiana,13
+1678,Papaya picada,13
+1679,Papilla de arroz,12
+1680,Papilla de arroz deshidratada,12
+1681,Papilla de avena deshidratada,12
+1682,Papilla de chabacano con tapioca,13
+1683,Papilla de ciruela con tapioca,13
+1684,Papilla de durazno,13
+1685,Papilla de frutas mixtas,13
+1686,Papilla de guayaba y papaya con tapioca,13
+1687,Papilla de macarrones con pollo,11
+1688,Papilla de maíz deshidratada,12
+1689,Papilla de mango con tapioca,13
+1690,Papilla de manzana,13
+1691,Papilla de manzana y chabacano,13
+1692,Papilla de pera,13
+1693,Papilla de pera y piña,13
+1694,Papilla de platano y piña con tapioca,13
+1695,Papilla de verduras mixtas,19
+1696,Paprika,7
+1697,Pargo,1
+1698,Pargo fileteado,1
+1699,Pasas,13
+1700,Pasitas,13
+1701,Pasitas con chocolate,9
+1702,Pasitas en semilla,13
+1703,Pasta ángel,12
+1704,Pasta cocida,12
+1705,Pasta con huevo,12
+1706,Pasta cruda para sopa,12
+1707,Pasta de almendras,6
 1708,Pasta de anchoas,3
-1709,Pasta de cacahuate,5
-1710,Pasta de cacahucate desgrasada,5
+1709,Pasta de cacahuate,6
+1710,Pasta de cacahucate desgrasada,6
 1711,Pasta de camarón,3
-1712,Pasta de codito,10
-1713,Pasta de estrellitas,10
-1714,Pasta de hojaldre,9
-1715,Pasta de lagrimitas,10
+1712,Pasta de codito,12
+1713,Pasta de estrellitas,12
+1714,Pasta de hojaldre,11
+1715,Pasta de lagrimitas,12
 1716,Pasta de langosta,3
-1717,Pasta de letras,10
-1718,Pasta de moño,10
-1719,Pasta de municiones,10
-1720,Pasta de trigo cocida,10
-1721,Pasta de trigo fresca,10
-1722,Pasta fresca,10
-1723,Pasta hojaldrada,9
-1724,Pasta integral cocida,10
-1725,Pasta integral cruda,10
-1726,Pasta quebrada,9
-1727,Pasta tornillo,10
-1728,Pastel de chocolate,9
-1729,Pastel de frutas,9
+1717,Pasta de letras,12
+1718,Pasta de moño,12
+1719,Pasta de municiones,12
+1720,Pasta de trigo cocida,12
+1721,Pasta de trigo fresca,12
+1722,Pasta fresca,12
+1723,Pasta hojaldrada,11
+1724,Pasta integral cocida,12
+1725,Pasta integral cruda,12
+1726,Pasta quebrada,11
+1727,Pasta tornillo,12
+1728,Pastel de chocolate,11
+1729,Pastel de frutas,11
 1730,Pastel de pavo,2
-1731,Pastel de piña,9
+1731,Pastel de piña,11
 1732,Pastel de puerco,2
 1733,Pastel de ternera,2
-1734,Pastel de zanahoria con cubierta de queso crema,9
-1735,Pastelito con relleno cremoso y mermelada,9
-1736,Pastelito de chocolate con relleno cremoso,9
-1737,Pastitas de mantequilla,9
+1734,Pastel de zanahoria con cubierta de queso crema,11
+1735,Pastelito con relleno cremoso y mermelada,11
+1736,Pastelito de chocolate con relleno cremoso,11
+1737,Pastitas de mantequilla,11
 1738,Pastrami de pavo,3
 1739,Pata de carnera cocida,2
-1740,Pata de cerdo cocidas,3
+1740,Pata de cerdo cocidas,4
 1741,Pata de res,1
-1742,Patas de cerdo en escabeche,3
-1743,Paté de cerdo,5
-1744,Paté de Foie gras,5
-1745,Paté de ganso,5
-1746,Paté de higado  de cerdo,5
-1747,Paté de hígado de ternera,5
-1748,Paté de pollo,5
-1749,Paté de ternera,5
-1750,Paté,5
+1742,Patas de cerdo en escabeche,4
+1743,Paté,6
+1744,Paté de cerdo,6
+1745,Paté de Foie gras,6
+1746,Paté de ganso,6
+1747,Paté de higado  de cerdo,6
+1748,Paté de hígado de ternera,6
+1749,Paté de pollo,6
+1750,Paté de ternera,6
 1751,Patel de pollo,2
-1752,Patitas de cerdo encurtidas sin hueso,3
+1752,Patitas de cerdo encurtidas sin hueso,4
 1753,Pato de crianza,3
-1754,Pavo entero,3
-1755,Pavo,3
-1756,Pay  de manzana,9
-1757,Pay de calabaza,9
-1758,Pay de chocolate,9
-1759,Pay de limón con merengue,9
-1760,Pay de nuez,9
-1761,Pay de piña,9
-1762,Pay de queso,9
-1763,Pay helado de limón,9
-1764,Pecho de res,3
+1754,Pavo,3
+1755,Pavo entero,3
+1756,Pay  de manzana,11
+1757,Pay de calabaza,11
+1758,Pay de chocolate,11
+1759,Pay de limón con merengue,11
+1760,Pay de nuez,11
+1761,Pay de piña,11
+1762,Pay de queso,11
+1763,Pay helado de limón,11
+1764,Pecho de res,4
 1765,Pechuda de pollo sin pile aplanada,1
-1766,Pechuga de pavo ahumada bajo en grasa,1
+1766,Pechuga de pavo,1
 1767,Pechuga de pavo ahumada,1
-1768,Pechuga de pavo,1
+1768,Pechuga de pavo ahumada bajo en grasa,1
 1769,Pechuga de pollo ahumada,1
 1770,Pechuga de pollo con piel,3
 1771,Pechuga de pollo deshuesada sin piel cruda,1
-1772,Pechuga de pollo sin piel a la plancha,1
-1773,Pechuga de pollo sin piel asada,1
-1774,Pechuga de pollo sin piel cocida,1
-1775,Pechuga de pollo sin piel cruda,1
-1776,Pechuga de pollo sin piel en brocheta cruda,1
-1777,Pechuga de pollo sin piel en fajitas cruda,1
-1778,Pechuga de pollo sin piel horneada rebanada,1
-1779,Pechuga de pollo sin piel molida cruda,1
-1780,Pechuga de pollo sin piel,1
+1772,Pechuga de pollo sin piel,1
+1773,Pechuga de pollo sin piel a la plancha,1
+1774,Pechuga de pollo sin piel asada,1
+1775,Pechuga de pollo sin piel cocida,1
+1776,Pechuga de pollo sin piel cruda,1
+1777,Pechuga de pollo sin piel en brocheta cruda,1
+1778,Pechuga de pollo sin piel en fajitas cruda,1
+1779,Pechuga de pollo sin piel horneada rebanada,1
+1780,Pechuga de pollo sin piel molida cruda,1
 1781,Pechuga sin piel deshebrada,1
 1782,Pechuga sin piel desmenuzada,1
 1783,Pechuga sin pile molida,1
-1784,Peneques,10
+1784,Peneques,12
 1785,Peperami,2
 1786,Peperoni,2
-1787,Pepinillos crudos,16
-1788,Pepinillos dulces,16
-1789,Pepino con cáscara rebanado,16
-1790,Pepita limpia,5
-1791,Pepitas con cáscara,5
-1792,Pepitas de calabaza,5
-1793,Pepitas de melón,5
-1794,Pepitas tostadas,5
-1795,Pepitas,5
-1796,Pepperoni,5
-1797,Pepsi de dieta,6
-1798,Pepsi Max,6
-1799,Pera asiática,11
-1800,Pera bartlett,11
-1801,Pera d´anjou,11
-1802,Pera de agua,11
-1803,Pera de San Juan,11
-1804,Pera deshidratada,11
-1805,Pera en almibar,11
-1806,Pera mantequilla,11
-1807,Pera picada,11
-1808,Pera piña,11
-1809,Pera rebanada,11
-1810,Pera roja rebanada,11
-1811,Pera roja,11
-1812,Pera,11
+1787,Pepinillos crudos,19
+1788,Pepinillos dulces,19
+1789,Pepino con cáscara rebanado,19
+1790,Pepita limpia,6
+1791,Pepitas,6
+1792,Pepitas con cáscara,6
+1793,Pepitas de calabaza,6
+1794,Pepitas de melón,6
+1795,Pepitas tostadas,6
+1796,Pepperoni,6
+1797,Pepsi de dieta,7
+1798,Pepsi Max,7
+1799,Pera,13
+1800,Pera asiática,13
+1801,Pera bartlett,13
+1802,Pera d´anjou,13
+1803,Pera de agua,13
+1804,Pera de San Juan,13
+1805,Pera deshidratada,13
+1806,Pera en almibar,13
+1807,Pera mantequilla,13
+1808,Pera picada,13
+1809,Pera piña,13
+1810,Pera rebanada,13
+1811,Pera roja,13
+1812,Pera roja rebanada,13
 1813,Perca cocida,1
 1814,Perca cruda,1
 1815,Perca fileteada,1
-1816,Perejil crudo picado,16
-1817,Perejil deshidratado,6
-1818,Perón picado,11
-1819,Perón,11
-1820,Pérsimo japonés,11
-1821,Pérsimo,11
-1822,Pescado blanco ahumado,1
-1823,Pescado blanco cocido,3
-1824,Pescado blanco fileteado,3
-1825,Pescado blanco,3
+1816,Perejil crudo picado,19
+1817,Perejil deshidratado,7
+1818,Perón,13
+1819,Perón picado,13
+1820,Pérsimo,13
+1821,Pérsimo japonés,13
+1822,Pescado blanco,3
+1823,Pescado blanco ahumado,1
+1824,Pescado blanco cocido,3
+1825,Pescado blanco fileteado,3
 1826,Pescado en trozo,1
 1827,Pescado entero,1
 1828,Pescado fileteado,1
@@ -1833,119 +1833,119 @@ id,nombre,grupo_id
 1832,Pescuezo de pollo sin piel,3
 1833,Pescuezo de res,3
 1834,Pez espada cocido,1
-1835,Pez espada crudo fileteado,1
-1836,Pez espada crudo rebanado,1
-1837,Pez espada crudo,1
+1835,Pez espada crudo,1
+1836,Pez espada crudo fileteado,1
+1837,Pez espada crudo rebanado,1
 1838,Pierna de carnero,3
 1839,Pierna de cerdo,3
 1840,Pierna de cordero,3
 1841,Pierna de pollo cin piel cocida,3
 1842,Pierna de pollo cin piel cruda,3
-1843,Pierna de pollo con piel cocida,3
-1844,Pierna y mueslo de pollo con piel,3
-1845,Piloncillo rallado,7
-1846,Piloncillo,7
+1843,Pierna de pollo con piel cocida,4
+1844,Pierna y mueslo de pollo con piel,4
+1845,Piloncillo,9
+1846,Piloncillo rallado,9
 1847,Pilopo crudo,1
-1848,Pimentón,6
-1849,Pimienta blanaca entera,6
-1850,Pimienta blanaca molida,6
-1851,Pimienta blanca en polvo,6
-1852,Pimienta blanca,6
-1853,Pimienta de cayena,6
-1854,Pimienta de tabasco,6
-1855,Pimienta gorda,6
-1856,Pimienta molida,6
-1857,Pimienta nagra molida,6
-1858,Pimienta negra en polvo,6
-1859,Pimienta negra entera,6
-1860,Pimienta negra,6
-1861,Pimienta roja,6
-1862,Pimienta verde,6
-1863,Pimienta,6
-1864,Pimiento amarillo crudo chico,16
-1865,Pimiento cocido,16
-1866,Pimiento fresco,16
-1867,Pimiento rojo crudo chico,16
-1868,Pimiento verde crudo chico,16
-1869,Pinole,10
-1870,Piña en almibar,11
-1871,Piña picada,11
-1872,Piña rebanada,11
-1873,Piñón,5
-1874,Pipián,7
-1875,Pistache tostado,5
-1876,Pistache,5
-1877,Pitahaya,11
-1878,Plátano deshidratado,11
-1879,Plátano dominico,11
-1880,Plátano machacado,11
-1881,Plátano macho rebanado,11
-1882,Plátano macho,11
-1883,Plátano manzano,11
-1884,Plátano morado,11
-1885,Plátano,11
-1886,PLF* con Lactobacillus casei Shirota,12
-1887,PLF* sin azúcar con Lactobacillus casie Chirota,13
+1848,Pimentón,7
+1849,Pimienta,7
+1850,Pimienta blanaca entera,7
+1851,Pimienta blanaca molida,7
+1852,Pimienta blanca,7
+1853,Pimienta blanca en polvo,7
+1854,Pimienta de cayena,7
+1855,Pimienta de tabasco,7
+1856,Pimienta gorda,7
+1857,Pimienta molida,7
+1858,Pimienta nagra molida,7
+1859,Pimienta negra,7
+1860,Pimienta negra en polvo,7
+1861,Pimienta negra entera,7
+1862,Pimienta roja,7
+1863,Pimienta verde,7
+1864,Pimiento amarillo crudo chico,19
+1865,Pimiento cocido,19
+1866,Pimiento fresco,19
+1867,Pimiento rojo crudo chico,19
+1868,Pimiento verde crudo chico,19
+1869,Pinole,12
+1870,Piña en almibar,13
+1871,Piña picada,13
+1872,Piña rebanada,13
+1873,Piñón,6
+1874,Pipián,8
+1875,Pistache,6
+1876,Pistache tostado,6
+1877,Pitahaya,13
+1878,Plátano,13
+1879,Plátano deshidratado,13
+1880,Plátano dominico,13
+1881,Plátano machacado,13
+1882,Plátano macho,13
+1883,Plátano macho rebanado,13
+1884,Plátano manzano,13
+1885,Plátano morado,13
+1886,PLF* con Lactobacillus casei Shirota,14
+1887,PLF* sin azúcar con Lactobacillus casie Chirota,15
 1888,Pollo crispy,2
-1889,Pollo crudo sin piel en piezas,1
-1890,Pollo crudo sin piel,1
+1889,Pollo crudo sin piel,1
+1890,Pollo crudo sin piel en piezas,1
 1891,Pollo deshebrado,1
 1892,Pollo rostizado,2
 1893,Pollo sin piel cocido,1
-1894,Pomarosa,11
-1895,Pomelo,11
-1896,Ponche de frutas,7
-1897,Pop tarts,9
-1898,Poro crudo,16
-1899,Praliné,4
-1900,Pretzels,10
-1901,Prisco,11
-1902,Prispas,9
+1894,Pomarosa,13
+1895,Pomelo,13
+1896,Ponche de frutas,9
+1897,Pop tarts,11
+1898,Poro crudo,19
+1899,Praliné,5
+1900,Pretzels,12
+1901,Prisco,13
+1902,Prispas,11
 1903,Proteina aislada de soya,1
 1904,Proteina concentrda de soya,1
-1905,Puerro crudo,16
-1906,Puerro hervido sin sal,16
+1905,Puerro crudo,19
+1906,Puerro hervido sin sal,19
 1907,Pulmón de cerdo,1
 1908,Pulpa de cerdo,3
-1909,Pulpa de fresa,11
-1910,Pulpa de guanabana,11
+1909,Pulpa de fresa,13
+1910,Pulpa de guanabana,13
 1911,Pulpa de jaiba,1
-1912,Pulpa de mamey,11
+1912,Pulpa de mamey,13
 1913,Pulpa de res,2
-1914,Pulpa de tamarindo,11
+1914,Pulpa de tamarindo,13
 1915,Pulpa de ternera,3
-1916,Pulpa de zapote negro,11
+1916,Pulpa de zapote negro,13
 1917,Pulpo cocido,1
-1918,Pulque,8
+1918,Pulque,10
 1919,Puntas de filete,1
 1920,Puntas de res,1
-1921,Puré de camote con naranja,10
-1922,Puré de camote,10
-1923,Puré de ciruela pasa,11
-1924,Puré de guayaba gerber 2A etapa,11
-1925,Puré de guayaba,11
-1926,Puré de manzana sin azúcar,11
-1927,Puré de manzana,11
-1928,Puré de papa hojuelas,10
-1929,Puré de papa,9
-1930,Puré de platano,11
-1931,Puré de tomate enlatado,16
-1932,Quaker instant 0% azúcar,10
-1933,Quelite crudo,16
+1921,Puré de camote,12
+1922,Puré de camote con naranja,12
+1923,Puré de ciruela pasa,13
+1924,Puré de guayaba,13
+1925,Puré de guayaba gerber 2A etapa,13
+1926,Puré de manzana,13
+1927,Puré de manzana sin azúcar,13
+1928,Puré de papa,11
+1929,Puré de papa hojuelas,12
+1930,Puré de platano,13
+1931,Puré de tomate enlatado,19
+1932,Quaker instant 0% azúcar,12
+1933,Quelite crudo,19
 1934,Queso amarillo,2
 1935,Queso americano fundido,2
-1936,Queso añejo rallado,2
-1937,Queso añejo,2
+1936,Queso añejo,2
+1937,Queso añejo rallado,2
 1938,Queso asadero,2
-1939,Queso blanco,3
+1939,Queso blanco,4
 1940,Queso blue cheese,2
 1941,Queso brick,2
 1942,Queso brie,2
 1943,Queso camembert,2
 1944,Queso canasto,2
-1945,Queso cheddar bajo en grasa,3
-1946,Queso cheddar rallado,2
-1947,Queso cheddar,2
+1945,Queso cheddar,2
+1946,Queso cheddar bajo en grasa,3
+1947,Queso cheddar rallado,2
 1948,Queso Cheshire,2
 1949,Queso chichuahua,2
 1950,Queso Chihuahua fresco,2
@@ -1954,103 +1954,103 @@ id,nombre,grupo_id
 1953,Queso cotage cremoso,3
 1954,Queso Cotagge Lala Light,1
 1955,Queso cotija,2
-1956,Queso cottage 1% grasa,1
-1957,Queso cottage 2% grasa,1
-1958,Queso cottage bajo en grasa,1
-1959,Queso cottage,1
-1960,Queso crema bajo en grasa,4
-1961,Queso crema light,2
-1962,Queso crema untable,4
-1963,Queso crema,4
+1956,Queso cottage,1
+1957,Queso cottage 1% grasa,1
+1958,Queso cottage 2% grasa,1
+1959,Queso cottage bajo en grasa,1
+1960,Queso crema,5
+1961,Queso crema bajo en grasa,5
+1962,Queso crema light,2
+1963,Queso crema untable,5
 1964,Queso de cabra con ceniza,2
 1965,Queso de cabra duro,2
 1966,Queso de cabra semi suave,2
 1967,Queso de cabra suave,2
-1968,Queso de puerco,5
-1969,Queso de soya,3
-1970,Queso de soya  (repetido),3
-1971,Queso de tuna,7
+1968,Queso de puerco,6
+1969,Queso de soya - AOA bg,3
+1970,Queso de soya - AOA mbg,4
+1971,Queso de tuna,9
 1972,Queso edam,2
 1973,Queso feta,2
 1974,Queso fontina,2
-1975,Queso fresco de cabra,3
-1976,Queso fresco de vaca,3
-1977,Queso fresco,3
+1975,Queso fresco,3
+1976,Queso fresco de cabra,3
+1977,Queso fresco de vaca,3
 1978,Queso fundido,2
 1979,Queso gouda,2
 1980,Queso gruyere,2
-1981,Queso holandés,3
+1981,Queso holandés,4
 1982,Queso Limburger,2
-1983,Queso manchego rallado,2
-1984,Queso manchego rebanado,2
-1985,Queso manchego,2
+1983,Queso manchego,2
+1984,Queso manchego rallado,2
+1985,Queso manchego rebanado,2
 1986,Queso menonita,2
-1987,Queso monterrey bajo en grasa,3
-1988,Queso Monterrey,2
-1989,Queso mozarella rallado,2
-1990,Queso mozarella suave,2
-1991,Queso mozarella,2
+1987,Queso Monterrey,2
+1988,Queso monterrey bajo en grasa,4
+1989,Queso mozarella,2
+1990,Queso mozarella rallado,2
+1991,Queso mozarella suave,2
 1992,Queso Mozzarella cero grasa,1
-1993,Queso Mozzarella reducido en grasa,3
-1994,Queso Mozzarella semidescremado,3
-1995,Queso Muenster bajo en grasa,3
-1996,Queso Muenster,2
+1993,Queso Mozzarella reducido en grasa,4
+1994,Queso Mozzarella semidescremado,4
+1995,Queso Muenster,2
+1996,Queso Muenster bajo en grasa,4
 1997,Queso neufchatel,2
-1998,Queso Oaxaca Lala Light,3
-1999,Queso Oaxaca,2
-2000,Queso panela Lala Light,3
-2001,Queso panela,3
-2002,Queso parmensano duro,3
-2003,Queso parmensano en trozo,3
-2004,Queso parmensano rallado,3
-2005,Queso parmensano,3
+1998,Queso Oaxaca,2
+1999,Queso Oaxaca Lala Light,3
+2000,Queso panela,3
+2001,Queso panela Lala Light,3
+2002,Queso parmensano,4
+2003,Queso parmensano duro,4
+2004,Queso parmensano en trozo,4
+2005,Queso parmensano rallado,4
 2006,Queso pasteurizado americano,2
 2007,Queso pasteurizado suizo,2
-2008,Queso petit Suisse,12
-2009,Queso Philadelphia,4
+2008,Queso petit Suisse,14
+2009,Queso Philadelphia,5
 2010,Queso port salut,2
 2011,Queso provolone,2
-2012,Queso ricotta reducido en grasa,3
-2013,Queso ricotta semidescremado,3
-2014,Queso ricotta,2
+2012,Queso ricotta,2
+2013,Queso ricotta reducido en grasa,3
+2014,Queso ricotta semidescremado,4
 2015,Queso romeno,2
 2016,Queso roquefort,2
-2017,Queso suizo muy bajo en grasa,1
-2018,Queso suizo rallado,2
-2019,Queso suizo,2
-2020,Queso tipo americano lala light,3
-2021,Queso tipo americano,2
+2017,Queso suizo,2
+2018,Queso suizo muy bajo en grasa,1
+2019,Queso suizo rallado,2
+2020,Queso tipo americano,2
+2021,Queso tipo americano lala light,4
 2022,Queso tipo roquefort,2
 2023,Queso velveta,2
 2024,Queson Cheezwiz,2
-2025,Quinoa,10
-2026,Rábano crudo rebanado,16
-2027,Raíz de chayote,10
-2028,Raíz de jengibre,6
-2029,Raíz fuerte,6
-2030,Raja de canela,6
-2031,Ralladura de limón,6
-2032,Ralladura de naranja,6
-2033,Rambután en almibar,11
-2034,Rambután,11
-2035,Red Bull sugar free*,6
+2025,Quinoa,12
+2026,Rábano crudo rebanado,19
+2027,Raíz de chayote,12
+2028,Raíz de jengibre,7
+2029,Raíz fuerte,7
+2030,Raja de canela,7
+2031,Ralladura de limón,7
+2032,Ralladura de naranja,7
+2033,Rambután,13
+2034,Rambután en almibar,13
+2035,Red Bull sugar free*,7
 2036,Red Bull*,7
-2037,Refresco de cola,7
-2038,Refresco de dieta,6
-2039,Refresco de frutas,7
-2040,Refresco en polvo sin azúcar,6
-2041,Refresco,7
-2042,Requesón promedio,3
-2043,Retazo con hueso,2
-2044,Retazo de carnero,3
-2045,Retazo de pescado crudo,1
-2046,Retazo de pollo,2
-2047,Retazo de res,2
-2048,Retazo de ternera,2
-2049,Retazo,2
-2050,Rib eye sin grasa,3
-2051,Rib eye,2
-2052,Rice krispies treats,9
+2037,Refresco,9
+2038,Refresco de cola,9
+2039,Refresco de dieta,7
+2040,Refresco de frutas,9
+2041,Refresco en polvo sin azúcar,7
+2042,Requesón promedio,4
+2043,Retazo,2
+2044,Retazo con hueso,2
+2045,Retazo de carnero,3
+2046,Retazo de pescado crudo,1
+2047,Retazo de pollo,2
+2048,Retazo de res,2
+2049,Retazo de ternera,2
+2050,Rib eye,2
+2051,Rib eye sin grasa,3
+2052,Rice krispies treats,11
 2053,Riñones de carnero crudos,1
 2054,Riñones de cerdo cocidos,1
 2055,Riñones de res cocidos,1
@@ -2059,292 +2059,292 @@ id,nombre,grupo_id
 2058,Robaalo crudo,1
 2059,Robalo cocido,1
 2060,Robalo fileteado,1
-2061,Roles de canela,9
-2062,Rollo de fresa,9
-2063,Rollo de frutas,11
-2064,Romeo picado,6
-2065,Romerito crudo,16
-2066,Romero deshidratado,6
-2067,Romero,6
-2068,Rompope sin alcohol,7
-2069,Rompope,8
-2070,Ron blanco o añejo,8
-2071,Runner sabor hot sauce,9
-2072,Sabritas ligeras citricas,9
-2073,Sabritas ligeras,9
-2074,Sagú,10
-2075,Sal de ajo,6
-2076,Sal de apio,6
-2077,Sal de potasio,6
-2078,Sal,6
-2079,Salami de pavo,3
-2080,Salami de ternera,2
-2081,Salami,2
-2082,Salchica de pavo,3
-2083,Salchicha ahumada,2
-2084,Salchicha de pollo,2
-2085,Salchicha de puerco,2
-2086,Salchicha de ternera,2
-2087,Salchicha vegetariana,3
-2088,Salchicha vienna ahumada,2
+2061,Roles de canela,11
+2062,Rollo de fresa,11
+2063,Rollo de frutas,13
+2064,Romeo picado,7
+2065,Romerito crudo,19
+2066,Romero,7
+2067,Romero deshidratado,7
+2068,Rompope,10
+2069,Rompope sin alcohol,8
+2070,Ron blanco o añejo,10
+2071,Runner sabor hot sauce,11
+2072,Sabritas ligeras,11
+2073,Sabritas ligeras citricas,11
+2074,Sagú,12
+2075,Sal,7
+2076,Sal de ajo,7
+2077,Sal de apio,7
+2078,Sal de potasio,7
+2079,Salami,2
+2080,Salami de pavo,4
+2081,Salami de ternera,2
+2082,Salchica de pavo,4
+2083,Salchicha,2
+2084,Salchicha ahumada,2
+2085,Salchicha de pollo,2
+2086,Salchicha de puerco,2
+2087,Salchicha de ternera,2
+2088,Salchicha vegetariana,4
 2089,Salchicha vienna,2
-2090,Salchicha,2
-2091,Salmón ahumado,1
-2092,Salmón cocido,3
-2093,Salmón de aceite,3
-2094,Salmón fresco,3
-2095,Salmón,3
-2096,Salsa alfredo,4
-2097,Salsa bearnesa industrializada,5
-2098,Salsa bechabel,5
-2099,Salsa blanca,5
-2100,Salsa catsup,7
-2101,Salsa de ajonjolí,5
-2102,Salsa de arandanos en gelatina enlatada,11
-2103,Salsa de barbecue,6
-2104,Salsa de cacahuate,5
-2105,Salsa de cebollin,7
-2106,Salsa de chile,16
-2107,Salsa de epazote,7
-2108,Salsa de manzana,7
-2109,Salsa de pimienta verde,5
-2110,Salsa de queso,5
-2111,Salsa de soya,6
-2112,Salsa de tamarindo,7
-2113,Salsa demiglass,7
-2114,Salsa gravie de champiñones,9
-2115,Salsa gravie de res,9
-2116,Salsa holandesa industrializada,4
-2117,Salsa inglesa,6
-2118,Salsa pesto,5
-2119,Salsa Tabasco,6
-2120,Salsa tártara industrializada,4
-2121,Salsa tártara sin grasa,4
-2122,Salsa teriyaki,6
-2123,Salsa velouté,4
-2124,Salsifí,16
-2125,Salvado de trigo,10
-2126,Salvia,6
-2127,Sandia picada,11
-2128,Sandia rebanada,11
-2129,Sándwich Quaker chocolate,9
-2130,Saramuyo,11
-2131,Sardina en aceite,3
-2132,Sardina en tomate,3
+2090,Salchicha vienna ahumada,2
+2091,Salmón,3
+2092,Salmón ahumado,1
+2093,Salmón cocido,3
+2094,Salmón de aceite,4
+2095,Salmón fresco,3
+2096,Salsa alfredo,5
+2097,Salsa bearnesa industrializada,6
+2098,Salsa bechabel,6
+2099,Salsa blanca,6
+2100,Salsa catsup,9
+2101,Salsa de ajonjolí,6
+2102,Salsa de arandanos en gelatina enlatada,13
+2103,Salsa de barbecue,7
+2104,Salsa de cacahuate,6
+2105,Salsa de cebollin,8
+2106,Salsa de chile,19
+2107,Salsa de epazote,8
+2108,Salsa de manzana,9
+2109,Salsa de pimienta verde,6
+2110,Salsa de queso,6
+2111,Salsa de soya,7
+2112,Salsa de tamarindo,9
+2113,Salsa demiglass,9
+2114,Salsa gravie de champiñones,11
+2115,Salsa gravie de res,11
+2116,Salsa holandesa industrializada,5
+2117,Salsa inglesa,7
+2118,Salsa pesto,6
+2119,Salsa Tabasco,7
+2120,Salsa tártara industrializada,5
+2121,Salsa tártara sin grasa,5
+2122,Salsa teriyaki,7
+2123,Salsa velouté,5
+2124,Salsifí,19
+2125,Salvado de trigo,12
+2126,Salvia,7
+2127,Sandia picada,13
+2128,Sandia rebanada,13
+2129,Sándwich Quaker chocolate,11
+2130,Saramuyo,13
+2131,Sardina en aceite,4
+2132,Sardina en tomate,4
 2133,Sast orugas,1
-2134,Selección de botana mexicana,5
-2135,Semilla de anís,6
-2136,Semilla de apio,6
-2137,Semilla de calabaza menuda,5
-2138,Semilla de calabaza,5
-2139,Semilla de cardamomo,6
-2140,Semilla de chía,5
-2141,Semilla de cilantro,6
-2142,Semilla de eneldo,6
-2143,Semilla de girasol tostada,5
-2144,Semilla de girasol,5
-2145,Semilla de guaje verde,16
-2146,Semilla de jinicuil,11
-2147,Semilla de mosraza,6
-2148,Semolina,10
-2149,Semora de maíz preparada,10
-2150,Senzo,9
-2151,Sesos de cerdo cocidos,3
-2152,Sesos de cordero cocidos,3
+2134,Selección de botana mexicana,6
+2135,Semilla de anís,7
+2136,Semilla de apio,7
+2137,Semilla de calabaza,6
+2138,Semilla de calabaza menuda,6
+2139,Semilla de cardamomo,7
+2140,Semilla de chía,6
+2141,Semilla de cilantro,7
+2142,Semilla de eneldo,7
+2143,Semilla de girasol,6
+2144,Semilla de girasol tostada,6
+2145,Semilla de guaje verde,19
+2146,Semilla de jinicuil,13
+2147,Semilla de mosraza,7
+2148,Semolina,12
+2149,Semora de maíz preparada,12
+2150,Senzo,11
+2151,Sesos de cerdo cocidos,4
+2152,Sesos de cordero cocidos,4
 2153,Sesos de res cocidos,2
 2154,Sesos de res crudos,2
 2155,Sesos de res fritos,2
-2156,Sesos de ternera cocidos,3
-2157,Setas cocidas,16
-2158,Setas crudas,16
+2156,Sesos de ternera cocidos,4
+2157,Setas cocidas,19
+2158,Setas crudas,19
 2159,Short loin,3
-2160,Sidra,8
-2161,Sidral de dieta,6
-2162,Sidral light,6
-2163,Sierra ahumada,3
-2164,Sierra fileteada,3
-2165,Sierra picada,3
-2166,Sierra,3
+2160,Sidra,10
+2161,Sidral de dieta,7
+2162,Sidral light,7
+2163,Sierra,4
+2164,Sierra ahumada,3
+2165,Sierra fileteada,4
+2166,Sierra picada,4
 2167,Sirloin,3
-2168,Skwinkes clásicos,7
-2169,Snack mix nabisco 100 Kcal,9
-2170,So be rush,7
-2171,Sopa  instan ramen sin  preparar,10
-2172,Sorgo,10
-2173,Soya cocida,15
-2174,Soya texturizada,15
-2175,Squirt de dieta,6
-2176,Squirt light,6
-2177,Strudel de manzana,9
-2178,Suarero crudo,3
+2168,Skwinkes clásicos,9
+2169,Snack mix nabisco 100 Kcal,11
+2170,So be rush,9
+2171,Sopa  instan ramen sin  preparar,12
+2172,Sorgo,12
+2173,Soya cocida,18
+2174,Soya texturizada,18
+2175,Squirt de dieta,7
+2176,Squirt light,7
+2177,Strudel de manzana,11
+2178,Suarero crudo,4
 2179,Suirimi imitacion camaron,1
 2180,Surimi,1
 2181,Sustituto de huevo en polvo,3
 2182,Sustituto de huevo liquido,3
-2183,Sustituto de queso mozzarella,3
+2183,Sustituto de queso mozzarella,4
 2184,T-bone con grasa cocido,2
 2185,T-bone sin grasa,3
-2186,Tallarin cocido,10
-2187,Tallarin crudo,10
-2188,Tamal de carne,9
-2189,Tamal de elote,9
-2190,Tamal de frijol,9
-2191,Tamal de queso con rajas,9
-2192,Tamal rojo,9
-2193,Tamal verde,9
-2194,Tamarindo (pulpa sin azúcar),11
-2195,Tamarindo pelado,11
-2196,Tamarindo,11
-2197,Tampiqueña de filete,1
-2198,Tampiqueña,1
-2199,Tangerina,11
-2200,Tapioca,10
-2201,Té helado en polvo,7
-2202,Tejocote,11
-2203,Telera,10
-2204,Tequila,8
-2205,Ternera en canal,3
-2206,Ternera,3
-2207,Tocino ahumado,4
-2208,Tocino en lonja,4
-2209,Tocino frito,4
-2210,Tocino imitación,4
-2211,Tocino vegetariano,5
-2212,Tocino,4
+2186,Tallarin cocido,12
+2187,Tallarin crudo,12
+2188,Tamal de carne,11
+2189,Tamal de elote,11
+2190,Tamal de frijol,11
+2191,Tamal de queso con rajas,11
+2192,Tamal rojo,11
+2193,Tamal verde,11
+2194,Tamarindo,13
+2195,Tamarindo (pulpa sin azúcar),13
+2196,Tamarindo pelado,13
+2197,Tampiqueña,1
+2198,Tampiqueña de filete,1
+2199,Tangerina,13
+2200,Tapioca,12
+2201,Té helado en polvo,9
+2202,Tejocote,13
+2203,Telera,12
+2204,Tequila,10
+2205,Ternera,3
+2206,Ternera en canal,3
+2207,Tocino,5
+2208,Tocino ahumado,5
+2209,Tocino en lonja,5
+2210,Tocino frito,5
+2211,Tocino imitación,5
+2212,Tocino vegetariano,6
 2213,Tofu! firme,3
 2214,Tofu! frito,2
-2215,Tomate verde,16
-2216,Tomatitos (tomatiles),16
-2217,Tomillo,6
-2218,Toronja en gajos,11
-2219,Toronja enlatada con jugo,11
-2220,Toronja,11
-2221,Toronjas en almibar,11
-2222,Tortilla de harina integral,9
-2223,Tortilla de harina,9
-2224,Tortilla de maíz amarillo,10
-2225,Tortilla de maíz azul o negro,10
-2226,Tortilla de maíz y soya,10
-2227,Tortilla de maíz y trigo,10
-2228,Tortilla de maíz,10
-2229,Tortilla de mapiz blanco,10
-2230,Tortilla de nopal,10
-2231,Tortilla,10
-2232,Tostada de maíz horneada,10
-2233,Tostada rayada,9
-2234,Tostada tipo jalisco,9
-2235,Tostada,9
-2236,Totopos de maíz,9
-2237,Tpstada de nopal horneada,10
-2238,Trenza glaseada,9
-2239,Tribu (bebida energetica con cafeina),7
-2240,Trigo cocido,10
-2241,Trigo entero,10
-2242,Trigo negro,10
-2243,trigo triturado,10
-2244,Trigo,10
+2215,Tomate verde,19
+2216,Tomatitos (tomatiles),19
+2217,Tomillo,7
+2218,Toronja,13
+2219,Toronja en gajos,13
+2220,Toronja enlatada con jugo,13
+2221,Toronjas en almibar,13
+2222,Tortilla,12
+2223,Tortilla de harina,11
+2224,Tortilla de harina integral,11
+2225,Tortilla de maíz,12
+2226,Tortilla de maíz amarillo,12
+2227,Tortilla de maíz azul o negro,12
+2228,Tortilla de maíz y soya,12
+2229,Tortilla de maíz y trigo,12
+2230,Tortilla de mapiz blanco,12
+2231,Tortilla de nopal,12
+2232,Tostada,11
+2233,Tostada de maíz horneada,12
+2234,Tostada rayada,11
+2235,Tostada tipo jalisco,11
+2236,Totopos de maíz,11
+2237,Tpstada de nopal horneada,12
+2238,Trenza glaseada,11
+2239,Tribu (bebida energetica con cafeina),9
+2240,Trigo,12
+2241,Trigo cocido,12
+2242,Trigo entero,12
+2243,Trigo negro,12
+2244,trigo triturado,12
 2245,Tripas de res,2
-2246,Trucha ahumada,3
-2247,Trucha cocida,3
-2248,Trucha fileteada,3
-2249,Trucha fresca,1
-2250,Trucha,3
-2251,Tuna cardona,11
-2252,Tuna picada,11
-2253,Tuna roja,11
-2254,Tuna,11
+2246,Trucha,3
+2247,Trucha ahumada,3
+2248,Trucha cocida,3
+2249,Trucha fileteada,3
+2250,Trucha fresca,1
+2251,Tuna,13
+2252,Tuna cardona,13
+2253,Tuna picada,13
+2254,Tuna roja,13
 2255,Ubre,2
-2256,Uva blanca,11
-2257,Uva con semilla,11
-2258,Uva roja,11
-2259,Uva sin semilla,11
-2260,Uva verde sin semilla,11
-2261,Uva verde,11
-2262,Uva,11
-2263,Uvas enlatadas en agua,11
-2264,Vainilla en trozo,6
-2265,Vainilla,6
+2256,Uva,13
+2257,Uva blanca,13
+2258,Uva con semilla,13
+2259,Uva roja,13
+2260,Uva sin semilla,13
+2261,Uva verde,13
+2262,Uva verde sin semilla,13
+2263,Uvas enlatadas en agua,13
+2264,Vainilla,7
+2265,Vainilla en trozo,7
 2266,Velveta,2
 2267,Venado cocido    (carne magra),1
 2268,Venado crudo         (carne magra),1
-2269,Verdolaga cocida,16
-2270,Verdolaga cruda limpia,16
-2271,Verdura (mexcla) congelada! cocida sin sal,16
-2272,Vermouth seco,8
-2273,Viangre de manzana,6
-2274,Vinagre balsámico,6
-2275,Vinagre blanco,6
-2276,Vinagre de caña,6
-2277,Vinagre de fruta,6
-2278,Vinagre de jeréz,6
-2279,Vinagre de sidra,6
-2280,Vinagre de vino,6
-2281,Vinagre de yema,6
-2282,Vinagre,6
-2283,Vinagreta baja en calorías,4
-2284,Vinagreta comercial,4
-2285,Vinagreta,4
-2286,Vino (12.2 % alcohol),8
-2287,Vino blanco dulce,8
-2288,Vino blanco seco,8
-2289,Vino de manzana,8
-2290,Vino de meza,8
-2291,Vino espumoso,8
-2292,Vino rosado,8
-2293,Vino tinto,8
-2294,Vitalinea sólido,13
-2295,Vitalinez bebible,13
-2296,Vodka,8
-2297,Wafle con mantequilla,9
-2298,Wafle estilo casero,9
-2299,Wafle integral,9
-2300,Wafle miniatura,9
-2301,Wafle,9
-2302,Whisky,8
-2303,Xoconostle,16
-2304,Xocoyol,11
-2305,Yema de huevo en polvo,2
+2269,Verdolaga cocida,19
+2270,Verdolaga cruda limpia,19
+2271,Verdura (mexcla) congelada! cocida sin sal,19
+2272,Vermouth seco,10
+2273,Viangre de manzana,7
+2274,Vinagre,7
+2275,Vinagre balsámico,7
+2276,Vinagre blanco,7
+2277,Vinagre de caña,7
+2278,Vinagre de fruta,7
+2279,Vinagre de jeréz,7
+2280,Vinagre de sidra,7
+2281,Vinagre de vino,7
+2282,Vinagre de yema,7
+2283,Vinagreta,5
+2284,Vinagreta baja en calorías,5
+2285,Vinagreta comercial,5
+2286,Vino (12.2 % alcohol),10
+2287,Vino blanco dulce,10
+2288,Vino blanco seco,10
+2289,Vino de manzana,10
+2290,Vino de meza,10
+2291,Vino espumoso,10
+2292,Vino rosado,10
+2293,Vino tinto,10
+2294,Vitalinea sólido,15
+2295,Vitalinez bebible,15
+2296,Vodka,10
+2297,Wafle,11
+2298,Wafle con mantequilla,11
+2299,Wafle estilo casero,11
+2300,Wafle integral,11
+2301,Wafle miniatura,11
+2302,Whisky,10
+2303,Xoconostle,19
+2304,Xocoyol,13
+2305,Yema,2
 2306,Yema de huevo,2
-2307,Yema,2
-2308,Yemitas (hongos) crudas,16
-2309,Yerbamora cruda,16
-2310,Yoghur Activia de Ciruela Pasa,12
-2311,Yoghur bajo en grasa,13
-2312,Yoghur bebible sabor  fresa,12
-2313,Yoghur bebible sabor durazno,12
-2314,Yoghur bebible sabor piña colada,12
-2315,Yoghur de café,12
-2316,Yoghur de fruta,12
-2317,Yoghur de soya,12
-2318,Yoghur de vainilla,12
-2319,Yoghur Lala batido,12
-2320,Yoghur Lala batido  (repetido),14
-2321,Yoghur Lala bebible frutas,12
-2322,Yoghur Lala Light batido,13
-2323,Yoghur Lala Light bebible,13
-2324,Yoghur Lala Siluette Plus de fruta,13
-2325,Yoghur Lala Vive con fibra,12
-2326,Yoghur Lala Vive con fibra  (repetido),14
-2327,Yoghur Lala Vive con fribra 0%,13
-2328,Yoghur Lala Vive deslactosada,12
-2329,Yoghur Lala Vive sin colesterol con Menoscol,12
-2330,Yoghur light de fruta,13
-2331,Yoghur light,13
-2332,Yoghur natural,14
-2333,Yoghur para beber con fruta BAJA EN CALORIAS,13
-2334,Yoghur para beber sabor fresa,12
-2335,Yoghur,14
-2336,Yuca,10
-2337,Yuquilla,10
-2338,Zanahoria miniatura cruda,16
-2339,Zanahoria picada cruda,16
-2340,Zanahoria rallada cruda,16
-2341,Zapote amarillo,11
-2342,Zapote blanco,11
-2343,Zapote borracho,11
-2344,Zapote negro limpio,11
-2345,Zapote negro,11
-2346,Zapote,11
-2347,Zarzamora congelada sin azúcar,11
-2348,Zarzamora en almibar,11
-2349,Zarzamora,11
+2307,Yema de huevo en polvo,2
+2308,Yemitas (hongos) crudas,19
+2309,Yerbamora cruda,19
+2310,Yoghur,16
+2311,Yoghur Activia de Ciruela Pasa,14
+2312,Yoghur bajo en grasa,15
+2313,Yoghur bebible sabor  fresa,14
+2314,Yoghur bebible sabor durazno,14
+2315,Yoghur bebible sabor piña colada,14
+2316,Yoghur de café,14
+2317,Yoghur de fruta,14
+2318,Yoghur de soya,14
+2319,Yoghur de vainilla,14
+2320,Yoghur Lala batido - leche con azúcar,14
+2321,Yoghur Lala batido - leche entera,16
+2322,Yoghur Lala bebible frutas,14
+2323,Yoghur Lala Light batido,15
+2324,Yoghur Lala Light bebible,15
+2325,Yoghur Lala Siluette Plus de fruta,15
+2326,Yoghur Lala Vive con fibra - leche con azúcar,14
+2327,Yoghur Lala Vive con fibra - leche entera,16
+2328,Yoghur Lala Vive con fribra 0%,15
+2329,Yoghur Lala Vive deslactosada,14
+2330,Yoghur Lala Vive sin colesterol con Menoscol,14
+2331,Yoghur light,15
+2332,Yoghur light de fruta,15
+2333,Yoghur natural,16
+2334,Yoghur para beber con fruta BAJA EN CALORIAS,15
+2335,Yoghur para beber sabor fresa,14
+2336,Yuca,12
+2337,Yuquilla,12
+2338,Zanahoria miniatura cruda,19
+2339,Zanahoria picada cruda,19
+2340,Zanahoria rallada cruda,19
+2341,Zapote,13
+2342,Zapote amarillo,13
+2343,Zapote blanco,13
+2344,Zapote borracho,13
+2345,Zapote negro,13
+2346,Zapote negro limpio,13
+2347,Zarzamora,13
+2348,Zarzamora congelada sin azúcar,13
+2349,Zarzamora en almibar,13

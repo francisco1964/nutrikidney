@@ -21,19 +21,25 @@ db = SQLAlchemy(app)
 class Grupo(db.Model):
     # id = db.Column(db.Integer, primary_key=True)
     id =  mapped_column(Integer, primary_key=True)
-    nombre = db.Column(db.String(100), primary_key=True)
+    nombre = db.Column(db.String(100), unique=True)
  
 
 class Concepto(db.Model):
     # id = db.Column(db.Integer, primary_key=True)
     id =  mapped_column(Integer, primary_key=True)
-    nombre = db.Column(db.String(100), primary_key=True)
+    nombre = db.Column(db.String(100), unique=True)
+    propiedades = relationship("Propiedad", back_populates="concepto")
 
 class Equivalente(db.Model):
     # id = db.Column(db.Integer, primary_key=True)
     id =  mapped_column(Integer, primary_key=True)
-    nombre = db.Column(db.String(100), primary_key=True)    
+    nombre = db.Column(db.String(100), unique=True)    
     grupo_id = db.Column(db.Integer, db.ForeignKey("grupo.id"), nullable=False)
+    propiedades = relationship("Propiedad", back_populates="equivalente")
+    # posts = relationship("BlogPost", back_populates="author")
+    # author = relationship("User", back_populates="posts", lazy="joined")
+
+
 
 class Propiedad(db.Model):
     __tablename__ = 'propiedades'
@@ -41,8 +47,8 @@ class Propiedad(db.Model):
     equivalente_id = db.Column(db.Integer, db.ForeignKey("equivalente.id"), nullable=False)
     concepto_id = db.Column(db.Integer, db.ForeignKey("concepto.id"), nullable=False)
     valor = db.Column(db.String(10), nullable = False) 
-
-
+    equivalente = relationship("Equivalente", back_populates="propiedades", lazy="joined")
+    concepto = relationship("Concepto", back_populates="propiedades", lazy="joined")
 #Line below only required once, when creating DB. 
 with app.app_context():
     db.create_all()
