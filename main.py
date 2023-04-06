@@ -25,7 +25,6 @@ db = SQLAlchemy(app)
 Bootstrap(app)
 
 
-equivalentes = []
 
 
 @app.route('/')
@@ -36,17 +35,28 @@ def get_all_posts():
 @app.route('/equivalentes', methods = ["GET", "POST"])
 def get_equivalentes():
     form = SearchForm()
-    
+    equivalentes = []
     if form.validate_on_submit():
         with app.app_context():
-            result = db.session.query(Equivalente).filter(Equivalente.nombre.contains(form.texto.data)).all()
-            print(result)
+            print("+++++++++++++++++++++++++++++")
+            equivalentes = db.session.query(Equivalente).filter(Equivalente.nombre.contains(form.texto.data)).all()
+            for equivalente in equivalentes:
+                print(equivalente.nombre, \
+                equivalente.propiedades[0].valor,\
+                equivalente.propiedades[1].valor)
+                for prop in equivalente.propiedades:
+                    # print(prop.concepto.nombre, prop.valor)
+                    pass
+
 
         print(form.texto.data)
 
-    return render_template("equivalentes.html",form=form)
+    return render_template("equivalentes.html",form=form,equivalentes = equivalentes)
 
-
+@app.route("/equivalente/<int:index>", methods=["GET", "POST"] )
+def show_equivalente(index):
+    return (f"Mostrar equivalente: {index}")
+    pass
 
 if __name__ == "__main__":
     # app.run(debug=True,port=5001)
