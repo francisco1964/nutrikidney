@@ -2,7 +2,7 @@ from flask import Flask,g,abort, render_template, redirect, url_for, request, fl
 from flask_bootstrap import Bootstrap
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired, URL
-from forms import SearchForm
+from forms import SearchForm,EditPropiedadForm
 from models import Equivalente,Grupo, Concepto, Propiedad
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import Integer
@@ -61,6 +61,37 @@ def show_equivalente(index):
         return render_template("equivalente.html",equivalente = eq)
     
     return redirect(url_for("get_equivalentes"))
+
+
+@app.route("/edit_equivalente/<int:index>", methods=["GET", "POST"] )
+def edit_equivalente(index):
+    return f"Ediatar equivalente { index} "
+
+
+@app.route("/edit_prop/<int:index>", methods=["GET", "POST"] )
+def edit_prop(index):
+    # return f"Ediatar Propiedad { index} "
+    form = EditPropiedadForm()
+    prop = None
+
+
+    if form.validate_on_submit(): 
+        print(form.texto.data)
+        with app.app_context():
+            prop = db.session.query(Propiedad).filter(Propiedad.id==index).first()  
+            db.session.query(Propiedad).filter(Propiedad.id==index).\
+            update({'valor' : form.texto.data})
+            db.session.commit()
+            return redirect(url_for('show_equivalente',index=prop.equivalente.id))
+
+    with app.app_context():
+        prop = db.session.query(Propiedad).filter(Propiedad.id==index).first()
+        form.texto.data = prop.valor 
+
+
+    return render_template("edit_prop.html",form=form, prop = prop)
+
+
 
 
 if __name__ == "__main__":

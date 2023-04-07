@@ -1,0 +1,19 @@
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block content %}
+{% include "header.html" %}
+<!-- 
+Editar propiedad -->
+<h3>Cambiar el valor para la propiedad <strong>{{ prop.concepto.nombre  }}</strong>
+    del equivalente <strong>{{ prop.equivalente.nombre }}</strong>
+</h3>
+
+{{ wtf.quick_form(form, novalidate=True, button_map={"submit": "primary"}) }}
+
+
+
+
+
+
+{% include "footer.html" %}
+{% endblock %}

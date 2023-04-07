@@ -2,13 +2,19 @@
 
 {% include "header.html" %}
 
-<h3>{{ equivalente.nombre }}</h3>
+
+<h3>{{ equivalente.nombre }}
+    <a class="btn btn-primary float-right" href="{{url_for('edit_equivalente', index=equivalente.id )}}">Editar</a>
+</h3>
 <ul>
 
     {% for prop in equivalente.propiedades %}
     <div>
-        <span>{{prop.concepto.nombre}}: </span>
-        <span>{{prop.valor}}</span>
+        <a href="{{url_for('edit_prop', index=prop.id )}}">
+            <span>{{prop.concepto.nombre}}: </span>
+            <span>{{prop.valor}}</span>
+            <!-- <a class="btn btn-primary" href="{{url_for('edit_prop', index=prop.id )}}">Editar</a> -->
+        </a>
     </div>
 
     {% endfor %}
