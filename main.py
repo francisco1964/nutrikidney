@@ -2,7 +2,7 @@ from flask import Flask,g,abort, render_template, redirect, url_for, request, fl
 from flask_bootstrap import Bootstrap
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired, URL
-from forms import SearchForm,EditPropiedadForm
+from forms import SearchForm,EditPropiedadForm, NewEquivalenteForm
 from models import Equivalente,Grupo, Concepto, Propiedad
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import Integer
@@ -24,7 +24,7 @@ db = SQLAlchemy(app)
 
 Bootstrap(app)
 
-
+link_nuevo = None
 
 
 @app.route('/')
@@ -34,6 +34,7 @@ def get_all_posts():
 
 @app.route('/equivalentes', methods = ["GET", "POST"])
 def get_equivalentes():
+    link_nuevo = url_for("nuevo_equivalente")
     form = SearchForm()
     equivalentes = []
     if form.validate_on_submit():
@@ -51,14 +52,17 @@ def get_equivalentes():
 
         print(form.texto.data)
 
-    return render_template("equivalentes.html",form=form,equivalentes = equivalentes)
+    return render_template("equivalentes.html",form=form, \
+                           equivalentes = equivalentes,\
+                            nuevo = link_nuevo)
 
 @app.route("/equivalente/<int:index>", methods=["GET", "POST"] )
 def show_equivalente(index):
+    link_nuevo = url_for("nuevo_equivalente")
     eq = None
     with app.app_context():
         eq = db.session.query(Equivalente).filter(Equivalente.id==index).first()
-        return render_template("equivalente.html",equivalente = eq)
+        return render_template("equivalente.html",equivalente = eq, nuevo=link_nuevo)
     
     return redirect(url_for("get_equivalentes"))
 
@@ -93,6 +97,47 @@ def edit_prop(index):
 
 
 
+
+@app.route("/nuevo_equivalente", methods = ["GET","POST"] )
+def nuevo_equivalente():
+    # return "Nuevo Equivalente"
+    link_nuevo = url_for("nuevo_equivalente")
+    form = NewEquivalenteForm()
+
+    if form.validate_on_submit():
+        print(form.grupo.data) 
+        grupo_id = form.grupo.data
+        new_equivalente = Equivalente(grupo_id = form.grupo.data,\
+                                      nombre = form.nombre.data)
+        
+        conceptos = db.session.query(Concepto)\
+        .join(Propiedad)\
+        .join(Equivalente)\
+        .join(Grupo).filter(Grupo.id == form.grupo.data).distinct().all()
+        # print("Coonceptos:")
+        # print(conceptos)
+        propiedades = [Propiedad(concepto_id = c.id,valor="N.D.") for c in conceptos]
+        for p in propiedades:
+            new_equivalente.propiedades.append(p)
+        db.session.add(new_equivalente)
+        for p in propiedades:
+            db.session.add(p)
+        
+        db.session.commit()
+        id = new_equivalente.id
+        print(f"El id es {id}")
+
+        # with app.app_context():
+            # prop = db.session.query(Propiedad).filter(Propiedad.id==index).first()
+            # form.texto.data = prop.valor 
+            # db.session.add(new_equivalente)
+        return redirect(url_for('show_equivalente',index=id))
+
+    with app.app_context():
+        grupos = db.session.query(Grupo).all()
+        form.grupo.choices=[(g.id, g.nombre) for g in grupos ]       
+
+    return render_template("nuevo_equivalente.html",form=form, nuevo = link_nuevo)
 
 if __name__ == "__main__":
     # app.run(debug=True,port=5001)
