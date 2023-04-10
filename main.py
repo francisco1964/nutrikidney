@@ -109,7 +109,8 @@ def nuevo_equivalente():
         grupo_id = form.grupo.data
         new_equivalente = Equivalente(grupo_id = form.grupo.data,\
                                       nombre = form.nombre.data)
-        
+        # IMPORTANTE:se supone que se ha cargado la base con al menos
+        # un equivalente de cada grupo, con todo y sus propiedades.
         conceptos = db.session.query(Concepto)\
         .join(Propiedad)\
         .join(Equivalente)\
@@ -138,6 +139,24 @@ def nuevo_equivalente():
         form.grupo.choices=[(g.id, g.nombre) for g in grupos ]       
 
     return render_template("nuevo_equivalente.html",form=form, nuevo = link_nuevo)
+
+# delete_equivalente
+
+# delete_equivalente
+@app.route("/delete_equivalente/<int:index>", methods=["GET", "POST"] )
+def delete_equivalente(index):
+    # return f"Ediatar Propiedad { index} "
+    link_nuevo = url_for("nuevo_equivalente")
+    propiedades = db.session.query(Propiedad).filter(Propiedad.equivalente_id == index).all()
+    for p in propiedades:
+        db.session.delete(p)
+    eq = \
+    db.session.query(Equivalente).filter(Equivalente.id == index).first()
+    db.session.delete(eq)
+    db.session.commit()
+
+    return redirect(url_for('get_equivalentes',nuevo=link_nuevo))
+
 
 if __name__ == "__main__":
     # app.run(debug=True,port=5001)
