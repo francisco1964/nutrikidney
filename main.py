@@ -146,7 +146,6 @@ def nuevo_equivalente():
 @app.route("/delete_equivalente/<int:index>", methods=["GET", "POST"] )
 def delete_equivalente(index):
     # return f"Ediatar Propiedad { index} "
-    link_nuevo = url_for("nuevo_equivalente")
     propiedades = db.session.query(Propiedad).filter(Propiedad.equivalente_id == index).all()
     for p in propiedades:
         db.session.delete(p)
@@ -155,7 +154,7 @@ def delete_equivalente(index):
     db.session.delete(eq)
     db.session.commit()
 
-    return redirect(url_for('get_equivalentes',nuevo=link_nuevo))
+    return redirect(url_for('get_equivalentes'))
 
 
 if __name__ == "__main__":
