@@ -4,16 +4,15 @@
 
 
 <h3>{{ equivalente.nombre }}
-    <a class="btn btn-primary" href="{{url_for('delete_equivalente', index=equivalente.id )}}">Eliminar</a>
+    <a class="btn btn-primary" href="{{url_for('equivalentes.delete_equivalente', index=equivalente.id )}}">Eliminar</a>
 </h3>
 <ul>
 
     {% for prop in equivalente.propiedades %}
     <div>
-        <a href="{{url_for('edit_prop', index=prop.id )}}">
+        <a href="{{url_for('equivalentes.edit_prop', index=prop.id )}}">
             <span>{{prop.concepto.nombre}}: </span>
             <span>{{prop.valor}}</span>
-            <!-- <a class="btn btn-primary" href="{{url_for('edit_prop', index=prop.id )}}">Editar</a> -->
         </a>
     </div>
 
