@@ -23,7 +23,9 @@ def create_app(config_class=Config):
 
     from app.equivalentes import bp as equivalentes_bp
     app.register_blueprint(equivalentes_bp, url_prefix="/equivalentes")
-	
+
+    from app.recetas import bp as recetas_bp
+    app.register_blueprint(recetas_bp, url_prefix="/recetas")	
     # from app.questions import bp as questions_bp
     # app.register_blueprint(questions_bp, url_prefix='/questions')
 

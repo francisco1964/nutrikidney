@@ -1,0 +1,23 @@
+{% import "bootstrap/wtf.html" as wtf %}
+
+
+{% block content %}
+
+{% include "header.html" %}
+
+{{ wtf.quick_form(form, novalidate=True, button_map={"submit": "primary"}) }}
+<ul>
+    {% for receta in recetas %}
+    <li>
+        <a href="{{ url_for('recetas.show_receta', index=receta.id) }}"> 
+            {{ receta.nombre }}</a>,{{ receta.propiedades[0].valor }},
+              {{ receta.propiedades[1].valor }}
+    </li>
+
+    {% endfor %}
+
+</ul>
+
+
+{% include "footer.html" %}
+{% endblock %}

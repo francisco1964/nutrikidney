@@ -16,7 +16,7 @@
 
 from flask import render_template, url_for, redirect
 from app.equivalentes import bp
-from forms import SearchForm, NewEquivalenteForm, EditPropiedadForm
+from app.equivalentes.forms import SearchForm, NewEquivalenteForm, EditPropiedadForm
 
 from app.extensions import db
 from app.models.equivalente import Equivalente
