@@ -1,3 +1,7 @@
 from flask_sqlalchemy import SQLAlchemy
-db = SQLAlchemy()
+from flask_ckeditor import CKEditor
 
+
+db = SQLAlchemy()
+ckeditor = CKEditor()    
+    

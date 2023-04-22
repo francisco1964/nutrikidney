@@ -1,7 +1,7 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField, SubmitField, PasswordField, SelectField
+from wtforms import StringField, SubmitField,FloatField, SelectField
 from wtforms.validators import DataRequired, URL, email_validator
-
+from flask_ckeditor import CKEditorField
 
 class SearchForm(FlaskForm):
     texto = StringField("Texto", validators=[DataRequired()])
@@ -10,7 +10,9 @@ class SearchForm(FlaskForm):
 
 class NewRecetaForm(FlaskForm):
     nombre = StringField("Nombre", validators=[DataRequired()])
-    grupo = SelectField('Grupo', coerce=int,choices = [],  validate_choice=False)
+    rendimiento = FloatField('Cantidad resultante', validators=[DataRequired()])
+    unidad = SelectField('Unidades de Medida', coerce=int,choices = [],  validate_choice=False)
+    indicaciones =  CKEditorField("Indicaciones", validators=[DataRequired()])
     submit = SubmitField("CREAR")
 
 

@@ -1,22 +1,25 @@
 from flask import Flask
 from flask_bootstrap import Bootstrap
+from flask_ckeditor import CKEditor
 
 
 from config import Config
-from app.extensions import db
+from app.extensions import db, ckeditor
 
 
 def create_app(config_class=Config):
     app = Flask(__name__)
     app.config.from_object(config_class)
-
+    
+    # ckeditor = CKEditor(app)    
+       
 
     Bootstrap(app)
 
     # Initialize Flask extensions here
 
     db.init_app(app)	
-    
+    ckeditor.init_app(app) 
     # Register blueprints here
     from app.main import  bp as main_bp
     app.register_blueprint(main_bp)
