@@ -1,0 +1,26 @@
+
+
+{% include "header.html" %}
+
+
+<h3>{{ receta.nombre }}
+    <a class="btn btn-primary" href="url_for('recetas.delete_receta', index=receta.id )">Eliminar</a>
+</h3>
+<ul>
+
+    <div>Rendimiento: {{ receta.rendimiento }}</div>
+    <div>Unidad de medida: {{ receta.unidad }}</div>
+    {% for ingrediente in receta.ingredientes %}
+    <!-- <div>
+        <a href="url_for('recetas.edit_ingrediente', index=prop.id )">
+            <span>{{ingrediente.concepto.nombre}}: </span>
+            <span>{{ingrediente.valor}}</span>
+        </a>
+    </div> -->
+
+    {% endfor %}
+
+</ul>
+
+
+{% include "footer.html" %}

@@ -10,8 +10,7 @@
     {% for receta in recetas %}
     <li>
         <a href="{{ url_for('recetas.show_receta', index=receta.id) }}"> 
-            {{ receta.nombre }}</a>,{{ receta.propiedades[0].valor }},
-              {{ receta.propiedades[1].valor }}
+            {{ receta.nombre }}</a>,{{ receta.rendimiento }}, {{ receta.unidad }}
     </li>
 
     {% endfor %}

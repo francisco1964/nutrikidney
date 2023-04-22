@@ -11,7 +11,7 @@ class SearchForm(FlaskForm):
 class NewRecetaForm(FlaskForm):
     nombre = StringField("Nombre", validators=[DataRequired()])
     rendimiento = FloatField('Cantidad resultante', validators=[DataRequired()])
-    unidad = SelectField('Unidades de Medida', coerce=int,choices = [],  validate_choice=False)
+    unidad = SelectField('Unidades de Medida', choices = [], validate_choice=False)
     indicaciones =  CKEditorField("Indicaciones", validators=[DataRequired()])
     submit = SubmitField("CREAR")
 
