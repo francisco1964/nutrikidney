@@ -9,7 +9,7 @@ from app.extensions import db
 from app.models.propiedad import Propiedad
 # from app.models.concepto import Concepto
 # from app.models.grupo import Grupo
-from app.models.receta import Receta
+from app.models.receta import Receta, Ingrediente
 
 @bp.route('/',methods = ["GET","POST"])
 def index():
@@ -69,3 +69,14 @@ def show_receta(index):
     return render_template("recetas/receta.html",receta = rcta, nuevo=link_nuevo)
     # return redirect(url_for("recetas.get_recetas"))
 
+@bp.route("/delete_ingrediente/<int:index>", methods=["GET", "POST"])
+def delete_ingrediente(index):
+    # return f"Ediatar Propiedad { index} "
+
+    ingrediente = \
+        db.session.query(Ingrediente).filter(Ingrediente.id == index).first()
+    receta_id = ingrediente.receta_id
+    db.session.delete(ingrediente)
+    db.session.commit()
+
+    return redirect(url_for('recetas.show_receta',index = receta_id))

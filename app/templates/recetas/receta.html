@@ -10,12 +10,19 @@
 
     <div>Rendimiento: {{ receta.rendimiento }}</div>
     <div>Unidad de medida: {{ receta.unidad }}</div>
-    {% for ingrediente in receta.ingredientes %}
     <div>
+        <h3>Ingredientes:</h3><a class="btn btn-primary" href="url_for('recetas.agregar_ingrediente' )">Agregar</a>
+    </div>
+
+    {% for ingrediente in receta.ingredientes %}
+
+    <div>
+        
         <a href="url_for('recetas.edit_ingrediente', index=prop.id )">
             <span>{{ingrediente.equivalente.nombre}}, </span>
             <span>{{ingrediente.cantidad}}, </span>
             <span>{{ingrediente.equivalente.propiedades[1].valor}}</span>
+            <a class="btn btn-primary" href="{{ url_for('recetas.delete_ingrediente', index=ingrediente.id ) }}">Eliminar</a>
         </a>
     </div>
 

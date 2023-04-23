@@ -34,8 +34,6 @@ class Ingrediente(db.Model):
     equivalente = relationship("Equivalente", lazy="joined")
     componente_id : Mapped[Optional[int]] = mapped_column(ForeignKey("receta.id"))
     componente = relationship("Receta", foreign_keys=[componente_id], lazy="joined")
-    # equivalente = relationship("Equivalente", back_populates="propiedades", lazy="joined")
-    # propiedades = relationship("Propiedad", back_populates="equivalente")
 
     def __repr__(self):
         if self.componente != None:
