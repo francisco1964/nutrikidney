@@ -15,4 +15,4 @@ class Propiedad(db.Model):
     concepto = relationship("Concepto", back_populates="propiedades", lazy="joined")
 
     def __repr__(self):
-        return f'<Propiedad "{self.nombre}">'
+        return f'<Propiedad "{self.valor}">'
