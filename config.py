@@ -2,7 +2,7 @@ import os
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 
-
+#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
 class Config:
     # SECRET_KEY = os.environ.get('SECRET_KEY')
     SECRET_KEY = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
