@@ -16,3 +16,9 @@ class NewRecetaForm(FlaskForm):
     submit = SubmitField("CREAR")
 
 
+class NewIngredienteForm(FlaskForm):
+    cantidad = FloatField('Cantidad a agregar', validators=[DataRequired()])
+    ingrediente = SelectField('Ingrediente', coerce=int,choices = [],  validate_choice=False)
+    submit = SubmitField("AGREGAR")
+
+

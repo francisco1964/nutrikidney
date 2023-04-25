@@ -1,13 +1,13 @@
 
 from flask import render_template, url_for, redirect
 from app.recetas import bp
-from app.recetas.forms import SearchForm, NewRecetaForm
+from app.recetas.forms import SearchForm, NewRecetaForm, NewIngredienteForm
 
 
 from app.extensions import db
 # from app.models.receta import Receta
 from app.models.propiedad import Propiedad
-# from app.models.concepto import Concepto
+from app.models.equivalente import Equivalente
 # from app.models.grupo import Grupo
 from app.models.receta import Receta, Ingrediente
 
@@ -42,9 +42,10 @@ def nuevo_receta():
                               unidad = form.unidad.data,\
                               indicaciones = form.indicaciones.data)
         print(form.unidad.data)
-        db.session.add(nueva_receta)
+        db.session.add(nueva_receta)    
         db.session.commit()
-        return redirect(url_for('recetas.show_receta',index=id))
+        print(nueva_receta.id)
+        return redirect(url_for('recetas.show_receta',index=nueva_receta.id))
 
     # with bp.app_context():
     # grupos = db.session.query(Grupo).all()
@@ -57,7 +58,7 @@ def nuevo_receta():
 
 
 
-@bp.route("/receta/<int:index>", methods=["GET", "POST"] )
+@bp.route("/receta/<index>", methods=["GET", "POST"] )
 def show_receta(index):
     link_nuevo = url_for("recetas.nuevo_receta")
     rcta = None
@@ -80,3 +81,40 @@ def delete_ingrediente(index):
     db.session.commit()
 
     return redirect(url_for('recetas.show_receta',index = receta_id))
+
+@bp.route("/nuevo_ingrediente/<index>/<is_equivalente>", methods = ["GET","POST"] )
+def nuevo_ingrediente(index,is_equivalente):
+    # return "Nuevo Receta"
+    link_nuevo = url_for("recetas.nuevo_receta")
+    form = NewIngredienteForm()
+
+    if form.validate_on_submit():
+        pass
+        ing = None
+        eq = None
+        if is_equivalente == "1":
+            eq = form.ingrediente.data
+        else:
+            ing = form.ingrediente.data
+        nuevo_ingrediente = Ingrediente(receta_id = index,\
+                                        cantidad = form.cantidad.data,\
+                                        componente_id=ing,\
+                                        equivalente_id = eq)        
+        db.session.add(nuevo_ingrediente)
+        db.session.commit()
+        return redirect(url_for("recetas.show_receta",index=index))
+
+        # return redirect(url_for('recetas.show_receta',index=index))
+
+    # with bp.app_context():
+    # grupos = db.session.query(Grupo).all()
+    # unidades = Propiedad.query.filter(Propiedad.concepto_id==2).distinct()
+    if is_equivalente == "1":
+        equivs = Equivalente.query.all()
+        form.ingrediente.choices = [(e.id, f"{e.nombre}({ e.propiedades[1].valor })") for e in equivs]
+    else:
+        rcts = Receta.query.all()
+        form.ingrediente.choices = [(r.id, f"{r.nombre}({ r.unidad })") for r in rcts]
+
+    return render_template("recetas/nuevo_receta.html",form=form, nuevo = link_nuevo)
+
