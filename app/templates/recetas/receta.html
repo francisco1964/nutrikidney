@@ -4,7 +4,7 @@
 
 
 <h3>{{ receta.nombre }}
-    <a class="btn btn-primary" href="url_for('recetas.delete_receta', index=receta.id )">Eliminar</a>
+    <a class="btn btn-primary" href="{{ url_for('recetas.delete_receta', index=receta.id ) }}">Eliminar</a>
 </h3>
 <ul>
 
@@ -22,7 +22,7 @@
 
     <div>
         
-        <a href="url_for('recetas.edit_ingrediente', index=prop.id )">
+        <a href="{{ url_for('recetas.edit_ingrediente', index=ingrediente.id ) }}">
             <span>{{ingrediente.equivalente.nombre}}, </span>
             <span>{{ingrediente.cantidad}}, </span>
             <span>{{ingrediente.equivalente.propiedades[1].valor}}</span>

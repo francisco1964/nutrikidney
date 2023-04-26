@@ -108,6 +108,7 @@ def nuevo_ingrediente(index,is_equivalente):
 
     # with bp.app_context():
     # grupos = db.session.query(Grupo).all()
+
     # unidades = Propiedad.query.filter(Propiedad.concepto_id==2).distinct()
     if is_equivalente == "1":
         equivs = Equivalente.query.all()
@@ -117,4 +118,75 @@ def nuevo_ingrediente(index,is_equivalente):
         form.ingrediente.choices = [(r.id, f"{r.nombre}({ r.unidad })") for r in rcts]
 
     return render_template("recetas/nuevo_receta.html",form=form, nuevo = link_nuevo)
+
+@bp.route("/edit_ingrediente/<index>", methods = ["GET","POST"] )
+def edit_ingrediente(index):
+    # return "Nuevo Receta"
+    link_nuevo = url_for("recetas.nuevo_receta")
+    form = NewIngredienteForm()
+
+    ingrediente = Ingrediente.query.filter(Ingrediente.id == index).first()
+    
+    is_equivalente = "1"
+
+
+    if ingrediente.equivalente == None:
+        is_equivalente = "0"
+
+    if form.validate_on_submit():
+        pass
+        ing = None
+        eq = None
+
+
+        if is_equivalente == "1":
+            eq = form.ingrediente.data
+        else:
+            ing = form.ingrediente.data
+        # db.session.add(nuevo_ingrediente)
+        # db.session.commit()
+
+        db.session.query(Ingrediente).filter(Ingrediente.id == index).\
+            update({'cantidad' : form.cantidad.data,\
+                    'equivalente_id': eq,\
+                        'componente_id': ing})
+
+        db.session.commit()
+        index = ingrediente.receta_id 
+        return redirect(url_for("recetas.show_receta",index=index))
+
+        # return redirect(url_for('recetas.show_receta',index=index))
+
+    # with bp.app_context():
+    # grupos = db.session.query(Grupo).all()
+    # unidades = Propiedad.query.filter(Propiedad.concepto_id==2).distinct()
+    form.cantidad.data = ingrediente.cantidad
+
+    if is_equivalente == "1":
+        equivs = Equivalente.query.all()
+        form.ingrediente.choices = [(e.id, f"{e.nombre}({ e.propiedades[1].valor })") for e in equivs]
+        form.ingrediente.data = ingrediente.equivalente_id
+    else:
+        rcts = Receta.query.all()
+        form.ingrediente.choices = [(r.id, f"{r.nombre}({ r.unidad })") for r in rcts]
+        form.ingrediente.data = ingrediente.componente_id
+    return render_template("recetas/nuevo_receta.html",form=form, nuevo = link_nuevo)
+
+
+
+
+@bp.route("/delete_receta/<int:index>", methods=["GET", "POST"])
+def delete_receta(index):
+    # return f"Ediatar Propiedad { index} "
+    as_ingredient = db.session.query(Ingrediente).filter(
+        Ingrediente.componente_id == index).all()
+    for i in as_ingredient:
+        db.session.delete(i)
+    rcta = \
+        db.session.query(Receta).filter(Receta.id == index).first()
+    db.session.delete(rcta)
+    db.session.commit()
+
+    return redirect(url_for('recetas.index'))
+
 
